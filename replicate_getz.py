@@ -10,22 +10,35 @@ rule_list = [
     "AXYC", "AXY", "XYB", "AC", "BC",
     "AYBC", "AYB", "YBC", "XY"
 ]
-# close_class = ['a', 'the', 'one', 'my', 'your', 'this']
+close_class = ['a', 'the', 'one', 'my', 'your', 'this', 'an', 'her', 'his', 'dank']
 vocab_source = ['vocab/grammar41_y_vocab.txt', 'data_gen/english/mostly-verbs-infinitive.txt',
                 'data_gen/english/mostly-verbs-infinitive.txt', 'data_gen/english/english-trans.txt']
 open_class_vocab = list(set([y.strip() for x in vocab_source for y in Path(x).read_text().strip().split('\n') if y!='' and y.strip() not in '1234567890']))
-# open_class_vocab = [x.split()[0] for x in open_class_vocab if x not in close_class]
-a = random.sample(open_class_vocab, 500)
-open_class = random.sample([x for x in open_class_vocab if x not in a], 500)
+open_class_vocab = [x.split()[0] for x in open_class_vocab if x not in close_class]
+a = random.sample(open_class_vocab, 200)
+open_class = random.sample([x for x in open_class_vocab if x not in a], 200)
 
-b = random.sample([x for x in open_class_vocab if x not in a+open_class], 500)
+b = random.sample([x for x in open_class_vocab if x not in a+open_class], 200)
 print(len([x for x in open_class_vocab if x not in a+open_class+b]))
-c = random.sample([x for x in open_class_vocab if x not in a+open_class+b], 500)
-close_class = random.sample([x for x in open_class_vocab if x not in a+b+c+open_class], 10)
-# print(close_class)
-GRAMMAR_NAME='fakegrammarexp2'
-with open(f'vocab/{GRAMMAR_NAME}_vocab.txt', 'w') as v:
+c = random.sample([x for x in open_class_vocab if x not in a+open_class+b], 200)
+# close_class = random.sample([x for x in open_class_vocab if x not in a+b+c+open_class], 10)
+
+
+GRAMMAR_NAME='fakegrammarexp1'
+
+with open(f'vocab/{GRAMMAR_NAME}_vocaba.txt', 'w') as avocab, open(f'vocab/{GRAMMAR_NAME}_vocaby', 'w') as openc_vocab:
+    to_a = '\n'.join(a)
+    to_o = '\n'.join(open_class)
+    avocab.write(to_a)
+    openc_vocab.write(to_o)
+
+
+with open(f'vocab/{GRAMMAR_NAME}_vocab.txt', 'w') as v, open(f'vocab/{GRAMMAR_NAME}_vocab_close.txt', 'w') as cv:
     to_wr = '\n'.join(a+b+c+open_class)
+    to_cv = '\n'.join(close_class)
+    v.write(to_wr)
+    cv.write(to_cv)
+
 
 Path(f'data_gen/{GRAMMAR_NAME}/{GRAMMAR_NAME}').mkdir(parents=True, exist_ok=True)
 Path(f'data_gen/{GRAMMAR_NAME}_permutation/{GRAMMAR_NAME}_permutation').mkdir(parents=True, exist_ok=True)
