@@ -89,18 +89,18 @@ if __name__ == '__main__':
         CLOSEDCLASS = ['on', 'at', 'in', 'over', 'from', 'an', 'a', 'the', 'my', 'one', '-ed', '-s']
     elif 'fakegrammarexp1' in rand_seed or 'fakegrammarexp3' in rand_seed:
         CLOSEDCLASS = ['a', 'the', 'one', 'my', 'your', 'this', 'an', 'her', 'his', 'dank']
-    elif 'fakegrammarexp3' in rand_seed:
-        CLOSEDCLASS = ['spume', 'market', 'eulogise', 'encircle', 'deepen', 'sand', 'undermine', 'vary', 'bottle up', 'endure']
+    elif 'fakegrammarexp2' in rand_seed:
+        CLOSEDCLASS = Path('vocab/fakegrammarexp2_vocab_close.txt').read_text().strip().split('\n')
 
 
 
     grammar = args.grammar
     for i in range(1):
         index = str(i)
-        base_grammar_correct = f'data_gen/{grammar}/{grammar}/correct_{index}.tst'
-        base_grammar_incorrect = f'data_gen/{grammar}/{grammar}/incorrect_{index}.tst'
-        permute_grammar_correct = f'data_gen/{grammar}_permutation/{grammar}_permutation/correct_{index}.tst'
-        permute_grammar_incorrect = f'data_gen/{grammar}_permutation/{grammar}_permutation/incorrect_{index}.tst'
+        base_grammar_correct = f'data_gen/{grammar}/{grammar}/correct1_{index}.tst'
+        base_grammar_incorrect = f'data_gen/{grammar}/{grammar}/incorrect1_{index}.tst'
+        permute_grammar_correct = f'data_gen/{grammar}_permutation/{grammar}_permutation/correct1_{index}.tst'
+        permute_grammar_incorrect = f'data_gen/{grammar}_permutation/{grammar}_permutation/incorrect1_{index}.tst'
         permutations = [x for x in Path(f'data_gen/{grammar}/{grammar}/{index}.trn').read_text().strip().split('\n')]
         original = [x for x in Path(f'data_gen/{grammar}_permutation/{grammar}_permutation/{index}.trn').read_text().strip().split('\n')]
         check_vocab_size(permutations, original)

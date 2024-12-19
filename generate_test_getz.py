@@ -2,10 +2,16 @@ from pathlib import Path
 from collections import Counter
 import random
 from tqdm import tqdm
-vocaba = Path('vocab/fakegrammarexp1_vocaba.txt').read_text().strip().split('\n')
-vocab_open = Path('vocab/fakegrammarexp1_vocaby.txt').read_text().strip().split('\n')
-vocab_close = close_class = ['a', 'the', 'one', 'my', 'your', 'this', 'an', 'her', 'his', 'dank']
 
+from replicate_getz import vocab
+
+vocaba = Path('vocab/fakegrammarexp1_vocaba.txt').read_text().strip().split('\n')
+vocab_open_exp1 = Path('vocab/fakegrammarexp1_vocaby.txt').read_text().strip().split('\n')
+vocab_open_exp2 = Path('vocab/fakegrammarexp2_vocaby.txt').read_text().strip().split('\n')
+vocab_open_exp3 = Path('vocab/fakegrammarexp3_vocaby.txt').read_text().strip().split('\n')
+
+vocab_close = ['a', 'the', 'one', 'my', 'your', 'this', 'an', 'her', 'his', 'dank']
+vocab_close_longer = Path('vocab/fakegrammarexp2_vocab_close.txt').read_text().strip().split('\n')
 
 def get_bigrams(sents):
     bigrams = [b for l in sents for b in zip(l.split(" ")[1:-1], l.split(" ")[2:])]
@@ -53,10 +59,21 @@ def write_test_examples(grammar_folder, permutation=False):
         with open(f'{grammar_folder}/correct_{str(i)}.tst', 'w') as c, open(f'{grammar_folder}/incorrect_{str(i)}.tst', 'w') as inc:
             sents = Path(f'{grammar_folder}/{str(i)}.trn').read_text().strip().split('\n')
             bigrams = get_bigrams(sents)
+            if 'exp1' in grammar_folder:
+                vocab_close_class = vocab_close
+                vocab_open_class = vocab_open_exp1
+            elif 'exp2' in grammar_folder:
+                vocab_close_class = vocab_close_longer
+                vocab_open_class = vocab_open_exp2
+            elif 'exp3' in grammar_folder:
+                vocab_close_class = vocab_close
+                vocab_open_class = vocab_open_exp3
+
+
             if permutation:
-                overlap, sorted_x, sorted_y = get_freq(bigrams, vocab_open, vocab_close)
+                overlap, sorted_x, sorted_y = get_freq(bigrams, vocab_open_class, vocab_close_class)
             else:
-                overlap, sorted_x, sorted_y = get_freq(bigrams, vocab_close, vocab_open)
+                overlap, sorted_x, sorted_y = get_freq(bigrams, vocab_close_class, vocab_open_class)
 
             correct, incorrect = get_overlap(overlap, sorted_x, sorted_y)
             random.shuffle(correct)
@@ -71,7 +88,11 @@ def write_test_examples(grammar_folder, permutation=False):
 write_test_examples('data_gen/fakegrammarexp1/fakegrammarexp1', False)
 write_test_examples('data_gen/fakegrammarexp1_permutation/fakegrammarexp1_permutation', True)
 
+write_test_examples('data_gen/fakegrammarexp2/fakegrammarexp2', False)
+write_test_examples('data_gen/fakegrammarexp2_permutation/fakegrammarexp2_permutation', True)
 
+write_test_examples('data_gen/fakegrammarexp3/fakegrammarexp3', False)
+write_test_examples('data_gen/fakegrammarexp3_permutation/fakegrammarexp3_permutation', True)
 
 
 

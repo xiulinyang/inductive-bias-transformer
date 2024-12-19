@@ -13,20 +13,21 @@ rule_list = [
 close_class = ['a', 'the', 'one', 'my', 'your', 'this', 'an', 'her', 'his', 'dank']
 vocab_source = ['vocab/grammar41_y_vocab.txt', 'data_gen/english/mostly-verbs-infinitive.txt',
                 'data_gen/english/mostly-verbs-infinitive.txt', 'data_gen/english/english-trans.txt']
-open_class_vocab = list(set([y.strip() for x in vocab_source for y in Path(x).read_text().strip().split('\n') if y!='' and y.strip() not in '1234567890']))
+open_class_vocab = list(set([y.split()[0].strip() for x in vocab_source for y in Path(x).read_text().strip().split('\n') if y!='' and y.strip() not in '1234567890']))
 open_class_vocab = [x.split()[0] for x in open_class_vocab if x not in close_class]
+
 a = random.sample(open_class_vocab, 200)
 open_class = random.sample([x for x in open_class_vocab if x not in a], 200)
 
 b = random.sample([x for x in open_class_vocab if x not in a+open_class], 200)
 print(len([x for x in open_class_vocab if x not in a+open_class+b]))
 c = random.sample([x for x in open_class_vocab if x not in a+open_class+b], 200)
-# close_class = random.sample([x for x in open_class_vocab if x not in a+b+c+open_class], 10)
+# close_class = random.sample([x for x in open_class_vocab if x not in a+b+c+open_class and len(x)>10], 10)
 
 
-GRAMMAR_NAME='fakegrammarexp1'
+GRAMMAR_NAME='fakegrammarexp3'
 
-with open(f'vocab/{GRAMMAR_NAME}_vocaba.txt', 'w') as avocab, open(f'vocab/{GRAMMAR_NAME}_vocaby', 'w') as openc_vocab:
+with open(f'vocab/{GRAMMAR_NAME}_vocaba.txt', 'w') as avocab, open(f'vocab/{GRAMMAR_NAME}_vocaby.txt', 'w') as openc_vocab:
     to_a = '\n'.join(a)
     to_o = '\n'.join(open_class)
     avocab.write(to_a)
