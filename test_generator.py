@@ -6,7 +6,7 @@ import argparse
 
 
 def get_bigrams(sents):
-    bigrams = [b for l in sents for b in zip(l.split(" ")[1:-1], l.split(" ")[2:])]
+    bigrams = [b for l in sents for b in zip(l.split(" ")[0:-1], l.split(" ")[1:])]
     bigram_perm = ['_'.join(list(x)) for x in bigrams]
     return bigram_perm
 

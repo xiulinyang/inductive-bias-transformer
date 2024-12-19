@@ -1,5 +1,3 @@
-from asyncore import close_all
-from fileinput import close
 from pathlib import Path
 import random
 import re
@@ -18,9 +16,7 @@ open_class_vocab = [x.split()[0] for x in open_class_vocab if x not in close_cla
 
 a = random.sample(open_class_vocab, 200)
 open_class = random.sample([x for x in open_class_vocab if x not in a], 200)
-
 b = random.sample([x for x in open_class_vocab if x not in a+open_class], 200)
-print(len([x for x in open_class_vocab if x not in a+open_class+b]))
 c = random.sample([x for x in open_class_vocab if x not in a+open_class+b], 200)
 # close_class = random.sample([x for x in open_class_vocab if x not in a+b+c+open_class and len(x)>10], 10)
 
@@ -50,17 +46,22 @@ for n in range(10):
         open(f'data_gen/{GRAMMAR_NAME}/{GRAMMAR_NAME}/{n}.dev', 'w') as dev,
         open(f'data_gen/{GRAMMAR_NAME}_permutation/{GRAMMAR_NAME}_permutation/{n}.dev', 'w') as perm_dev,
         open(f'data_gen/{GRAMMAR_NAME}/{GRAMMAR_NAME}/{n}.tst', 'w') as test,
-          open(f'data_gen/{GRAMMAR_NAME}_permutation/{GRAMMAR_NAME}_permutation/{n}.tst', 'w') as perm_test):
+          open(f'data_gen/{GRAMMAR_NAME}_permutation/{GRAMMAR_NAME}_permutation/{n}.tst', 'w') as perm_test,
+          open(f'data_gen/{GRAMMAR_NAME}/{GRAMMAR_NAME}/inverse{n}.trn', 'w') as hh,
+          open(f'data_gen/{GRAMMAR_NAME}_permutation/{GRAMMAR_NAME}_permutation/inverse{n}.trn', 'w') as perm_hh,
+          ):
         sents = []
         sents_dev =[]
         sents_test =[]
-
+        sents_helper = []
         for rule in rule_list:
             if 'exp3' in GRAMMAR_NAME:
                 rule = re.sub('XY', 'YX', rule)
             for i in range(600):
                 no_pertub =[]
                 pertub = []
+                helper_no_perb =[]
+                helper_perb  =[]
                 X = random.choice(close_class)
                 Y = random.choice(open_class)
                 for r in rule:
@@ -69,27 +70,44 @@ for n in range(10):
                         word = random.choice(vocab[r])
                         no_pertub.append(word)
                         pertub.append(word)
+                        helper_perb.append(word)
+                        helper_no_perb.append(word)
+
                     else:
                         if 'X' in rule and 'Y' in rule:
                             if r =='X':
                                 word = X
                                 no_pertub.append(word)
                                 pertub.append(Y)
+                                helper_no_perb.append(Y)
+                                helper_perb.append(word)
+
                             else:
                                 word = Y
                                 no_pertub.append(word)
                                 pertub.append(X)
+                                helper_no_perb.append(X)
+                                helper_perb.append(word)
                         else:
                             if r =='Y':
                                 word = Y
                                 no_pertub.append(word)
                                 pertub.append(X)
+                                helper_no_perb.append(X)
+                                helper_perb.append(word)
                             else:
                                 print('wtf')
+
                 no_per = ' '.join(no_pertub)
                 yes_per = ' '.join(pertub)
+
+                helper_no_perb_sent = ' '.join(helper_no_perb)
+                helper_perb_sent = ' '.join(helper_perb)
+                print(helper_no_perb_sent)
+                print(no_per)
                 if i<500:
-                    sents.append((no_per, yes_per))
+                    sents.append((no_per, yes_per, helper_no_perb_sent, helper_perb_sent))
+                    # sents_helper.append((helper_no_perb_sent, helper_perb_sent))
                 elif i>500 and i<551:
                     sents_dev.append((no_per, yes_per))
                 else:
@@ -99,9 +117,11 @@ for n in range(10):
         random.shuffle(sents_test)
         print(sents[:10])
 
-        for x, y in sents:
+        for x, y, z, h in sents:
             train.write(f'{x}\n')
             perm_train.write(f'{y}\n')
+            hh.write(f'{z}\n')
+            perm_hh.write(f'{h}\n')
 
         for x, y in sents_dev:
             dev.write(f'{x}\n')
@@ -112,4 +132,5 @@ for n in range(10):
             perm_test.write(f'{y}\n')
 
 
-            # print(sents_perb[:10])
+
+
