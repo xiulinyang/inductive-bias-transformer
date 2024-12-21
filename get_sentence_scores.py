@@ -30,12 +30,14 @@ word_score_lines.sort(key=lambda a:int(a.split(' ')[0]))
 full_text = ""
 for line in word_score_lines:
     full_text += ' '.join(line.split(' ')[1:]).strip('\n') + " "
+
 sentences = []
 start = 0
 words = full_text.split("\t")
+# print(words)
 for i in range(len(words)):
     if words[i].split(' ')[0] == "</s>":
-        sentences.append(words[start:i+1])
+        sentences.append(words[start:i]) #here we remove the last token </s>
         start = i+1
 sentence_scores = []
 for s in sentences:

@@ -2,7 +2,7 @@ import csv
 import argparse
 import os
 import math
-
+from pathlib import Path
 def get_perplexity(filename):
 	file = open(filename, 'r')
 	lines = file.readlines()
@@ -43,7 +43,7 @@ for res in results_files:
 		perplexity_dict[grammar][test_dev] = []
 	perplexity_dict[grammar][test_dev].append(get_perplexity(res))
 
-
+Path(f'trans_scores/{grammar_name}/').mkdir(parents=True, exist_ok=True)
 output_file = open(args.output, 'w')
 if 'correct' not in grammar_name:
 	fieldnames = ['grammar', 'dev_av', 'dev_sd', 'tst_av', 'tst_sd']

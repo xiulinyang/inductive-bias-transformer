@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import random
 
-
 random.seed(50)
 def get_bigrams(sents):
     bigrams = [b for l in sents for b in zip(l.split(" ")[1:-1], l.split(" ")[2:])]
@@ -96,48 +95,51 @@ op = ["glim flugit",
 "ka mawg clidam",
 "ka clidam"]
 
-grammar_file = 'data_gen/fakegrammar'
-grammar_file_pert = 'data_gen/fakegrammar_permutation'
-with open('same_bigram_sents.txt', 'w') as same, open('same_bigram_sents_pert.txt', 'w') as pe:
-    for i in range(10):
+grammar_file = 'data_gen/grammar53exp1'
+grammar_file_pert = 'data_gen/grammar53exp1_permutation'
+b_a = []
+b_p = []
+# with open('same_bigram_sents.txt', 'w') as same, open('same_bigram_sents_pert.txt', 'w') as pe:
+for i in range(10):
 
-        sents = Path(f'{grammar_file}/fakegrammar/{str(i)}.trn').read_text().strip().split('\n')
-        sents_pert = Path(f'{grammar_file_pert}/fakegrammar_permutation/{str(i)}.trn').read_text().strip().split('\n')
-        # sents = clo
-        # sents_pert = op
-        bigrams = len(Counter(get_bigrams(sents)))
-        bigrams_pert = len(Counter(get_bigrams(sents_pert)))
+    sents = Path(f'{grammar_file}/grammar53exp1/{str(i)}.trn').read_text().strip().split('\n')
+    sents_pert = Path(f'{grammar_file_pert}/grammar53exp1_permutation/{str(i)}.trn').read_text().strip().split('\n')
+    # sents = clo
+    # sents_pert = op
+    bigrams = len(Counter(get_bigrams(sents)))
+    bigrams_pert = len(Counter(get_bigrams(sents_pert)))
+    b_a.append(bigrams)
+    b_p.append(bigrams_pert)
+    print(bigrams, bigrams_pert)
 
-        print(bigrams, bigrams_pert)
-        counter_a = Counter(get_bigrams(sents_pert))
-        counter_b = Counter(get_bigrams(sents))
-        frq = []
-        sent_frq = []
-        for sent, sent_pert in zip(sents, sents_pert):
-            bigram = get_bigram_persent(sent)
-            bigram_f = sorted([counter_b[x] for x in bigram])
-            sent_frq.append(sent)
-            frq.append(bigram_f)
-        # for sent_pert in sents_pert:
-            bigram_p = get_bigram_persent(sent_pert)
-            bigram_pf = sorted([counter_a[x] for x in bigram_p])
-            # if bigram_pf == bigram_f:
-            #     print(sent, sent_pert)
+    counter_a = Counter(get_bigrams(sents_pert))
+    counter_b = Counter(get_bigrams(sents))
 
-            # if bigram_pf in frq:
-            #     print(sent_pert)
-            #     pe.write(f'{sent_pert}\n')
-            #     print(sent_frq[frq.index(bigram_pf)])
-                # same.write(f'{}')
+print(np.mean(b_a))
+print(np.mean(b_p))
 
-        # print(bigram_pf, bigram_f)
-        # if bigram_f == bigram_pf:
-        #     print(sent, sents_pert)
+    # frq = []
+    # sent_frq = []
+    # for sent, sent_pert in zip(sents, sents_pert):
+    #     bigram = get_bigram_persent(sent)
+    #     bigram_f = sorted([counter_b[x] for x in bigram])
+    #     sent_frq.append(sent)
+    #     frq.append(bigram_f)
+    # # for sent_pert in sents_pert:
+    #     bigram_p = get_bigram_persent(sent_pert)
+    #     bigram_pf = sorted([counter_a[x] for x in bigram_p])
+        # if bigram_pf == bigram_f:
+        #     print(sent, sent_pert)
 
+        # if bigram_pf in frq:
+        #     print(sent_pert)
+        #     pe.write(f'{sent_pert}\n')
+        #     print(sent_frq[frq.index(bigram_pf)])
+            # same.write(f'{}')
 
-
-        print(counter_a.most_common(10))
-        print(counter_b.most_common(10))
+    # print(bigram_pf, bigram_f)
+    # if bigram_f == bigram_pf:
+    #     print(sent, sents_pert)
 
     # bin_size = 10
     # max_freq = max(max(counter_a.values()), max(counter_b.values()))
