@@ -2,9 +2,6 @@ from pathlib import Path
 from collections import Counter
 import argparse
 
-# CLOSEDCLASS = ['on', 'at', 'in', 'over', 'from', 'an', 'a', 'the', 'my', 'one', '-ed', '-s']
-
-
 def get_bigrams(sents):
     bigrams = [b for l in sents for b in zip(l.split(" ")[0:-1], l.split(" ")[1:])]
     bigram_perm = ['_'.join(list(x)) for x in bigrams]
@@ -66,6 +63,8 @@ def check_vocab_size(file1,file2):
         print(set([x for x in tok_file2 if x not in tok_file1]))
         print(set([x for x in tok_file1 if x not in tok_file2]))
         print(f'the vocab size is different!!')
+
+
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(
@@ -80,27 +79,28 @@ if __name__ == '__main__':
     VOCAB = [x for x in Path(args.open_vocab).read_text().strip().split('\n')]
     rand_seed = args.grammar
 
-    if '41' in rand_seed:
 
+    if '41' in rand_seed:
         CLOSEDCLASS = ['an', 'the', 'a', 'my', 'one', 'hundred', 'your', 'this']
     elif '53' in rand_seed:
         CLOSEDCLASS = ['-s', '-ed', '-el', '-ing', '-ad', '-se', '-el']
     elif '42' in rand_seed:
         CLOSEDCLASS = ['on', 'at', 'in', 'over', 'from', 'an', 'a', 'the', 'my', 'one', '-ed', '-s']
-    elif 'fakegrammarexp1' in rand_seed or 'fakegrammarexp3' in rand_seed:
+    elif 'exp1' in rand_seed or 'exp3' in rand_seed:
         CLOSEDCLASS = ['a', 'the', 'one', 'my', 'your', 'this', 'an', 'her', 'his', 'dank']
-    elif 'fakegrammarexp2' in rand_seed:
-        CLOSEDCLASS = Path('vocab/fakegrammarexp2_vocab_close.txt').read_text().strip().split('\n')
-
-
+    elif 'exp2' in rand_seed:
+        CLOSEDCLASS = ['institutionalise', 'internationalise', 'black-and-white', 'well-documented', 'intellectualise',
+                    'departmentalise', 'inconsequential', 'impressionable', 'counterbalance', 'happy-go-lucky']
+    else:
+        raise ValueError('The experiment name is not recognized!')
 
     grammar = args.grammar
     for i in range(1):
         index = str(i)
-        base_grammar_correct = f'data_gen/{grammar}/{grammar}/correct1_{index}.tst'
-        base_grammar_incorrect = f'data_gen/{grammar}/{grammar}/incorrect1_{index}.tst'
-        permute_grammar_correct = f'data_gen/{grammar}_permutation/{grammar}_permutation/correct1_{index}.tst'
-        permute_grammar_incorrect = f'data_gen/{grammar}_permutation/{grammar}_permutation/incorrect1_{index}.tst'
+        base_grammar_correct = f'data_gen/{grammar}/{grammar}/correct_{index}.tst'
+        base_grammar_incorrect = f'data_gen/{grammar}/{grammar}/incorrect_{index}.tst'
+        permute_grammar_correct = f'data_gen/{grammar}_permutation/{grammar}_permutation/correct_{index}.tst'
+        permute_grammar_incorrect = f'data_gen/{grammar}_permutation/{grammar}_permutation/incorrect_{index}.tst'
         permutations = [x for x in Path(f'data_gen/{grammar}/{grammar}/{index}.trn').read_text().strip().split('\n')]
         original = [x for x in Path(f'data_gen/{grammar}_permutation/{grammar}_permutation/{index}.trn').read_text().strip().split('\n')]
         check_vocab_size(permutations, original)
