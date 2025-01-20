@@ -99,8 +99,7 @@ def remove_bracketing(s):
         else:
             new_s.append(split_s[i])
             i += 1
-    new_s.insert(0, 'BEGINNING')
-    # new_s.append(".")
+    new_s.append(".\n")
     return ' '.join(new_s).strip()
 
 def generate_sentence_file(sentences, output_file, exp):
@@ -123,6 +122,7 @@ parser.add_argument("-e", "--experiment_permutation", type=str, required=True,
 args = parser.parse_args()
 
 grammar_seed = args.output_path.split('/')[-1].split('_')[0]
+
 if '41' in grammar_seed:
     PERMUTATION = {
         # 2: {'Vaff': ['-ed', '-s']},
@@ -138,8 +138,8 @@ elif '53' in grammar_seed:
 elif '42' in grammar_seed:
     PERMUTATION = {
         2: {'Vaff': ['-ed', '-s']},
-        # 3: {'Det': ['an', 'a', 'the', 'my', 'one']},
-        # 4: {'Prep': ['on', 'at', 'in', 'over', 'from']}
+        3: {'Det': ['an', 'a', 'the', 'my', 'one']},
+        4: {'Prep': ['on', 'at', 'in', 'over', 'from']}
     }
 
 

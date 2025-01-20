@@ -1,8 +1,0 @@
-get_back
-art_dismantle
-device_green
-device_luxurious
-fill_official
-bring_broad
-reemphasize_zigzag
-reemphasize_sympathetic

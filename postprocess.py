@@ -13,8 +13,7 @@ def remove_bracketing(s):
         else:
             new_s.append(split_s[i])
             i += 1
-    new_s.insert(0, 'BEGINNING')
-    new_s.append("\n")
+    new_s.append(".")
     return ' '.join(new_s).strip()
 
 parser = argparse.ArgumentParser(description="postprocess sentences with bracket")
@@ -32,4 +31,4 @@ input_f = Path(input_file).read_text().strip().split('\n')
 with open(output_file, 'w') as o:
     for s in input_f:
         post_s = remove_bracketing(s)
-        o.write(post_s)
+        o.write(f'{post_s}\n')

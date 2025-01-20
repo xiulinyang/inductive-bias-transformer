@@ -13,8 +13,6 @@ def get_freq(bigrams, permute=False):
     word_x: the closed class item
     word_y: the open class item
     '''
-    # if permute:
-    #     CLOSEDCLASS = VOCAB
     if permute:
         x_id =  '1'
     else:
@@ -80,29 +78,24 @@ if __name__ == '__main__':
     rand_seed = args.grammar
 
 
-    if '41' in rand_seed:
+    if 'det' in rand_seed:
         CLOSEDCLASS = ['an', 'the', 'a', 'my', 'one', 'hundred', 'your', 'this']
-    elif '53' in rand_seed:
+    elif 'sfx' in rand_seed:
         CLOSEDCLASS = ['-s', '-ed', '-el', '-ing', '-ad', '-se', '-el']
-    elif '42' in rand_seed:
+    elif 'simple' in rand_seed:
         CLOSEDCLASS = ['on', 'at', 'in', 'over', 'from', 'an', 'a', 'the', 'my', 'one', '-ed', '-s']
-    elif 'exp1' in rand_seed or 'exp3' in rand_seed:
-        CLOSEDCLASS = ['a', 'the', 'one', 'my', 'your', 'this', 'an', 'her', 'his', 'dank']
-    elif 'exp2' in rand_seed:
-        CLOSEDCLASS = ['institutionalise', 'internationalise', 'black-and-white', 'well-documented', 'intellectualise',
-                    'departmentalise', 'inconsequential', 'impressionable', 'counterbalance', 'happy-go-lucky']
     else:
         raise ValueError('The experiment name is not recognized!')
 
     grammar = args.grammar
     for i in range(1):
         index = str(i)
-        base_grammar_correct = f'data_gen/{grammar}/{grammar}/correct_{index}.tst'
-        base_grammar_incorrect = f'data_gen/{grammar}/{grammar}/incorrect_{index}.tst'
-        permute_grammar_correct = f'data_gen/{grammar}_permutation/{grammar}_permutation/correct_{index}.tst'
-        permute_grammar_incorrect = f'data_gen/{grammar}_permutation/{grammar}_permutation/incorrect_{index}.tst'
-        permutations = [x for x in Path(f'data_gen/{grammar}/{grammar}/{index}.trn').read_text().strip().split('\n')]
-        original = [x for x in Path(f'data_gen/{grammar}_permutation/{grammar}_permutation/{index}.trn').read_text().strip().split('\n')]
+        base_grammar_correct = f'data_gen/en_grammar/{grammar}/{grammar}/correct_{index}.tst'
+        base_grammar_incorrect = f'data_gen/en_grammar/{grammar}/{grammar}/incorrect_{index}.tst'
+        permute_grammar_correct = f'data_gen/en_grammar/{grammar}_permutation/{grammar}_permutation/correct_{index}.tst'
+        permute_grammar_incorrect = f'data_gen/en_grammar/{grammar}_permutation/{grammar}_permutation/incorrect_{index}.tst'
+        permutations = [x for x in Path(f'data_gen/en_grammar/{grammar}/{grammar}/{index}.trn').read_text().strip().split('\n')]
+        original = [x for x in Path(f'data_gen/en_grammar/{grammar}_permutation/{grammar}_permutation/{index}.trn').read_text().strip().split('\n')]
         check_vocab_size(permutations, original)
         bigrams_permy, bigrams_permx = get_freq(get_bigrams(permutations), True)
         bigrams_origy, bigrams_origx = get_freq(get_bigrams(original), False)
