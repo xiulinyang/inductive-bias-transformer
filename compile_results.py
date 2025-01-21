@@ -8,6 +8,7 @@ import json
 
 def get_perplexity(filename):
 	file = open(filename, 'r')
+	print(filename)
 	lines = file.readlines()
 	final_line = lines[-1].strip('\n')
 	return float(final_line.split(" ")[-1])
