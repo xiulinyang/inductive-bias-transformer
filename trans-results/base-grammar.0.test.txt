@@ -1,0 +1,1 @@
+train_lm_transformer.sh: line 12: fairseq-eval-lm: command not found
