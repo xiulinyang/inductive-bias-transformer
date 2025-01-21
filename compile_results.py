@@ -2,7 +2,10 @@ import csv
 import argparse
 import os
 import math
+from glob import glob
 from pathlib import Path
+import json
+
 def get_perplexity(filename):
 	file = open(filename, 'r')
 	lines = file.readlines()
@@ -19,21 +22,28 @@ def calc_mean(vals):
 parser = argparse.ArgumentParser(description="Calculate mean and SD of "
 	"perplexity for dev and test for each grammar")
 
-parser.add_argument("-f", "--folder", type=str, required=True,
+parser.add_argument("-m", "--model", type=str, required=True,
     help="Location of results file")
-
-parser.add_argument("-O", "--output", type=str, required=True,
-	help="Location to save output")
 
 parser.add_argument("-g", "--grammar", type=str, required=True,
 	help="grammar")
 args = parser.parse_args()
 
+model = args.model
 grammar_name = args.grammar
-grammar_folder = args.folder +'/'+ grammar_name
-results_files = [os.path.join(grammar_folder, f) for f in os.listdir(
-	grammar_folder) if f.endswith('.txt')]
+grammar_folder =  f'{model}-results'
+results_files = glob(f'{grammar_folder}/*.txt')
 # print(results_files)
+if 'incorrect' in grammar_name:
+	results_files = [x for x in results_files if 'incorrect' in x]
+	output_file = open('trans_scores/result_dependency.json', 'a')
+elif 'correct' in grammar_name:
+	results_files = [x for x in results_files if 'correct' in x and 'incorrect' not in x]
+	output_file = open('trans_scores/result_dependency.json', 'a')
+else:
+	results_files = [x for x in results_files if 'correct' not in x]
+	output_file = open('trans_scores/results.json', 'a')
+
 perplexity_dict = {}
 for res in results_files:
 	grammar, split, test_dev, _ = res.split("/")[-1].split(".")
@@ -43,29 +53,8 @@ for res in results_files:
 		perplexity_dict[grammar][test_dev] = []
 	perplexity_dict[grammar][test_dev].append(get_perplexity(res))
 
-Path(f'trans_scores/{grammar_name}/').mkdir(parents=True, exist_ok=True)
-output_file = open(args.output, 'w')
-if 'correct' not in grammar_name:
-	fieldnames = ['grammar', 'dev_av', 'dev_sd', 'tst_av', 'tst_sd']
-else:
-	fieldnames = ['grammar', 'tst_av', 'tst_sd']
+Path(f'trans_scores/').mkdir(parents=True, exist_ok=True)
 
-writer = csv.DictWriter(output_file, fieldnames=fieldnames)
-writer.writeheader()
 
-real_grammar = results_files[-1].split('/')[-1].split('.')[0]
-
-if 'correct' not in grammar_name:
-	print('haha')
-	writer.writerow({'grammar':grammar_name,
-		'dev_av':calc_mean(perplexity_dict[real_grammar]['dev']),
-		'dev_sd':calc_sd(perplexity_dict[real_grammar]['dev']),
-		'tst_av':calc_mean(perplexity_dict[real_grammar]['test']),
-		'tst_sd':calc_sd(perplexity_dict[real_grammar]['test']),
-		})
-else:
-	writer.writerow({'grammar': grammar,
-					 'tst_av': calc_mean(perplexity_dict[real_grammar]['test']),
-					 'tst_sd': calc_sd(perplexity_dict[real_grammar]['test']),
-					 })
+json.dump(perplexity_dict, output_file,indent=4)
 
