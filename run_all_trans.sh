@@ -17,4 +17,4 @@ for num in {0..9}; do
   bash train_lm_transformer.sh grammar53exp1 $num
   bash train_lm_transformer.sh grammar53exp1_permutation $num
 done
-done
+

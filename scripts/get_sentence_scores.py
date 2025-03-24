@@ -37,7 +37,7 @@ words = full_text.split("\t")
 # print(words)
 for i in range(len(words)):
     if words[i].split(' ')[0] == "</s>":
-        sentences.append(words[start:i]) #here we remove the last token </s>
+        sentences.append(words[start:i+1])
         start = i+1
 sentence_scores = []
 for s in sentences:

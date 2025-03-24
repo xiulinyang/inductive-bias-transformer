@@ -6,7 +6,7 @@ parser.add_argument("-m", "--model", type=str, required=True,
     help="Location of results file")
 
 parser.add_argument("-o", "--output_file_name", type=str, required=True,
-	help="file name, e.g., accuracy.csv")
+	help="file name, e.g., accuracy.tsv")
 args = parser.parse_args()
 m = args.model
 out = args.output_file_name
