@@ -1,15 +1,16 @@
 #!/bin/bash
 
-EXP=fakegrammarexp3
-EXPP=fakegrammarexp3_permutation
+EXP=$1
+EXPP=$2
+MD=$3
 # Create directory for output if it doesn't exist
-mkdir -p trans_sentence_scores_no_end/
+#mkdir -p trans_sentence_scores_no_end/
 
 # Take the grammar argument from a predefined list
 for SPLIT in {0..9}; do
       # Run the Python script for each split
-      python get_sentence_scores.py -i "trans-results/${EXP}/${EXP}_correct/${EXP}.correct_${SPLIT}.test.txt" -O trans_sentence_scores_no_end/
-      python get_sentence_scores.py -i "trans-results/${EXP}/${EXP}_incorrect/${EXP}.incorrect_${SPLIT}.test.txt" -O trans_sentence_scores_no_end/
-      python get_sentence_scores.py -i "trans-results/${EXP}/${EXPP}_correct/${EXPP}.correct_${SPLIT}.test.txt" -O trans_sentence_scores_no_end/
-      python get_sentence_scores.py -i "trans-results/${EXP}/${EXPP}_incorrect/${EXPP}.incorrect_${SPLIT}.test.txt" -O trans_sentence_scores_no_end/
+      python scripts/get_sentence_scores.py -i "results/${MD}-results/${EXP}.correct_${SPLIT}.test.txt" -O "results/sentence_scores_${MD}/"
+      python scripts/get_sentence_scores.py -i "results/${MD}-results/${EXP}.incorrect_${SPLIT}.test.txt" -O "results/sentence_scores_${MD}/"
+      python scripts/get_sentence_scores.py -i "results/${MD}-results/${EXPP}.correct_${SPLIT}.test.txt" -O "results/sentence_scores_${MD}/"
+      python scripts/get_sentence_scores.py -i "results/${MD}-results/${EXPP}.incorrect_${SPLIT}.test.txt" -O "results/sentence_scores_${MD}/"
   done
