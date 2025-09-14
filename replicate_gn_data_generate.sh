@@ -1,0 +1,8 @@
+#!/bin/bash
+
+python data_gen/replicate_gn_data_gen/replicate_gn.py gn_grammarexp1
+python data_gen/replicate_gn_data_gen/replicate_gn.py gn_grammarexp2
+python data_gen/replicate_gn_data_gen/replicate_gn.py gn_grammarexp3
+python data_gen/replicate_gn_data_gen/generate_test_gn.py gn_grammarexp1
+python data_gen/replicate_gn_data_gen/generate_test_gn.py gn_grammarexp2
+python data_gen/replicate_gn_data_gen/generate_test_gn.py gn_grammarexp3

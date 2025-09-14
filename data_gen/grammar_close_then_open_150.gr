@@ -1,0 +1,86 @@
+1	ROOT	S
+1	S	NP_S VP_S
+1	S	NP_P VP_P
+0.1	CompS	Comp S	1
+1	CompS	S	1
+1	VP_S	VP_Past_S
+1	VP_S	VP_Pres_S
+1	VP_S	VP_Comp_S
+1	VP_P	VP_Past_P
+1	VP_P	VP_Pres_P
+1	VP_P	VP_Comp_P
+1	VP_Comp_S	TVerb_Past_S CompS
+1	VP_Comp_P	TVerb_Past_P CompS
+1	VP_Comp_S	TVerb_Pres_S CompS
+1	VP_Comp_P	TVerb_Pres_P CompS
+1	VP_Past_S	IVerb_Past_S
+1	VP_Pres_S	IVerb_Pres_S
+1	VP_Past_S	IVerb_Past_S PP
+1	VP_Pres_S	IVerb_Pres_S PP
+1	VP_Past_P	TVerb_Past_P
+1	VP_Pres_P	TVerb_Pres_P
+1	IVerb_Past_S	Vaff IVerb_S	2
+1	IVerb_Past_P	Vaff IVerb_P	2
+1	TVerb_Past_S	Vaff TVerb_S	2
+1	TVerb_Past_P	Vaff TVerb_S	2
+1	IVerb_Pres_S	Vaff IVerb_S	2
+1	IVerb_Pres_P	Vaff IVerb_P	2
+1	TVerb_Pres_S	Vaff TVerb_S	2
+1	TVerb_Pres_P	Vaff TVerb_P	2
+1	IVerb_Pres_S	IVerb_S	2
+1	IVerb_Pres_P	IVerb_P	2
+1	TVerb_Pres_S	TVerb_S	2
+1	TVerb_Pres_P	TVerb_P	2
+1	IVerb_Past_S	IVerb_S	2
+1	IVerb_Past_P	IVerb_P	2
+1	TVerb_Past_S	TVerb_S	2
+1	TVerb_Past_P	TVerb_P	2
+1	VP_Past_S	TVerb_Past_S NP_Obj
+1	VP_Pres_S	TVerb_Pres_S NP_Obj
+1	NP_Obj	NP_S
+1	NP_Obj	NP_P
+1	NP_S	Det SNoun_S	3
+1	NP_S	Det SNoun_P	3
+1	NP_S	SNoun_S	3
+1	NP_S	SNoun_P	3
+1	NP_P	Det SNoun_S	3
+1	NP_P	Det SNoun_P	3
+1	NP_P	SNoun_S	3
+1	NP_P	SNoun_P	3
+1 	NP_P	NP_P PP
+1 	NP_S	NP_S PP
+1	NP_S	Adj_S
+1	NP_P	Adj_P
+1	Adj_S	Adj SNoun_S
+1	Adj_P	Adj SNoun_P
+1	PP	Prep SNoun_S	4
+1	PP	Prep SNoun_P	4
+1	PP	SNoun_P	4
+1	PP	SNoun_P	4
+
+
+1	Prep	on
+1	Prep	at
+1	Prep	in
+1	Prep	over
+1	Prep	from
+
+1	Det	an
+1	Det	a
+1	Det	the
+1	Det	this
+1	Det	one
+
+1	Comp	what
+1	Comp	which
+1	Comp	whom
+1	Comp	where
+1	Comp	when
+
+
+1	Vaff	-ed
+1	Vaff	-s
+1	Vaff	-es
+1	Vaff	-x
+1	Vaff	-ss
+
