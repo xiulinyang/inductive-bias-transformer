@@ -145,9 +145,9 @@ if __name__ == '__main__':
     os.makedirs(root_dir, exist_ok=True)
     output_file = f'{root_dir}/{grammar_name}_permutation.txt'
     if grammar_name not in {'grammar_close_then_open',
+                            'grammar_close_then_open_30',
                             'grammar_close_then_open_50',
-                            'grammar_close_then_open_100',
-                            'grammar_close_then_open_150'}:
+                            'grammar_close_then_open_60'}:
         raise Exception("Unknown grammar name")
     generate_sentence_file(sentences, output_file, grammar_name)
 
