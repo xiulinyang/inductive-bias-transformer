@@ -19,8 +19,8 @@ for SPLIT in {0..9}; do
       --model "data-bin/${GRAMMAR}/${SPLIT}/spm.model" \
       --output_format=piece \
       < "data_gen/grammar/${GRAMMAR}/${GRAMMAR}/${SPLIT}.${part}" \
-      > "data_gen/grammar/${GRAMMAR}/${GRAMMAR}/${SPLIT}/${part}.spm"
+      > "data-bin/${GRAMMAR}/${SPLIT}/${part}.spm"
       done
 
-  fairseq-preprocess --only-source --trainpref "data_gen/grammar/${GRAMMAR}/${GRAMMAR}/${SPLIT}/trn.spm" --validpref "data_gen/grammar/${GRAMMAR}/${GRAMMAR}/${SPLIT}/dev.spm" --testpref "data_gen/grammar/${GRAMMAR}/${GRAMMAR}/${SPLIT}/tst.spm" --destdir "data-bin/${GRAMMAR}/${SPLIT}-dataset" --workers 10
+  fairseq-preprocess --only-source --trainpref "data-bin/${GRAMMAR}/${SPLIT}/trn.spm" --validpref "data-bin/${GRAMMAR}/${SPLIT}/dev.spm" --testpref "data-bin/${GRAMMAR}/${SPLIT}/tst.spm" --destdir "data-bin/${GRAMMAR}/${SPLIT}-dataset" --workers 10
   done
