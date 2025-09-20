@@ -1,7 +1,6 @@
 import argparse
 import os
 import random
-from logging import raiseExceptions
 
 
 class PCFG:
@@ -27,13 +26,8 @@ class PCFG:
                 idx = -1
                 if len(l.rstrip().split("\t")) == 3:
                     weight, lhs, rhs = l.rstrip().split("\t")
-
                 elif len(l.rstrip().split("\t")) == 4:
                     weight, lhs, rhs, idx = l.rstrip().split("\t")
-
-                else:
-                    raise ValueError('The grammar is not acceptable!')
-
                 if lhs not in new_rules.keys():
                     new_rules[lhs] = []
                 poss_rhs = new_rules[lhs]
@@ -48,8 +42,6 @@ class PCFG:
                 rhs[1] /= total
         self.rules = new_rules
         self.change_rules = change
-        # print(new_rules)
-        # print(change)
 
     def sample_sentence(self, max_expansions, bracketing):
         self.expansions = 0
@@ -66,23 +58,27 @@ class PCFG:
                 replace, change_idx = self.expand(sent[idx])
                 if bracketing:
                     if change_idx == -1:
-                        sent = (sent[:idx] 
-                            + ["(", sent[idx]] + replace + [")"]  
+                        sent = (sent[:idx]
+                            + ["(", sent[idx]] + replace + [")"]
                             + sent[idx + 1:])
+                        # print(sent)
                     else:
-                        sent = (sent[:idx] 
-                            + ["(", change_idx + sent[idx]] + replace + [")"]  
+                        sent = (sent[:idx]
+                            + ["(", change_idx + sent[idx]] + replace + [")"]
                             + sent[idx + 1:])
+                        # print(sent)
                 else:
                     sent = sent[:idx] + replace  + sent[idx + 1:]
+
                 self.expansions += 1
                 if bracketing:
                     idx += 2
                 if self.expansions > max_expansions:
-                    print(f'max expansion {max_expansions}')
                     done = True
                 if idx >= len(sent):
                     done = True
+        # print('final')
+        # print(sent)
         if self.expansions > max_expansions:
             for idx in range(len(sent)):
                 if not bracketing:
@@ -91,7 +87,8 @@ class PCFG:
                 else:
                     if sent[idx] in self.rules.keys() and sent[idx - 1] != "(":
                         sent[idx] = "..."
-        # print(f'max expansion {max_expansions}')
+        # print('wtf::::')
+        # print(' '.join(sent))
         return ' '.join(sent)
 
     def expand(self, symbol):
@@ -100,22 +97,32 @@ class PCFG:
         val = 0.0
         rhs = ""
         idx = -1
-        for i, p in enumerate(poss):
+        for p in poss:
             val += p[1]
-            # print(p, sample, val)
             if sample <= val:
                 if symbol + "\t" + p[0] in self.change_rules.keys():
                     idx = self.change_rules[symbol + "\t" + p[0]]
                 rhs = p[0]
                 break
-        return rhs.split(" "), idx
+        return rhs.split(), idx
 
-def sample_sentences(grammar_file, n, m, output_path, bracketing):
-    output_file = open(os.path.join(output_path) , 'w')
+
+
+def sample_sentences(grammar_file, n, m, output_folder, bracketing):
+    sents =[]
+    if not os.path.exists(output_folder):
+            os.mkdir(output_folder)
+    grammar_name = grammar_file[:-3].split("/")[-1]
+    output_file = open(os.path.join(output_folder, grammar_name + "_b.txt") , 'w')
     grammar = PCFG(grammar_file)
     for i in range(n):
-        output_file.write(grammar.sample_sentence(m, bracketing) + "\n")
-
+        sents.append(grammar.sample_sentence(m, bracketing))
+    #     print('hhhhhhhhhhhhhh')
+    #     print(grammar.sample_sentence(m, bracketing))
+    #     # output_file.write(grammar.sample_sentence(m, bracketing) + "\n")
+    # print('helo:')
+    # print(sents)
+    output_file.write('\n'.join(sents))
 
 parser = argparse.ArgumentParser(description="Sample sentences from PCFG")
 
@@ -127,9 +134,9 @@ parser.add_argument("-m", "--max_expansions", type=int, default=600,
     help="Max number of expansions performed")
 parser.add_argument("-O", "--output_folder", type=str, 
     help="Location of output files")
-parser.add_argument("-b", "--bracketing", type=bool, 
+parser.add_argument("-b", "--bracketing", action='store_true',
     help="Include bracketing of constituents")
-parser.add_argument("-s", "--random_seed", type=int,
+parser.add_argument("-s", "--random_seed", type=int, default=42,
     help="Include bracketing of constituents")
 
 args = parser.parse_args()

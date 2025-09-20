@@ -7,33 +7,26 @@ from pathlib import Path
 from func_words import FUNC_WORDS
 
 PATTERN_IDX = {
-    1 : ['Comp'],
     2 : ['Vaff'],
     3 : ['Det'],
     4 : ['Prep'],
 }
-
-def get_function_words(num):
-    num -=3
-    dets = [x.split()[-1] for x in Path('english/dets.txt').read_text().strip().split('\n')][:num]
-    comps = [x.split()[-1] for x in Path('english/comps.txt').read_text().strip().split('\n')][:num]
-    preps = [x.split()[-1] for x in Path('english/prep.txt').read_text().strip().split('\n')][:num]
-    return dets, comps, preps
 
 def permutation_exp1(children, flip_id, grammar):
     children_updated = []
 
     if children:
         if len(children) != 1:
-            # if the constituent contains a function word and its corresponding content word related phrase,
-            # we simply reverse the order.
+            assert len(children) == 2
             for child in children[::-1]:
                 children_updated += child
-
+            # print(children_updated)
+            # if the constituent contains a function word and its corresponding content word related phrase,
+            # we simply reverse the order.
+            #
         else:
             # Otherwise,
             for child in children:
-                print(child)
                 assert len(children)==1
                 # if the constituent contains only phrase without the function word,
                 # we replace that content word with corresponding function words.
@@ -52,7 +45,7 @@ def permutation_exp1(children, flip_id, grammar):
 #     return children_updated
 
 def flip_as_needed(sentence, grammar):
-    to_flip = {1, 2, 3, 4}
+    to_flip = {2, 3, 4}
     s_split = sentence.strip().split()
     j = 0
     while j < len(s_split):
@@ -91,7 +84,7 @@ def reversed_children(sentence_part, flip_id, grammar):
                 if bracket_stack[-1][0] == L_brack:
                     opening = bracket_stack.pop()
                     if len(bracket_stack) == 0:
-                        children.append(sentence_part[opening[1]:i+1])
+                        children.append(sentence_part[opening[1]:i + 1])
             else:
                 children_end = i - 1
                 break
@@ -123,7 +116,8 @@ def generate_sentence_file(sentences, output_file, grammar):
     output_f = open(output_file, 'w')
     for s in sentences:
         # print(s)
-        # print(remove_bracketing(flip_as_needed(s, grammar, exp)))
+        # print(output_f)
+        # print(remove_bracketing(flip_as_needed(s, grammar)))
         output_f.write(remove_bracketing(flip_as_needed(s, grammar)) + "\n")
     output_f.close()
 
@@ -141,14 +135,28 @@ if __name__ == '__main__':
 
     sentences = Path(args.sentence_file).read_text().strip().split('\n')
     grammar_name = args.grammar_name
-    root_dir = f'data_gen/grammar/{grammar_name}_permutation/'
+    root_dir = f'grammar/{grammar_name}_permutation/'
     os.makedirs(root_dir, exist_ok=True)
     output_file = f'{root_dir}/{grammar_name}_permutation.txt'
-    if grammar_name not in {'grammar_close_then_open',
+
+    if grammar_name not in {'grammar_close_then_open_3',
                             'grammar_close_then_open_30',
                             'grammar_close_then_open_50',
-                            'grammar_close_then_open_60'}:
-        raise Exception("Unknown grammar name")
+                            'grammar_close_then_open_60',
+                            'grammar_close_then_open_3_reverse',
+                            'grammar_close_then_open_30_reverse',
+                            'grammar_close_then_open_50_reverse',
+                            'grammar_close_then_open_60_reverse',
+                            'grammar_close_then_open_3_r',
+                            'grammar_close_then_open_30_r',
+                            'grammar_close_then_open_50_r',
+                            'grammar_close_then_open_60_r',
+                            'grammar_close_then_open_3_reverse_r',
+                            'grammar_close_then_open_30_reverse_r',
+                            'grammar_close_then_open_50_reverse_r',
+                            'grammar_close_then_open_60_reverse_r'
+                            }:
+        raise Exception(f"{grammar_name}: Unknown grammar name ")
     generate_sentence_file(sentences, output_file, grammar_name)
 
 

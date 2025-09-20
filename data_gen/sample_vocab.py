@@ -17,7 +17,7 @@ tvbs = vbs[400:600]
 tvbps = vbs[600:]
 
 print(len(ivbs), len(ivbps), len(tvbs), len(tvbps))
-with open('grammar_close_then_open.gr' ,'a') as grammar:
+with open('grammar_close_then_open_3.gr', 'a') as grammar:
     for adj in adjs:
         grammar.write(f'1\tAdj\t{adj}\n')
     grammar.write('\n\n')

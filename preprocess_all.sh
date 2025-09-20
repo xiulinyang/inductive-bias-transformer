@@ -1,0 +1,13 @@
+#!/bin/bash
+
+bash preprocess.sh grammar_close_then_open_3
+bash preprocess.sh grammar_close_then_open_3_permutation
+bash preprocess.sh grammar_close_then_open_30
+bash preprocess.sh grammar_close_then_open_30_permutation
+bash preprocess.sh grammar_close_then_open_60
+bash preprocess.sh grammar_close_then_open_60_permutation
+bash preprocess.sh grammar_close_then_open_3_r
+bash preprocess.sh grammar_close_then_open_30_r
+bash preprocess.sh grammar_close_then_open_60_r
+bash preprocess.sh grammar_close_then_open_3_reverse
+bash preprocess.sh grammar_close_then_open_3_reverse_permutation
