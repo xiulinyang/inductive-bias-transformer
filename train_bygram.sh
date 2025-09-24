@@ -1,7 +1,7 @@
 #!/bin/bash
 
 all_grammars=("grammar_close_then_open_3" "grammar_close_then_open_30" "grammar_close_then_open_60")
-mkdir bigram
+mkdir -p bigram
 
 for num in {0..9}; do
   for grammar in "${all_grammars[@]}"; do
