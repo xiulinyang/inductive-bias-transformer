@@ -6,7 +6,7 @@ import math
 from numpy.distutils.conv_template import header
 from tqdm import tqdm 
 from pathlib import Path
-ngram = 'trigram'
+ngram = 'bigram'
 parser = argparse.ArgumentParser()
 parser.add_argument('-g', '--grammar_name', type=str, help='name of the grammar, e.g., grammar_close_then_open')
 parser.add_argument('-s', '--sample_split', type=int, help='0-9')
