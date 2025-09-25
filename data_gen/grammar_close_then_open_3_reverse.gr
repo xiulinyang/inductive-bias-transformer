@@ -26,26 +26,26 @@
 1	IVerb_Pres_P	IVerb_P Vaff	2
 1	TVerb_Pres_S	TVerb_S Vaff	2
 1	TVerb_Pres_P	TVerb_P Vaff	2
-0.8	IVerb_Pres_S	Vaff	2
-0.8	IVerb_Pres_P	Vaff	2
-0.8	TVerb_Pres_S	Vaff	2
-0.8	TVerb_Pres_P	Vaff	2
-0.8	IVerb_Past_S	Vaff	2
-0.8	IVerb_Past_P	Vaff	2
-0.8	TVerb_Past_S	Vaff	2
-0.8	TVerb_Past_P	Vaff	2
+0.8	IVerb_Pres_S	IVerb_S	2
+0.8	IVerb_Pres_P	IVerb_P	2
+0.8	TVerb_Pres_S	TVerb_S	2
+0.8	TVerb_Pres_P	TVerb_P	2
+0.8	IVerb_Past_S	IVerb_S	2
+0.8	IVerb_Past_P	IVerb_P	2
+0.8	TVerb_Past_S	TVerb_S	2
+0.8	TVerb_Past_P	TVerb_P	2
 1	VP_Past_S	TVerb_Past_S NP_Obj
 1	VP_Pres_S	TVerb_Pres_S NP_Obj
 1	NP_Obj	NP_S
 1	NP_Obj	NP_P
 1	NP_S	SNoun_S Det	3
 1	NP_S	SNoun_P Det	3
-0.8	NP_S	Det	3
-0.8	NP_S	Det	3
+0.8	NP_S	SNoun_S	3
+0.8	NP_S	SNoun_P	3
 1	NP_P	SNoun_S Det	3
 1	NP_P	SNoun_P Det	3
-1	NP_P	Det	3
-1	NP_P	Det	3
+1	NP_P	SNoun_S	3
+1	NP_P	SNoun_P	3
 1 	NP_P	NP_P PP
 1 	NP_S	NP_S PP
 1	NP_S	Adj_S
@@ -54,8 +54,8 @@
 1	Adj_P	Adj SNoun_P
 1	PP	SNoun_S Prep	4
 1	PP	SNoun_P Prep	4
-0.8	PP	Prep	4
-0.8	PP	Prep	4
+0.8	PP	SNoun_P	4
+0.8	PP	SNoun_S	4
 
 1	Prep	at
 1	Prep	on

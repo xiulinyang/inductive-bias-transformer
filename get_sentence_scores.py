@@ -5,7 +5,7 @@ def total_sentence_score(words):
     score = 0
     text =[]
     text_decode = ''
-    words_text = words[:-2]
+    words_text = words[:-1]
     for w in words:
         score += float(w.split()[1].strip()[1:])
     for w in words_text:
