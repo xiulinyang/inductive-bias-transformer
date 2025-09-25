@@ -15,7 +15,7 @@ sample_split = str(args.sample_split)
 grammar_name = args.grammar_name
 
 model = kenlm.LanguageModel(f'bigram/{grammar_name}_{sample_split}.arpa')
-test_data = pd.read_csv(f'{sample_split}_sentence_scores/{grammar_name}/{sample_split}.test.txt', sep='\t', header=None,
+test_data = pd.read_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.txt', sep='\t', header=None,
             names=['sent', 'toks', 'model_prob']).to_dict(orient='records')
 
 
