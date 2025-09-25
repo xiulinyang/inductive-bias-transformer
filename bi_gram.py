@@ -19,9 +19,9 @@ grammar_name = args.grammar_name
 
 if ngram=='bigram':
     test_data = pd.read_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.txt', sep='\t',
-                            header=None, names=['sent', 'toks', 'model_prob'], index=False,).to_dict(orient='records')
+                            header=None, names=['sent', 'toks', 'model_prob']).to_dict(orient='records')
 elif ngram=='trigram':
-    test_data = pd.read_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.csv', index=False, sep=',').to_dict(orient='records')
+    test_data = pd.read_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.csv', sep=',').to_dict(orient='records')
 
 model = kenlm.LanguageModel(f'{ngram}/{grammar_name}_{sample_split}.arpa')
 for sent in tqdm(test_data):
@@ -30,4 +30,4 @@ for sent in tqdm(test_data):
     sent[f'{ngram}_prob'] = model_score*math.log(10)
 
 
-pd.DataFrame(test_data).to_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.csv')
+pd.DataFrame(test_data).to_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.csv',index=False)
