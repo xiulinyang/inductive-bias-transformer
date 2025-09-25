@@ -6,7 +6,7 @@ import math
 from numpy.distutils.conv_template import header
 from tqdm import tqdm 
 from pathlib import Path
-ngram = 'bigram'
+ngram = 'trigram'
 parser = argparse.ArgumentParser()
 parser.add_argument('-g', '--grammar_name', type=str, help='name of the grammar, e.g., grammar_close_then_open')
 parser.add_argument('-s', '--sample_split', type=int, help='0-9')
@@ -25,8 +25,8 @@ if ngram=='bigram':
     test_data = pd.read_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.txt', sep='\t',
                             header=None, names=['sent', 'toks', 'model_prob']).to_dict(orient='records')
 elif ngram=='trigram':
-    test_data = pd.read_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.csv', header=None,
-                            names=['sent', 'toks', 'model_prob'], sep=',').to_dict(orient='records')
+    test_data = pd.read_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.csv', sep=',').to_dict(orient='records')
+pd.DataFrame(test_data).to_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.csv')
 
 model = kenlm.LanguageModel(f'{ngram}/{grammar_name}_{sample_split}_{affix}.arpa')
 for sent in tqdm(test_data):
