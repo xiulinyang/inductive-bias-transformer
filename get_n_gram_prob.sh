@@ -5,7 +5,11 @@ mkdir -p bigram
 
 for num in {0..9}; do
   for grammar in "${all_grammars[@]}"; do
-    python bi_gram.py -g $grammar -s $num -m 'trans'
-    python bi_gram.py -g $grammar -s $num -m 'lstm'
+    python bi_gram.py -g "${grammar}_permutation" -s $num -m 'trans'
+    python bi_gram.py -g "${grammar}_permutation" -s $num -m 'lstm'
+    python bi_gram.py -g "${grammar}_r" -s $num -m 'trans'
+    python bi_gram.py -g "${grammar}_r" -s $num -m 'lstm'
+    python bi_gram.py -g "${grammar}_reverse" -s $num -m 'trans'
+    python bi_gram.py -g "${grammar}_reverse" -s $num -m 'lstm'
   done
 done
