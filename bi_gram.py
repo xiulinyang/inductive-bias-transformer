@@ -22,7 +22,8 @@ affix = args.affix
 
 
 if ngram=='bigram':
-    test_data = pd.read_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.txt', header=None, names=['sent', 'toks', 'model_prob'] , sep=',').to_dict(orient='records')
+    test_data = pd.read_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.txt', sep='\t',
+                            header=None, names=['sent', 'toks', 'model_prob'] , sep=',').to_dict(orient='records')
 elif ngram=='trigram':
     test_data = pd.read_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.csv', header=None,
                             names=['sent', 'toks', 'model_prob'], sep=',').to_dict(orient='records')
