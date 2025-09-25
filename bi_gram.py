@@ -21,7 +21,7 @@ test_data = pd.read_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_sp
 
 for sent in test_data:
     toks = sent['toks']
-    model_score = model.score(toks, sos=False, eos=False)
+    model_score = model.score(toks, bos=False, eos=False)
     sent['bigram_prob'] = model_score*math.log(10)
 
 
