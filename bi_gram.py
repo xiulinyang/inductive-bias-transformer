@@ -2,6 +2,7 @@ import pandas as pd
 import argparse
 import kenlm
 import math
+from tqdm import tqdm 
 from pathlib import Path
 parser = argparse.ArgumentParser()
 parser.add_argument('-g', '--grammar_name', type=str, help='name of the grammar, e.g., grammar_close_then_open')
@@ -21,9 +22,8 @@ test_data = pd.read_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_sp
 # print(test_data)
 
 model = kenlm.LanguageModel(f'bigram/{grammar_name}_{sample_split}.arpa')
-for sent in test_data:
+for sent in tqdm(test_data):
     toks = sent['toks']
-    print(toks)
     model_score = model.score(toks, bos=False, eos=False)
     sent['bigram_prob'] = model_score*math.log(10)
 

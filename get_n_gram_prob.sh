@@ -6,5 +6,6 @@ mkdir -p bigram
 for num in {0..9}; do
   for grammar in "${all_grammars[@]}"; do
     python bi_gram.py -g $grammar -s $num -m 'trans'
+    python bi_gram.py -g $grammar -s $num -m 'lstm'
   done
 done
