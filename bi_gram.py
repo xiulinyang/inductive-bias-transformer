@@ -11,7 +11,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('-g', '--grammar_name', type=str, help='name of the grammar, e.g., grammar_close_then_open')
 parser.add_argument('-s', '--sample_split', type=int, help='0-9')
 parser.add_argument('-m', '--model_type', type=str, choices=['trans', 'lstm'])
-parser.add_argument('-a', '--affix', type=str, choices=['trans', 'lstm'])
+parser.add_argument('-a', '--affix', type=str, choices=['reverse', 'permutation', 'r'])
 
 
 args = parser.parse_args()
