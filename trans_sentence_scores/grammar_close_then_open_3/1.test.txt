@@ -1,992 +1,1000 @@
--19.365502000000003
--16.592576
--150.44759799999997
--39.021587
--28.510608000000005
--84.77311300000001
--21.263874
--28.949919
--24.024889
--22.166919999999998
--21.560885
--31.241688
--21.890389
--62.18180800000001
--43.596356
--46.778787
--52.218416000000005
--64.49324199999998
--29.259156
--20.191646
--32.143572000000006
--31.761677
--21.26443
--31.513804
--47.44559499999999
--56.15605800000001
--89.23657499999999
--64.079687
--8.836785
--60.75571
--16.275403
--40.335035
--16.322276
--43.64875500000001
--64.140081
--35.173584999999996
--28.923838
--48.050706999999996
--19.143898000000004
--23.747825
--42.154723
--30.974880999999996
--64.410854
--49.86537899999999
--45.512558
--50.311668
--35.52413700000001
--28.260835
--15.444795000000001
--24.819385999999998
--29.079506
--17.973321
--19.498869000000003
--18.554057
--32.468237
--53.373543999999995
--25.240486000000004
--69.58711200000002
--72.37728599999998
--22.524903000000002
--27.970641999999998
--67.255777
--28.879756
--68.35518200000003
--16.559057
--22.592006999999995
--57.43753099999999
--122.23595999999998
--29.220425
--18.92671
--64.05407500000001
--41.347352
--51.795902000000005
--22.652161000000003
--16.558276
--75.337689
--83.45828399999999
--20.803382000000003
--36.455643
--22.063363
--68.06410399999999
--81.80305100000001
--58.84400799999999
--79.456839
--15.591600999999997
--29.479511
--18.391961000000006
--18.7753
--14.813763999999999
--49.617436
--97.41756300000002
--26.004801999999998
--33.280863999999994
--46.705164
--22.467882
--106.81202300000004
--23.318427
--18.233095000000002
--24.000774000000003
--26.030318
--49.01811000000001
--23.262062
--16.869529
--67.64557699999999
--52.09820899999999
--37.518555000000006
--33.436077000000004
--43.577147000000004
--36.157360999999995
--22.994018999999998
--40.167892
--22.688191999999997
--26.983418
--24.121245999999996
--18.174712000000003
--16.700239
--38.861957999999994
--24.054695000000002
--76.79343099999997
--15.753386999999998
--59.793502
--75.18466599999999
--30.999587000000002
--157.47195200000004
--52.34725299999999
--43.471671
--26.028157
--25.613349
--16.293166
--39.378762
--23.893587999999998
--17.158405
--32.477242999999994
--25.634342
--63.37486799999999
--20.352815000000003
--21.308450999999998
--75.15845499999999
--67.12604300000001
--45.775944
--51.770996000000004
--64.700853
--40.902542000000004
--79.64434700000002
--52.702947
--72.55053300000002
--53.215070000000004
--24.355687999999997
--32.416323999999996
--96.49548300000001
--101.49469000000003
--45.80677000000001
--25.928773999999997
--24.502501000000002
--26.372517000000006
--51.01014100000002
--28.801948
--37.324431
--14.88546
--21.90171
--27.010218000000005
--21.532250999999995
--38.736239000000005
--39.23572299999999
--61.648254
--100.68671800000001
--21.443254999999997
--17.465335
--46.771827
--53.257953
--74.40160799999998
--52.40391600000001
--42.300259999999994
--27.059807000000003
--30.657482
--43.591271000000006
--41.220881
--16.127808
--43.84858799999999
--48.084781
--50.93746300000001
--61.50527800000002
--138.26509400000003
--34.951584
--24.065082999999998
--27.139741000000004
--61.03159600000001
--23.646843999999998
--52.450293999999985
--16.820875
--38.92526900000001
--26.524650000000005
--18.160009999999996
--43.99445300000001
--78.993997
--85.40756599999999
--28.131418999999994
--51.100015000000006
--36.565878000000005
--22.717094
--20.376106999999998
--20.826593
--29.083722
--67.99889900000001
--33.96733800000001
--39.947609
--103.10197900000003
--15.907179000000001
--65.13576200000001
--76.82082600000001
--36.292914999999994
--26.81319699999999
--26.747667
--46.875403000000006
--41.349571999999995
--27.838389
--30.524343000000002
--99.18467600000001
--20.323494
--18.365940000000002
--26.847632
--24.308301000000004
--26.046609
--22.344076
--20.951157000000002
--54.91698900000001
--22.049596999999995
--44.890861
--24.007570000000005
--64.79636800000002
--58.239003000000004
--67.592715
--175.60482
--28.143252999999998
--21.425539
--21.583816
--33.956294
--25.397650999999996
--35.507295
--19.532335000000003
--28.347468000000003
--48.83624300000001
--64.11134600000001
--21.676783999999998
--52.19897
--20.785204999999998
--20.851043999999998
--48.280370000000005
--37.991098
--72.78333300000001
--142.75803699999997
--19.689035
--30.088743
--95.19201099999998
--18.122376
--20.45924
--88.08452999999999
--19.484872999999997
--76.510775
--26.824418
--22.055709000000004
--43.09207099999998
--41.359684
--114.58287399999998
--47.801421999999995
--55.583064
--17.918129
--44.828241999999996
--28.855442999999994
--34.840415
--21.754139000000002
--16.276165
--52.904408000000004
--21.433678
--21.329584000000004
--50.80271700000001
--42.128603
--60.14875200000001
--59.12405499999999
--18.867974999999998
--96.854467
--22.5348
--37.217144999999995
--67.326961
--45.15983400000001
--30.928811000000003
--47.554139000000006
--57.02889800000001
--29.767975999999997
--33.124052999999996
--69.92694900000004
--41.442259
--39.255838
--20.591906
--46.232468000000004
--35.008299
--54.88434900000001
--29.922477
--75.85133400000001
--30.478536000000002
--42.276998000000006
--53.42534799999999
--24.105079000000003
--96.57786999999999
--43.461379
--95.150419
--73.577835
--25.614747
--27.287329999999997
--19.084166
--71.701675
--30.99049
--18.161433
--46.387074000000005
--21.310168
--26.620793000000003
--17.504157
--41.573306
--38.60572100000001
--24.942761000000004
--48.749512
--42.459568999999995
--48.84534
--15.412914999999998
--22.139128999999997
--71.272555
--23.112410999999998
--25.133452
--128.78006000000005
--20.221147000000002
--49.38151699999999
--22.466614
--19.207758
--20.344828999999997
--21.841001000000002
--15.308488
--25.339756999999995
--15.522402
--37.820809
--17.184264000000002
--66.24931300000001
--15.744209000000001
--23.439487999999997
--45.609797
--44.148676
--42.294177
--26.572159
--48.908507
--18.09217
--43.023964
--15.490211
--56.46447999999999
--48.398956999999996
--18.256237
--63.089825000000005
--28.166629999999998
--50.810574
--18.802981
--38.117977
--32.890114
--43.649505999999995
--52.300777000000004
--87.23004800000002
--44.028456
--71.782004
--57.007422999999996
--17.974480999999997
--16.307517
--65.40623000000001
--16.613329000000004
--46.75889299999999
--20.775509999999997
--44.05523600000001
--52.493302
--43.989726
--35.314187000000004
--34.874373999999996
--52.483489999999996
--82.405846
--41.335753000000004
--18.16742
--72.06192600000001
--57.799506000000015
--35.506057
--26.267615000000003
--41.69693
--25.721223
--37.691657
--28.664731
--20.968721000000002
--66.188424
--43.155413
--39.383604999999996
--41.049254000000005
--21.433128000000004
--21.674809999999997
--24.454888
--53.25540199999999
--16.862677
--46.371082
--60.894355999999995
--44.931512
--36.605945
--22.865113
--27.736537000000002
--28.207013999999997
--37.259299
--27.325739999999996
--35.044751
--23.957718
--35.230297
--29.583264
--28.485481999999998
--26.164154000000003
--79.42260000000002
--30.287030000000005
--16.652865
--46.567798
--42.041456999999994
--27.712156000000004
--73.79896499999998
--23.67311
--50.13896400000001
--16.330195999999997
--64.95637199999999
--29.470003
--29.344978000000005
--49.851635
--45.449735000000004
--28.084438
--45.814742
--58.64212899999999
--25.29204
--58.63350399999999
--51.422768000000005
--15.616254999999999
--22.265988999999998
--33.694284999999994
--53.281555999999995
--60.64513500000001
--27.226777000000002
--44.895644
--33.650397000000005
--45.553319
--37.702679
--16.22793
--34.053615
--109.45827200000001
--16.995587999999998
--48.30695299999999
--19.555113
--20.28385
--72.931486
--43.642268
--71.93316399999999
--16.436286000000003
--56.542971
--25.942341999999996
--26.432405
--66.33316199999999
--54.58469899999999
--46.426197
--24.841337999999997
--72.310592
--32.242908
--36.831294
--28.505111
--26.987429000000002
--17.501043
--45.634275
--54.97531699999999
--68.34119700000001
--52.372006
--58.584742999999996
--18.474527
--45.666688
--85.494367
--58.52599399999999
--113.881248
--19.349324000000003
--28.533837000000002
--14.573769
--53.065992
--29.293675999999994
--41.76832
--59.91051499999999
--75.314333
--42.007093000000005
--17.972580999999998
--17.304753
--63.205231000000005
--21.818979000000002
--51.507059
--26.997311000000003
--89.55716800000002
--72.612813
--29.839475000000004
--21.690689
--18.139698
--62.05276300000001
--55.166066
--29.014074999999995
--44.721307
--39.83553199999999
--15.022936000000001
--19.139833
--21.857320000000005
--19.237325
--23.278711
--34.788247000000005
--32.149433
--43.91029699999999
--76.556808
--28.558729000000003
--114.83207399999999
--70.116272
--47.795769
--23.798255
--85.80476300000004
--16.892124
--19.328996999999998
--32.860893999999995
--38.917016
--72.85407199999999
--33.533252000000005
--49.706877999999996
--32.255269000000006
--93.56401299999999
--30.003380999999994
--37.14528
--30.002514
--36.08874500000001
--47.186447
--27.70646
--60.02920600000001
--61.896439999999984
--33.67652199999999
--34.028792
--18.296999
--16.61589
--117.90659399999997
--33.66515199999999
--29.904123
--20.888389999999998
--37.573881
--38.074547
--99.92389299999998
--24.961968
--32.218405
--44.305088000000005
--61.23208499999999
--43.35969599999999
--31.792888000000005
--24.38333
--40.750498
--52.58683
--39.668337
--32.950205
--28.570554000000005
--21.165829
--34.966154
--16.354757
--22.543811
--112.78658800000001
--57.63673000000001
--60.54535100000002
--62.47738699999999
--31.181937
--28.671561999999998
--22.033036
--43.389624
--21.379382000000003
--40.996919000000005
--54.72690299999999
--29.857795
--87.132342
--15.426495000000001
--36.424935999999995
--61.042293
--42.055954
--55.36412899999999
--53.946306
--42.59308
--36.035712
--55.761612
--29.922691999999998
--15.500543
--29.471751000000005
--29.972700000000003
--45.53737199999999
--41.305048000000006
--22.252826
--66.884198
--20.485111
--19.25733
--16.086391
--71.78946700000002
--48.341756
--35.75655799999999
--24.156116
--61.67382699999999
--49.979682000000004
--40.640586
--19.356209
--39.224892000000004
--129.98841299999998
--68.49561299999999
--31.355723
--35.964285000000004
--70.96088500000002
--39.60114
--20.409045000000003
--36.769123
--46.738294999999994
--53.596602
--45.953849999999996
--34.16171100000001
--37.164456
--70.523802
--40.205414
--44.890218999999995
--21.271087999999995
--21.213538
--37.519876000000004
--28.541256999999998
--42.510709999999996
--23.435595
--16.309342
--36.434846
--23.647709999999996
--38.905387
--43.146592
--22.340362000000002
--48.416585000000005
--17.474474
--40.62682600000001
--20.664517
--52.83425900000002
--29.390676
--16.814300000000003
--45.374519
--20.04941
--53.470158000000005
--51.713840999999995
--17.260891
--53.598409000000004
--38.136145
--59.46231800000001
--28.914088
--39.70315599999999
--128.981964
--25.074612000000002
--62.820346
--80.24310200000001
--23.289043999999993
--25.934406
--18.138256999999996
--60.076301999999984
--31.792238
--60.35238400000001
--19.393305999999995
--56.176407
--27.333792000000003
--162.04787299999995
--26.883473000000002
--63.780768
--23.056649
--18.003351000000002
--20.488244
--38.075662
--55.28811599999999
--31.490416
--57.11858400000001
--62.124022
--34.178166
--20.340782
--38.06953900000001
--26.146535999999994
--31.801945000000003
--35.470258
--33.358188
--41.606607
--49.080805
--42.79777599999999
--18.934844999999996
--38.378928
--44.787921000000004
--94.202184
--76.933051
--17.502787
--46.58766800000001
--15.677623
--76.193218
--36.718682
--19.714177999999997
--17.166762
--66.44444899999998
--26.151139
--29.148014
--65.93485699999998
--58.294143000000005
--40.18258599999999
--16.576378
--21.963497
--50.71355700000001
--27.043018000000004
--20.887804000000003
--45.77978
--21.226132
--32.501206
--46.496818
--55.570906
--63.141759
--27.708634000000004
--40.09106
--33.539443
--22.133706000000004
--38.537417000000005
--43.379627
--32.331573000000006
--45.907785000000004
--19.302667000000003
--74.806146
--26.840618000000003
--36.412375000000004
--45.40578300000001
--31.529413999999996
--59.12037600000001
--32.981914
--28.117003
--48.52980399999999
--35.879399
--69.82432700000001
--26.852327
--17.130852
--20.881911000000002
--37.162454999999994
--18.531808999999996
--19.227349
--105.35264600000001
--15.189391999999998
--31.893190000000004
--37.929083000000006
--47.47024400000001
--38.67041100000001
--15.548233000000002
--17.686811000000002
--40.67472
--21.842011
--45.116512000000014
--41.791399
--32.464217
--18.556078
--68.96171600000001
--94.32288899999999
--68.23476999999997
--49.906600000000005
--79.51388299999999
--41.348721
--23.269132000000003
--28.794963
--20.743108000000003
--22.161704999999998
--25.54203
--58.006037000000006
--32.328828
--23.138238
--29.502667
--50.554659000000015
--24.990791000000005
--29.929846
--39.66581599999999
--63.591337
--41.962208
--62.910522
--72.12013499999999
--45.590506
--22.268346
--38.375308999999994
--51.644196
--53.572587
--160.49786899999998
--47.98041700000002
--62.121160999999994
--52.274640000000005
--23.443055
--20.745486000000003
--68.673264
--87.43561199999999
--23.957672000000002
--22.382533000000002
--14.963175999999999
--21.707197000000004
--30.187495
--127.12527199999997
--22.552616999999998
--18.008830999999997
--66.78851
--32.096301999999994
--56.44328600000001
--16.370637000000002
--21.026618
--17.040290000000002
--18.78245
--69.725624
--148.00434099999995
--30.895688999999997
--45.587791
--18.042061
--26.832314000000004
--25.474664
--25.469136000000002
--62.899927999999996
--90.54199700000004
--18.333076000000002
--25.809766
--40.264905
--38.723029999999994
--38.109564999999996
--37.678864
--17.450796
--37.15931600000001
--42.610752000000005
--20.179974
--19.585973000000003
--23.476447999999998
--115.19887000000001
--66.143737
--53.00959899999999
--45.132461
--43.39605899999999
--24.03354
--20.455031
--24.955827
--49.61019300000001
--33.504915
--25.824999000000002
--35.292546
--33.145666999999996
--42.75774500000001
--28.418886999999998
--33.225218999999996
--40.115526
--27.819361
--47.216166
--56.867290999999994
--44.51320199999999
--56.589870000000005
--83.55577
--26.732109
--51.27648099999999
--18.8558
--16.248158
--54.015893000000005
--18.491582
--29.442830999999998
--49.43561099999999
--73.76505099999997
--15.400317
--22.582516000000002
--57.69586200000001
--24.57009
--75.53979099999998
--66.00038900000001
--122.79987600000001
--30.814151000000003
--54.39976
--25.461887
--24.353928000000003
--31.034481
--76.37579199999999
--21.030932
--32.473495
--41.642612
--63.63241899999999
--33.511376
--41.123279000000004
--23.14771
--75.74483900000001
--42.00983900000001
--12.951760999999998
--30.732238000000006
--21.215434999999996
--44.487785
--52.806622
--50.006944
--33.448274
--27.589878999999996
--39.610587
--30.327071
--16.933704000000002
--27.680995000000003
--28.267193999999996
--19.607259000000003
--31.178067000000006
--47.42857800000001
--30.602961999999998
--37.667554
--125.213134
--24.306305000000002
--25.553715999999998
--19.925412000000005
--56.25085400000001
--25.932157
--91.73911200000002
--39.117118999999995
--30.604548
--106.70502400000001
--48.411075000000004
--53.789737
--27.722272
--42.60404700000001
--41.69180600000002
--94.11721299999999
--31.838227
--19.940585000000002
--105.48763899999997
--27.959717999999995
--20.596899000000004
--59.4964
--48.554545
--37.852653999999994
--17.741218000000003
--42.918408000000014
--29.230643000000004
--18.937051
--48.030011
--32.838303
--23.893636
--19.77756
--17.330705000000002
--15.282253
--90.309669
--56.709543999999994
--29.934448000000003
--39.635574000000005
--21.808008
--17.187271
--39.843457
--30.711185
--173.378507
--48.666404
--15.783232
--44.12058
--50.485891
--42.312147
--24.671727
--46.377111
--34.75592800000001
--24.369002000000002
--32.503781999999994
--34.463005
--72.29592200000002
--26.766033000000007
--39.82345400000001
--89.802591
--50.27047700000001
--31.831311999999997
--63.80360700000001
--26.976470999999997
--66.073907
--46.203391999999994
--18.783566000000004
--25.662561999999998
--60.07982000000002
--18.874667000000002
--30.763196000000004
--47.26563
--42.811603000000005
--94.92788799999998
--65.15075199999998
--49.865755
--55.21530799999999
--57.32300299999999
--16.972857
--18.956514000000002
--74.910032
--25.767772
--16.166117
--19.151165999999996
--52.91605400000001
--29.007001999999996
--68.752304
--53.032486
--57.36477200000001
--15.316409
--77.042844
--28.361248000000003
--62.57402899999999
--85.715431
--29.242737
--44.36870799999999
+awards -ed load	▁awards ▁- ed ▁ l o a d	-19.365502000000003
+domain resis	▁domain ▁ r es i s	-16.592576
+nationwide ambassadors -s claiming cloth attempted nauseous gator -ed establishes a chutes -es reverse prettier foreground at	▁ n ation w i d e ▁ambassadors ▁- s ▁ c l a i m ing ▁ c l o t h ▁attempted ▁ n a u s e o u s ▁gator ▁- ed ▁establishes ▁a ▁ c h u t es ▁- es ▁ re v e r s e ▁ p re t t i e r ▁foreground ▁a t	-150.44759799999997
+temptation bicycling broadcast	▁temptation ▁bicycling ▁ b r o a d c a s t	-39.021587
+an artist -s sourcing mate	▁an ▁artist ▁- s ▁sourcing ▁ m a t e	-28.510608000000005
+capsules silence standard demise recognizing decoration -ed consum	▁capsules ▁ s i l e n c e ▁ s t an d a r d ▁demise ▁recognizing ▁decoration ▁- ed ▁con s u m	-86.253349
+bicycling -s prefe	▁bicycling ▁- s ▁ p re f e	-21.263874
+easterners -s started a	▁easterners ▁- s ▁ s t a r t ed ▁a	-28.949919
+the sculptures -s guid	▁ the ▁sculptures ▁- s ▁ g u i d	-24.024889
+voices hat	▁ v o i c es ▁ h a t	-22.166919999999998
+an secularist -ed operat	▁an ▁secularist ▁- ed ▁ o p e r a t	-21.560885
+weathered explorers -s	▁ w e a the r ed ▁explorers ▁- s	-31.241688
+the edifices -s dissolv	▁ the ▁edifices ▁- s ▁dis s o l v	-21.890389
+waist in foreground -s construe the vessel session -s breath	▁waist ▁in ▁foreground ▁- s ▁con s t r u e ▁ the ▁ v es s e l ▁session ▁- s ▁breath	-62.18180800000001
+unstable dissertation giggling	▁un s t able ▁dissertation ▁ g i g g l ing	-52.598579
+gravitational ambiguity staind on	▁ g r a v i t ation al ▁ambiguity ▁ s t a i n d ▁on	-46.778787
+a electrons -ed plant westerners employed on	▁a ▁electrons ▁- ed ▁plant ▁westerners ▁ e m p l o y ed ▁on	-52.218416000000005
+flourishing beach -ed optimized in e-	▁ f l o u r i s h ing ▁beach ▁- ed ▁ o p t i m i z ed ▁in ▁ e -	-64.49324199999998
+hurdles stumbled the	▁hurdles ▁stumbled ▁ the	-29.259156
+the billions rid	▁ the ▁billions ▁ r i d	-20.191646
+nerves on unknowns -es dampe	▁nerves ▁on ▁unknowns ▁- es ▁ d a m p e	-32.143572000000006
+injustice extracts	▁injustice ▁ e x t r a c t s	-31.761677
+waves -es increas	▁ w a v es ▁- es ▁in c re a s	-26.585977999999997
+a westerners mapped on	▁a ▁westerners ▁ m a p p ed ▁on	-31.513804
+terrible interventions populariz	▁ t e r r i b l e ▁interventions ▁ p o p u l a r i z	-47.44559499999999
+weathered opportunities in distortions -ed malfunctioned an wavenumber	▁ w e a the r ed ▁opportunities ▁in ▁distortions ▁- ed ▁malfunction ed ▁an ▁wavenumber	-56.15605800000001
+tooth -es perfected a injection records problematic noggins -ed pride	▁ t o o t h ▁- es ▁ p e r f e c t ed ▁a ▁injection ▁ re c o r d s ▁pro b l e m a t i c ▁noggins ▁- ed ▁pride	-89.23657499999999
+an album -ed arrived success tighten intensive	▁an ▁ al b u m ▁- ed ▁arrived ▁success ▁ t i g h t e n ▁in t e n s i v e	-64.079687
+character moan	▁character ▁ m o an	-15.129805000000001
+character -es predict populous woodland -s sourcing the	▁character ▁- es ▁ p r ed i c t ▁ p o p u l o u s ▁woodland ▁- s ▁sourcing ▁ the	-60.75571
+the impression -s	▁ the ▁impression ▁- s	-16.275403
+the electrons wanting pilgrims at conjectures	▁ the ▁electrons ▁ w an t ing ▁pilgrims ▁a t ▁conjectures	-40.335035
+a taunts -s	▁a ▁taunts ▁- s	-16.322276
+onions -es deflated in fait	▁on ions ▁- es ▁ d e f l a t ed ▁in ▁ f a i t	-43.64875500000001
+the embarrassment bustling taunts at compass -s experiencing	▁ the ▁embarrassment ▁ b u s t l ing ▁taunts ▁a t ▁compass ▁- s ▁ e x p e r i e n c ing	-64.140081
+localist campaigns -ed stoo	▁ l o c al i s t ▁campaign s ▁- ed ▁ s t o o	-38.577405999999996
+campaigns created	▁campaign s ▁ c re a t ed	-28.923838
+an basils -ed scoured ballet -es congratulated	▁an ▁basils ▁- ed ▁ s c o u r ed ▁ballet ▁- es ▁congratulate d	-48.050706999999996
+generations -ed press	▁generations ▁- ed ▁ p r es s	-19.143898000000004
+landings -s dread	▁landings ▁- s ▁ d re a d	-23.747825
+predators hurtled hotspots discuss	▁predators ▁hurtle d ▁hotspots ▁dis c u s s	-42.154723
+a tarpaulin involves the	▁a ▁tarpaulin ▁in v o l v es ▁ the	-30.974880999999996
+the dividends on faith -s awarded injection strengthening county -es inhal	▁ the ▁dividends ▁on ▁ f a i t h ▁- s ▁awarded ▁injection ▁strengthening ▁county ▁- es ▁in h al	-64.410854
+ornaments attributed geologist wanting an	▁ornaments ▁a t t r i b u t ed ▁geologist ▁ w an t ing ▁an	-49.86537899999999
+textbook taunts -ed cleansing at	▁textbook ▁taunts ▁- ed ▁ c l e an s ing ▁a t	-53.004357999999996
+peremptory artist -es bobbing the	▁ p e re m p t o r y ▁artist ▁- es ▁ b o b b ing ▁ the	-50.311668
+listings -ed urging the conjectures bas	▁listing s ▁- ed ▁ u r g ing ▁ the ▁conjectures ▁ b a s	-35.52413700000001
+wealthy paths	▁ w e al t h y ▁paths	-28.260835
+brevet -ed agree	▁brevet ▁- ed ▁a gree	-15.444795000000001
+the things trust	▁ the ▁ t h ing s ▁ t r u s t	-24.819385999999998
+the cocoa -s discoun	▁ the ▁ c o c o a ▁- s ▁dis c o u n	-29.079506
+an paratexts affir	▁an ▁paratexts ▁a f f i r	-17.973321
+an fullness haul	▁an ▁fullness ▁ h a u l	-19.498869000000003
+an actresses -s hop	▁an ▁actresses ▁- s ▁ h o p	-18.554057
+lakefront racism -es remain	▁lakefront ▁ r a c i s m ▁- es ▁ re m a i n	-40.810885
+emergency -s consuming intelligibility inhaling domain in	▁emergency ▁- s ▁con s u m ing ▁intelligibility ▁in h al ing ▁domain ▁in	-53.373543999999995
+the things -es focus	▁ the ▁ t h ing s ▁- es ▁ f o c u s	-25.240486000000004
+republican appellants vaccine dispute a mathematicians turn	▁ re p u b l i c an ▁appellants ▁vaccine ▁dis p u t e ▁a ▁mathematicians ▁ t u r n	-69.58711200000002
+an minorities on mathematicians trails plant a textbook -s waste on	▁an ▁minorities ▁on ▁mathematicians ▁trails ▁plant ▁a ▁textbook ▁- s ▁ w a s t e ▁on	-72.37728599999998
+the uncle -s squis	▁ the ▁un c l e ▁- s ▁ s q u i s	-22.524903000000002
+injection congratulate an	▁injection ▁congratulate ▁an	-27.970641999999998
+weird earthquake -s laughed gentleman -ed deposited in	▁ w e i r d ▁earthquake ▁- s ▁laugh ed ▁gentleman ▁- ed ▁ d e p o s i t ed ▁in	-68.30055999999999
+territory -s demanded the	▁territory ▁- s ▁ d e m an d ed ▁ the	-28.879756
+chair -ed contemplating limitations farmer -ed drained the waves -es construct	▁ c h a i r ▁- ed ▁contemplating ▁limitations ▁farmer ▁- ed ▁drained ▁ the ▁ w a v es ▁- es ▁con s t r u c t	-68.35518200000003
+a haven -es	▁a ▁haven ▁- es	-16.559057
+a enjambment -s hampe	▁a ▁enjambment ▁- s ▁ h a m p e	-22.592006999999995
+capsules -s banned loose boundaries withhel	▁capsules ▁- s ▁ b an n ed ▁ l o o s e ▁boundaries ▁ w i t h h e l	-57.43753099999999
+non-personal flats at hints -es frame the spite comprised a flash backed an seeds fait	▁ n o n - p e r s o n al ▁ f l a t s ▁a t ▁hints ▁- es ▁ f r a m e ▁ the ▁spite ▁comp r i s ed ▁a ▁ f l a s h ▁ b a c k ed ▁an ▁ s e ed s ▁ f a i t	-125.52074999999998
+an improvements worshipp	▁an ▁improvements ▁ w o r s h i p p	-29.220425
+pilgrims -s hat	▁pilgrims ▁- s ▁ h a t	-18.92671
+giant institutions -ed locking commanding decisions approv	▁ g i an t ▁institutions ▁- ed ▁ l o c k ing ▁ c o m m an d ing ▁decisions ▁a p p r o v	-64.05407500000001
+the offices -ed raided on chai	▁ the ▁office s ▁- ed ▁ r a i d ed ▁on ▁ c h a i	-41.347352
+industrialized cemetery -ed frequented vocal	▁in d u s t r i al i z ed ▁cemetery ▁- ed ▁frequented ▁ v o c al	-55.920374
+the buses -ed searc	▁ the ▁buses ▁- ed ▁ s e a r c	-22.652161000000003
+a gentleman -s	▁a ▁gentleman ▁- s	-16.558276
+re(a)d slice heels in listings -es giggling on chai	▁ re ( a ) d ▁slice ▁heels ▁in ▁listing s ▁- es ▁ g i g g l ing ▁on ▁ c h a i	-75.337689
+stipulation washed a slides recorded a sinuses brevet -s ceased an shelter	▁stipulation ▁ w a s h ed ▁a ▁slides ▁recorded ▁a ▁sinuses ▁brevet ▁- s ▁cease d ▁an ▁shelter	-83.45828399999999
+the warping -ed sizzl	▁ the ▁warping ▁- ed ▁ s i z z l	-20.803382000000003
+noisy saponins remain	▁ n o i s y ▁saponins ▁ re m a i n	-36.455643
+a lanterns host	▁a ▁lantern s ▁ h o s t	-22.063363
+chubby vaccine brevet -s defund a office -es popped	▁ c h u b b y ▁vaccine ▁brevet ▁- s ▁defund ▁a ▁office ▁- es ▁ p o p p ed	-73.069808
+evolutionary offices onions -es washing modernity on learners attract	▁ e v o l u t i o n a r y ▁office s ▁on ions ▁- es ▁ w a s h ing ▁modernity ▁on ▁learners ▁a t t r a c t	-81.80305100000001
+an geologists locals -es contemplating dishonest hurdles	▁an ▁geologist s ▁ l o c al s ▁- es ▁contemplating ▁dis h o n es t ▁hurdles	-58.84400799999999
+asbestos resist impossible parole rosters -s sworn the officer	▁asbestos ▁ r es i s t ▁ i m p o s s i b l e ▁parole ▁rosters ▁- s ▁ s w o r n ▁ the ▁office r	-79.456839
+citations -s	▁citations ▁- s	-15.591600999999997
+reflection airwaves -s generating	▁reflection ▁airwaves ▁- s ▁gener a t ing	-37.573226999999996
+baseball -ed turn	▁baseball ▁- ed ▁ t u r n	-18.391961000000006
+the geologist aid	▁ the ▁geologist ▁a i d	-18.7753
+a carbons	▁a ▁carbons	-14.813763999999999
+an islamophobia -s promoted perils neckhole grasp	▁an ▁islamophobia ▁- s ▁pro m o t ed ▁perils ▁neckhole ▁ g r a s p	-49.617436
+cosmopolitan masters -es sacrificed an officers ballot -es ow	▁ c o s m o p o l i t an ▁masters ▁- es ▁ s a c r i f i c ed ▁an ▁office r s ▁ b al l o t ▁- es ▁ o w	-97.41756300000002
+unstable co-founder -s wav	▁un s t able ▁ c o - founder ▁- s ▁ w a v	-26.004801999999998
+outro analyz	▁ o u t r o ▁an al y z	-33.280863999999994
+reasonable currents -ed broadcast	▁ re a s o n able ▁currents ▁- ed ▁ b r o a d c a s t	-49.620116
+a habit -s	▁a ▁ h a b i t ▁- s	-22.467882
+saponins -s summed fruity buses at disenfranchisement -s screwed philosophical recognition haul	▁saponins ▁- s ▁ s u m m ed ▁ f r u i t y ▁buses ▁a t ▁dis enfranchisement ▁- s ▁ s c re w ed ▁ p h i l o s o p h i c al ▁recognition ▁ h a u l	-106.81202300000004
+vessel -es compris	▁ v es s e l ▁- es ▁comp r i s	-23.318427
+a payment -s	▁a ▁payment ▁- s	-18.233095000000002
+model featu	▁model ▁ f e a t u	-24.000774000000003
+a appellants behave at	▁a ▁appellants ▁behave ▁a t	-26.030318
+the tragedy in classes bobbing disenfranchisement sav	▁ the ▁tragedy ▁in ▁classes ▁ b o b b ing ▁dis enfranchisement ▁ s a v	-49.842566000000005
+the cocoa -s award	▁ the ▁ c o c o a ▁- s ▁a w a r d	-23.262062
+territory intend	▁territory ▁in t e n d	-16.869529
+festivals offers sixth chance -es agreeing a	▁festivals ▁ o f f e r s ▁ s i x t h ▁ c h an c e ▁- es ▁a gree ing ▁a	-67.64557699999999
+an fullness on outro illustrate slice -s provid	▁an ▁fullness ▁on ▁ o u t r o ▁illustrate ▁slice ▁- s ▁pro v i d	-52.09820899999999
+least gardens dread	▁ l e a s t ▁gardens ▁ d re a d	-37.518555000000006
+behaviors -ed crawling institutions -es	▁behaviors ▁- ed ▁ c r a w l ing ▁institutions ▁- es	-33.436077000000004
+outlandish officers watch	▁ o u t l an d i s h ▁office r s ▁ w a t c h	-43.577147000000004
+an reproduction -es dipped a considerations -ed inflat	▁an ▁reproduction ▁- es ▁ d i p p ed ▁a ▁considerat ions ▁- ed ▁in f l a t	-40.954407999999994
+a chance protes	▁a ▁ c h an c e ▁pro t es	-22.994018999999998
+the lanterns postponed a trails judg	▁ the ▁lantern s ▁postponed ▁a ▁trails ▁ j u d g	-40.167892
+a album -es affir	▁a ▁ al b u m ▁- es ▁a f f i r	-22.688191999999997
+uncontrolled websites mean	▁uncontro l l ed ▁websites ▁ m e an	-26.983418
+destinations -es credential	▁destinations ▁- es ▁ c r ed e n t i al	-24.121245999999996
+an inhalation -s protect	▁an ▁inhalation ▁- s ▁pro t e c t	-18.174712000000003
+campaign -ed	▁campaign ▁- ed	-16.700239
+an e-mail -es hesitated clot	▁an ▁ e - mail ▁- es ▁ h es i t a t ed ▁ c l o t	-38.861957999999994
+an activist subscrib	▁an ▁activist ▁ s u b s c r i b	-26.000996999999998
+noisy stipulation explorers highlights an lifetimes insisted on	▁ n o i s y ▁stipulation ▁explorers ▁ h i g h l i g h t s ▁an ▁lifetimes ▁in s i s t ed ▁on	-76.79343099999997
+airports -ed ow	▁airports ▁- ed ▁ o w	-15.753386999999998
+healthy neighbors watched beaches -ed oppose	▁ h e al t h y ▁neighbors ▁ w a t c h ed ▁beach es ▁- ed ▁ o p pose	-59.793502
+demise enable an spite -es printed standard	▁demise ▁ e n able ▁an ▁spite ▁- es ▁ p r i n t ed ▁ s t an d a r d	-75.18466599999999
+commanding continents -es	▁ c o m m an d ing ▁continent s ▁- es	-30.999587000000002
+a effort -es reward an magazines recognising non-representative merchandise -s agreeing a fathers -es allocated postacetabular narcotics mimi	▁a ▁effort ▁- es ▁ re w a r d ▁an ▁magazines ▁ re c o g n i s ing ▁ n o n - re p r es e n t a t i v e ▁merchandise ▁- s ▁a gree ing ▁a ▁fathers ▁- es ▁allocated ▁ p o s t a c e t a b u l a r ▁narcotics ▁ m i m i	-160.26880200000005
+centerpiece -es launching a electrons -ed waging	▁centerpiece ▁- es ▁ l a u n c h ing ▁a ▁electrons ▁- ed ▁ w a g ing	-52.34725299999999
+french hormones foreigners -es inflat	▁ f re n c h ▁hormones ▁foreigners ▁- es ▁in f l a t	-43.471671
+a anchorage breathed	▁a ▁anchorage ▁breath ed	-26.028157
+learners -ed finishing	▁learners ▁- ed ▁finish ing	-25.613349
+the creases -s	▁ the ▁creases ▁- s	-16.293166
+an crown bartending stor	▁an ▁ c r o w n ▁ b a r t e n d ing ▁ s t o r	-43.111019999999996
+dryer animat	▁dryer ▁an i m a t	-23.893587999999998
+a enjambment -s	▁a ▁enjambment ▁- s	-17.158405
+the institutions wavenumber -ed collaps	▁ the ▁institutions ▁wavenumber ▁- ed ▁ c o l l a p s	-32.477242999999994
+neighbors -s plant listing	▁neighbors ▁- s ▁plant ▁listing	-25.634342
+seeds -es consuming a channels maddened a concentration	▁ s e ed s ▁- es ▁con s u m ing ▁a ▁channels ▁ m a d d e n ed ▁a ▁concentration	-63.37486799999999
+a pixie -s engulf	▁a ▁pixie ▁- s ▁ e n g u l f	-20.352815000000003
+maiden -es scour	▁maiden ▁- es ▁ s c o u r	-21.308450999999998
+easterners quantification impart the toilet slipping guardians slowed in	▁easterners ▁quantification ▁impart ▁ the ▁toilet ▁ s l i p p ing ▁guardians ▁ s l o w ed ▁in	-77.161035
+scoreboard -es donned tenure -es heating the canvas -s hesitat	▁scoreboard ▁- es ▁ d o n n ed ▁tenure ▁- es ▁ h e a t ing ▁ the ▁canvas ▁- s ▁ h es i t a t	-67.12604300000001
+an comp. -ed swelling character -es stoo	▁an ▁comp . ▁- ed ▁ s w e l l ing ▁character ▁- es ▁ s t o o	-45.775944
+babinos -ed stumbled an sections -s blowing rescue -es renew	▁babinos ▁- ed ▁stumbled ▁an ▁sections ▁- s ▁ b l o w ing ▁rescue ▁- es ▁ re n e w	-51.770996000000004
+lucky vindication begins paratexts on anemone -ed	▁ l u c k y ▁vindication ▁ b e g i n s ▁paratexts ▁on ▁anemone ▁- ed	-64.700853
+an rides -s heating an razor -es intend	▁an ▁rides ▁- s ▁ h e a t ing ▁an ▁razor ▁- es ▁in t e n d	-40.902542000000004
+peremptory trails fleshed a tooth -es animated	▁ p e re m p t o r y ▁trails ▁ f l es h ed ▁a ▁ t o o t h ▁- es ▁an i m a t ed	-80.71208400000002
+ethnocentric flats	▁ e t h n o c e n t r i c ▁ f l a t s	-52.702947
+geologist exaggerated peninsula begins fullness -ed chomp	▁geologist ▁ e x a g g e r a t ed ▁peninsula ▁ b e g i n s ▁fullness ▁- ed ▁ c h o m p	-72.55053300000002
+a listings -ed denied a films allocated the voic	▁a ▁listing s ▁- ed ▁ d e n i ed ▁a ▁films ▁allocated ▁ the ▁ v o i c	-53.215070000000004
+artist -s palpitat	▁artist ▁- s ▁ p al p i t a t	-24.355687999999997
+a particles -es strengthening a grandmother wash	▁a ▁particles ▁- es ▁strengthening ▁a ▁grandmother ▁ w a s h	-33.654863999999996
+the influx -ed diverted a channels on alt.religion.scientology -es controls marketing -s laughed billions -es explain	▁ the ▁in f l u x ▁- ed ▁ d i v e r t ed ▁a ▁channels ▁on ▁ al t . re ligi o n . scientology ▁- es ▁con t r o l s ▁marketing ▁- s ▁laugh ed ▁billions ▁- es ▁ e x p l a i n	-96.49548300000001
+grained recognition -s struggle the buddies in easterners -s coined an municipalities establishes	▁ g r a i n ed ▁recognition ▁- s ▁ s t r u g g l e ▁ the ▁buddies ▁in ▁easterners ▁- s ▁ c o i n ed ▁an ▁municipalities ▁establishes	-101.49469000000003
+a tourist perfected neologism laughing	▁a ▁tourist ▁ p e r f e c t ed ▁neologism ▁laugh ing	-45.80677000000001
+the misconception -es ceased the stipulation	▁ the ▁misconception ▁- es ▁cease d ▁ the ▁stipulation	-32.150084
+an e-mail -ed simme	▁an ▁ e - mail ▁- ed ▁ s i m m e	-24.502501000000002
+the chunk -s exaggerat	▁ the ▁chunk ▁- s ▁ e x a g g e r a t	-26.372517000000006
+polytheistic minorities on verticalization -es wash	▁ p o l y the i s t i c ▁minorities ▁on ▁verticalization ▁- es ▁ w a s h	-51.01014100000002
+ballot -ed worshipp	▁ b al l o t ▁- ed ▁ w o r s h i p p	-28.801948
+the cultures -ed abandon at	▁ the ▁cultures ▁- ed ▁a b an d o n ▁a t	-37.324431
+jurisdictions	▁jurisdictions	-14.88546
+a influx brows	▁a ▁in f l u x ▁ b r o w s	-21.90171
+an stipulation -ed reparcell	▁an ▁stipulation ▁- ed ▁ re p a r c e l l	-31.136946000000005
+a babinos -s tumbl	▁a ▁babinos ▁- s ▁ t u m b l	-21.532250999999995
+prototypes swelling foreground	▁prototypes ▁ s w e l l ing ▁foreground	-38.736239000000005
+an philosopher containing a magazines beef	▁an ▁philosopher ▁con t a i n ing ▁a ▁magazines ▁ b e e f	-39.23572299999999
+the summit -s hated short restraint -ed swabs a	▁ the ▁summit ▁- s ▁ h a t ed ▁ s h o r t ▁restraint ▁- ed ▁ s w a b s ▁a	-61.648254
+opportune rescue interestingness communicate an influences roughened respective	▁ o p p o r t u n e ▁rescue ▁interestingness ▁communicate ▁an ▁influences ▁ r o u g h e n ed ▁ r es p e c t i v e	-100.68671800000001
+a festivals -s smas	▁a ▁festivals ▁- s ▁ s m a s	-21.443254999999997
+an listings -es	▁an ▁listing s ▁- es	-17.465335
+the classes backed tourist giving	▁ the ▁classes ▁ b a c k ed ▁tourist ▁ g i v ing	-47.839564
+the rescue -ed wired alarmed influx requi	▁ the ▁rescue ▁- ed ▁ w i r ed ▁ al a r m ed ▁in f l u x ▁ re q u i	-53.257953
+a classes assured an pictures crying moving capacities -s smas	▁a ▁classes ▁a s s u r ed ▁an ▁pictures ▁ c r y ing ▁ m o v ing ▁capacities ▁- s ▁ s m a s	-74.40160799999998
+intelligibility in science riding an glyphs -es follow	▁intelligibility ▁in ▁science ▁ r i d ing ▁an ▁glyphs ▁- es ▁ f o l l o w	-52.40391600000001
+bizarre success -es inferr	▁ b i z a r re ▁success ▁- es ▁in f e r r	-42.300259999999994
+the vaccine cousins	▁ the ▁vaccine ▁cousins	-27.059807000000003
+ambiguity -es increasing in	▁ambiguity ▁- es ▁in c re a s ing ▁in	-34.065814
+robots at dessert tighten	▁robots ▁a t ▁dessert ▁ t i g h t e n	-43.591271000000006
+ecological opportunities tempt	▁ e c o l o g i c al ▁opportunities ▁ t e m p t	-41.220881
+session than	▁session ▁ t h an	-16.127808
+the iceberg pictographs reclaimed	▁ the ▁iceberg ▁pictographs ▁ re c l a i m ed	-43.84858799999999
+peninsula at games adopting on	▁peninsula ▁a t ▁games ▁a d o p t ing ▁on	-48.084781
+defensive hospitality at demotion vibrated	▁ d e f e n s i v e ▁hospitality ▁a t ▁demotion ▁ v i b r a t ed	-50.93746300000001
+considerate dryer -ed offers the shrouds at easterners -ed dipp	▁considerat e ▁dryer ▁- ed ▁ o f f e r s ▁ the ▁shrouds ▁a t ▁easterners ▁- ed ▁ d i p p	-61.50527800000002
+a mater -es appeared a ballet at knots weekends -es toast capacity scooped dissertation in verticalization -es regretting an desert	▁a ▁ m a t e r ▁- es ▁appear ed ▁a ▁ballet ▁a t ▁knots ▁weekends ▁- es ▁ t o a s t ▁capacity ▁ s c o o p ed ▁dissertation ▁in ▁verticalization ▁- es ▁ re g re t t ing ▁an ▁desert	-141.431748
+a awards -s aging on town	▁a ▁awards ▁- s ▁a g ing ▁on ▁ t o w n	-34.951584
+channels -es view	▁channels ▁- es ▁ v i e w	-24.065082999999998
+secularist -es support	▁secularist ▁- es ▁ s u p p o r t	-27.139741000000004
+nationwide capacity putting gorgeous	▁ n ation w i d e ▁capacity ▁ p u t t ing ▁ g o r g e o u s	-61.03159600000001
+the bounds -ed claim	▁ the ▁bounds ▁- ed ▁ c l a i m	-23.646843999999998
+salty shortage wanting beach -ed hampe	▁ s al t y ▁shortage ▁ w an t ing ▁beach ▁- ed ▁ h a m p e	-54.59647899999999
+heels -ed	▁heels ▁- ed	-16.820875
+philosopher irrigate on	▁philosopher ▁ i r r i g a t e ▁on	-38.92526900000001
+seasons in distortions hop	▁seasons ▁in ▁distortions ▁ h o p	-26.524650000000005
+summit -es inten	▁summit ▁- es ▁in t e n	-18.160009999999996
+airwaves awaiting waist -es impact	▁airwaves ▁a w a i t ing ▁waist ▁- es ▁ i m p a c t	-43.99445300000001
+unsweetened dispersion at ornaments -ed phrase scoreboard struggle	▁un s w e e t e n ed ▁dispersion ▁a t ▁ornaments ▁- ed ▁phrase ▁scoreboard ▁ s t r u g g l e	-78.993997
+harsh ambiguity slipping indefinite union -s divid	▁ h a r s h ▁ambiguity ▁ s l i p p ing ▁in d e f i n i t e ▁union ▁- s ▁ d i v i d	-87.03541899999999
+an actors punc	▁an ▁a c t o r s ▁ p u n c	-28.131418999999994
+a seeds at admin -s represents in	▁a ▁ s e ed s ▁a t ▁admin ▁- s ▁ re p r es e n t s ▁in	-51.100015000000006
+beloved borders -ed concer	▁ b e l o v ed ▁borders ▁- ed ▁con c e r	-36.565878000000005
+a supplies catc	▁a ▁supplies ▁ c a t c	-22.717094
+a trails -s slow	▁a ▁trails ▁- s ▁ s l o w	-20.376106999999998
+an radio -s float	▁an ▁radio ▁- s ▁ f l o a t	-20.826593
+the narcotics deteriorat	▁ the ▁narcotics ▁ d e t e r i o r a t	-29.083722
+an attackers overcoming paranormal emergency -s experienc	▁an ▁attackers ▁ o v e r c o m ing ▁ p a r an o r m al ▁emergency ▁- s ▁ e x p e r i e n c	-70.510925
+an accomplishments on flats -s flesh	▁an ▁accomplishments ▁on ▁ f l a t s ▁- s ▁ f l es h	-33.96733800000001
+departure re-evaluate the trails -s record	▁departure ▁ re - evaluate ▁ the ▁trails ▁- s ▁ re c o r d	-39.947609
+the vindication fleshed a office lasts an crown -s washed uncontrolled slice -s reacted thing	▁ the ▁vindication ▁ f l es h ed ▁a ▁office ▁last s ▁an ▁ c r o w n ▁- s ▁ w a s h ed ▁uncontro l l ed ▁slice ▁- s ▁ re a c t ed ▁ t h ing	-103.10197900000003
+weekends -es	▁weekends ▁- es	-15.907179000000001
+an appellants at restaurant -s acqui	▁an ▁appellants ▁a t ▁restaurant ▁- s ▁a c q u i	-34.907045
+measly contracts jolt	▁ m e a s l y ▁contracts ▁ j o l t	-34.978168
+cooked calendar insured concrete responses on hurdles -es approv	▁ c o o k ed ▁calendar ▁in s u r ed ▁con c re t e ▁responses ▁on ▁hurdles ▁- es ▁a p p r o v	-76.82082600000001
+verticalization pursue the wavenumber -es contain	▁verticalization ▁pursue ▁ the ▁wavenumber ▁- es ▁con t a i n	-36.292914999999994
+calculus -s investigat	▁calculus ▁- s ▁in v es t i g a t	-26.81319699999999
+the intersects annoyed	▁ the ▁intersect s ▁an n o y ed	-26.747667
+harsh pregnancy -ed ending websites	▁ h a r s h ▁pregnancy ▁- ed ▁ e n d ing ▁websites	-46.875403000000006
+luxerious citizen -es reign	▁ l u x e r i o u s ▁citizen ▁- es ▁reign	-41.349571999999995
+the gentleman reigned a	▁ the ▁gentleman ▁reign ed ▁a	-27.838389
+baleful things -es	▁ b al e f u l ▁ t h ing s ▁- es	-31.592080000000003
+a racism appellants at conspiracy -s battling an learners in success involves breakers -s trac	▁a ▁ r a c i s m ▁appellants ▁a t ▁conspiracy ▁- s ▁ b a t t l ing ▁an ▁learners ▁in ▁success ▁in v o l v es ▁breakers ▁- s ▁ t r a c	-99.18467600000001
+the flash -es breath	▁ the ▁ f l a s h ▁- es ▁breath	-20.323494
+a worlds -ed mean	▁a ▁worlds ▁- ed ▁ m e an	-18.365940000000002
+an costumes -s monitor	▁an ▁costumes ▁- s ▁ m o n i t o r	-26.847632
+the movies -ed swun	▁ the ▁ m o v i es ▁- ed ▁ s w u n	-24.308301000000004
+an tales -ed buy	▁an ▁ t al es ▁- ed ▁ b u y	-26.046609
+a alcoholics in warping -es	▁a ▁alcoholics ▁in ▁warping ▁- es	-29.661407000000004
+the classes -ed reli	▁ the ▁classes ▁- ed ▁ re l i	-20.951157000000002
+disenfranchisement phrase the counter in considerations -ed touches	▁dis enfranchisement ▁phrase ▁ the ▁counter ▁in ▁considerat ions ▁- ed ▁ t o u c h es	-54.91698900000001
+a geologists undermin	▁a ▁geologist s ▁un d e r m i n	-22.049596999999995
+non-personal earthquake relies in	▁ n o n - p e r s o n al ▁earthquake ▁ re l i es ▁in	-44.890861
+the disenfranchisement -s heat	▁ the ▁dis enfranchisement ▁- s ▁ h e a t	-24.007570000000005
+gossipy tragedy at glyphs -s fathom a	▁ g o s s i p y ▁tragedy ▁a t ▁glyphs ▁- s ▁ f a t h o m ▁a	-64.79636800000002
+orchestral anime -es rejected	▁ o r c h es t r al ▁an i m e ▁- es ▁ re j e c t ed	-62.738555000000005
+gossipy cupcake brainstorm loopy classes -ed	▁ g o s s i p y ▁cupcake ▁brains t o r m ▁ l o o p y ▁classes ▁- ed	-67.592715
+substantive anemone -es sympathize generic component swabs german continent dipped postacetabular hours revisit the centres deni	▁ s u b s t an t i v e ▁anemone ▁- es ▁ s y m p a t h i z e ▁gener i c ▁component ▁ s w a b s ▁ g e r m an ▁continent ▁ d i p p ed ▁ p o s t a c e t a b u l a r ▁hours ▁ re v i s i t ▁ the ▁centres ▁ d e n i	-175.60482
+moving locals -es sav	▁ m o v ing ▁ l o c al s ▁- es ▁ s a v	-29.381793
+the speech operat	▁ the ▁speech ▁ o p e r a t	-21.425539
+the monarch -s desi	▁ the ▁monarch ▁- s ▁ d es i	-21.583816
+denomination -s drags in	▁denomination ▁- s ▁ d r a g s ▁in	-33.956294
+an ballot -es water	▁an ▁ b al l o t ▁- es ▁ w a t e r	-25.397650999999996
+cenotaph in hostel depending albu	▁cenotaph ▁in ▁hostel ▁depending ▁ al b u	-35.507295
+a fathers -es assur	▁a ▁fathers ▁- es ▁a s s u r	-19.532335000000003
+oversite constructed desert	▁oversite ▁con s t r u c t ed ▁desert	-28.347468000000003
+the wartime in glyphs construe a fault -ed	▁ the ▁wartime ▁in ▁glyphs ▁con s t r u e ▁a ▁ f a u l t ▁- ed	-48.83624300000001
+the cousins dismantle noggins -ed dispute re(a)d perils	▁ the ▁cousins ▁dis m an t l e ▁noggins ▁- ed ▁dis p u t e ▁ re ( a ) d ▁perils	-65.16467200000001
+a appearance -es comman	▁a ▁appearance ▁- es ▁ c o m m an	-21.676783999999998
+the objections recognition draft german	▁ the ▁objections ▁recognition ▁ d r a f t ▁ g e r m an	-52.19897
+an policing play	▁an ▁policing ▁ p l a y	-20.785204999999998
+anime rectif	▁an i m e ▁ re c t i f	-20.851043999999998
+conscious habit -es watered	▁con s c i o u s ▁ h a b i t ▁- es ▁ w a t e r ed	-48.280370000000005
+the hours flash -s towering	▁ the ▁hours ▁ f l a s h ▁- s ▁ t o w e r ing	-37.991098
+conversational afternoon reign passionate currents reparcell	▁con v e r s ation al ▁afternoon ▁reign ▁ p a s s i o n a t e ▁currents ▁ re p a r c e l l	-76.70308500000002
+an speech dispute an intelligibility -s provide album -s handles the waves -s embrace cosmopolitan certificates fanfics -ed	▁an ▁speech ▁dis p u t e ▁an ▁intelligibility ▁- s ▁pro v i d e ▁ al b u m ▁- s ▁handle s ▁ the ▁ w a v es ▁- s ▁embrace ▁ c o s m o p o l i t an ▁certificates ▁fanfics ▁- ed	-142.75803699999997
+basils -ed draf	▁basils ▁- ed ▁ d r a f	-19.689035
+shortage crept at	▁shortage ▁ c re p t ▁a t	-30.088743
+emergency placed successor erupted buddies renegotiate an knots -es boos	▁emergency ▁ p l a c ed ▁success o r ▁ e r u p t ed ▁buddies ▁ re n e g o t i a t e ▁an ▁knots ▁- es ▁ b o o s	-97.70048599999998
+babinos -ed plac	▁babinos ▁- ed ▁ p l a c	-18.122376
+an airwaves swun	▁an ▁airwaves ▁ s w u n	-20.45924
+fateful sections on haven at certificates -s puncturing an component empathized destinations -es	▁ f a t e f u l ▁sections ▁on ▁haven ▁a t ▁certificates ▁- s ▁puncturing ▁an ▁component ▁ e m p a t h i z ed ▁destinations ▁- es	-88.08452999999999
+errors -s compris	▁errors ▁- s ▁comp r i s	-19.484872999999997
+the implements -es hesitated nauseous capacities -s breath a gardens annoy	▁ the ▁implements ▁- es ▁ h es i t a t ed ▁ n a u s e o u s ▁capacities ▁- s ▁breath ▁a ▁gardens ▁an n o y	-76.510775
+gentleman -es unfold on	▁gentleman ▁- es ▁unfold ▁on	-26.824418
+union -ed tighte	▁union ▁- ed ▁ t i g h t e	-22.055709000000004
+questionable babinos undermin	▁ q u es t i o n able ▁babinos ▁un d e r m i n	-45.93847599999999
+the pools -s moaned session -s putt	▁ the ▁pools ▁- s ▁ m o an ed ▁session ▁- s ▁ p u t t	-41.359684
+gossipy alt.religion.scientology reflection communicate a racism wired torsional hormones -s order	▁ g o s s i p y ▁ al t . re ligi o n . scientology ▁reflection ▁communicate ▁a ▁ r a c i s m ▁ w i r ed ▁ t o r s i o n al ▁hormones ▁- s ▁ o r d e r	-114.58287399999998
+polytheistic neologism toilet -es send	▁ p o l y the i s t i c ▁neologism ▁toilet ▁- es ▁ s e n d	-47.801421999999995
+structural payment in modernity feeling in	▁ s t r u c t u r al ▁payment ▁in ▁modernity ▁ f e e l ing ▁in	-61.264808
+a collaborations urg	▁a ▁collaboration s ▁ u r g	-17.918129
+a vessel on locals strengthening	▁a ▁ v es s e l ▁on ▁ l o c al s ▁strengthening	-44.828241999999996
+the intelligibility -s printed	▁ the ▁intelligibility ▁- s ▁ p r i n t ed	-28.855442999999994
+youngest errors guid	▁ y o u n g es t ▁errors ▁ g u i d	-34.840415
+a nights focus	▁a ▁nights ▁ f o c u s	-21.754139000000002
+a departure	▁a ▁departure	-16.276165
+countries -ed preside science -ed witch butter -es bustl	▁countries ▁- ed ▁preside ▁science ▁- ed ▁ w i t c h ▁butter ▁- es ▁ b u s t l	-52.904408000000004
+an bounds ris	▁an ▁bounds ▁ r i s	-21.433678
+a buddies -s dat	▁a ▁buddies ▁- s ▁ d a t	-21.329584000000004
+policing -es analyzing lasting robots assum	▁policing ▁- es ▁an al y z ing ▁last ing ▁robots ▁a s s u m	-52.394651
+rebuilding sculptures deflated	▁rebuild ing ▁sculptures ▁ d e f l a t ed	-42.128603
+skydivers hints in chance crossed a particles chai	▁skydivers ▁hints ▁in ▁ c h an c e ▁cross ed ▁a ▁particles ▁ c h a i	-60.14875200000001
+a anime placed domain in shortage tumbl	▁a ▁an i m e ▁ p l a c ed ▁domain ▁in ▁shortage ▁ t u m b l	-59.12405499999999
+a reader infus	▁a ▁reader ▁in f u s	-18.867974999999998
+questionable films -es provide censuses -es embrace writers -s towering the influences -s spell	▁ q u es t i o n able ▁films ▁- es ▁pro v i d e ▁censuses ▁- es ▁embrace ▁writers ▁- s ▁ t o w e r ing ▁ the ▁influences ▁- s ▁ s p e l l	-96.854467
+a county represent	▁a ▁county ▁ re p r es e n t	-28.448308
+pronounced quantification support	▁pro n o u n c ed ▁quantification ▁ s u p p o r t	-37.217144999999995
+scattered farmer -es urging painful	▁ s c a t t e r ed ▁farmer ▁- es ▁ u r g ing ▁ p a i n f u l	-67.326961
+misconception placed ambassadors -ed stash on	▁misconception ▁ p l a c ed ▁ambassadors ▁- ed ▁ s t a s h ▁on	-45.15983400000001
+an taunts generating in	▁an ▁taunts ▁gener a t ing ▁in	-30.928811000000003
+websites fathom a denomination -s reli	▁websites ▁ f a t h o m ▁a ▁denomination ▁- s ▁ re l i	-47.554139000000006
+cross-sectoral farmer dissertation -es according in	▁cross - s e c t o r al ▁farmer ▁dissertation ▁- es ▁a c c o r d ing ▁in	-57.02889800000001
+an dryer displaced	▁an ▁dryer ▁dis p l a c ed	-32.043502
+adequate attackers -s end	▁a d e q u a t e ▁attackers ▁- s ▁ e n d	-33.124052999999996
+an airports wanted the arbitrariness at stonework -ed started the quantification undermin	▁an ▁airports ▁ w an t ed ▁ the ▁arbitrariness ▁a t ▁stonework ▁- ed ▁ s t a r t ed ▁ the ▁quantification ▁un d e r m i n	-69.92694900000004
+the appearance in pattern on things -es inten	▁ the ▁appearance ▁in ▁pattern ▁on ▁ t h ing s ▁- es ▁in t e n	-41.442259
+shrouds -s floated actors -ed	▁shrouds ▁- s ▁ f l o a t ed ▁a c t o r s ▁- ed	-39.255838
+institutions -ed offer	▁institutions ▁- ed ▁ o f f e r	-20.591906
+channels -s handcuffed distortions -ed risks	▁channels ▁- s ▁handcuffed ▁distortions ▁- ed ▁ r i s k s	-46.232468000000004
+fullness -es awarded transformational	▁fullness ▁- es ▁awarded ▁ t r an s f o r m ation al	-38.191845
+narcotics crossed crossings on cocoa drap	▁narcotics ▁cross ed ▁cross ing s ▁on ▁ c o c o a ▁ d r a p	-54.88434900000001
+borders -s intend crow	▁borders ▁- s ▁in t e n d ▁ c r o w	-29.922477
+aqueducts on session loses domain -s diverted ballot monetiz	▁aqueducts ▁on ▁session ▁ l o s es ▁domain ▁- s ▁ d i v e r t ed ▁ b al l o t ▁ m o n e t i z	-75.85133400000001
+pictures at considerations crawl	▁pictures ▁a t ▁considerat ions ▁ c r a w l	-30.478536000000002
+a activist -es laughed an depots -ed breathed collaboration	▁a ▁activist ▁- es ▁laugh ed ▁an ▁depots ▁- ed ▁breath ed ▁collaboration	-42.276998000000006
+habit washing an limits hated hurdles disa	▁ h a b i t ▁ w a s h ing ▁an ▁limits ▁ h a t ed ▁hurdles ▁dis a	-57.35492599999999
+the carbons -ed requested	▁ the ▁carbons ▁- ed ▁requested	-24.105079000000003
+a waves -ed envisioned resistless influx in dissertation surrounded	▁a ▁ w a v es ▁- ed ▁ e n v i s i o n ed ▁ r es i s t l es s ▁in f l u x ▁in ▁dissertation ▁ s u r r o u n d ed	-96.57786999999999
+a crossroads tumbling investments party	▁a ▁crossroads ▁ t u m b l ing ▁investments ▁ p a r t y	-43.461379
+biologist -ed perfected unknowns -s hurtled incandescent oversite containing prices breath	▁biologist ▁- ed ▁ p e r f e c t ed ▁unknowns ▁- s ▁hurtle d ▁in c an d es c e n t ▁oversite ▁con t a i n ing ▁prices ▁breath	-95.150419
+the fanfics bridges -s	▁ the ▁fanfics ▁bridges ▁- s	-25.228893
+sisal renewing locals in influx -ed learn	▁sisal ▁ re n e w ing ▁ l o c al s ▁in ▁in f l u x ▁- ed ▁learn	-48.64577499999999
+moving airports -s resis	▁ m o v ing ▁airports ▁- s ▁ r es i s	-25.614747
+maiden -s practis	▁maiden ▁- s ▁ p r a c t i s	-27.287329999999997
+the pregnancy -s draf	▁ the ▁pregnancy ▁- s ▁ d r a f	-19.084166
+malaysian ornaments taxied a beaches risks	▁ m al a y s i an ▁ornaments ▁ t a x i ed ▁a ▁beach es ▁ r i s k s	-71.701675
+a opportunities contributed at	▁a ▁opportunities ▁con t r i b u t ed ▁a t	-30.99049
+masters tackl	▁masters ▁ t a c k l	-18.161433
+a narcotics -ed predic	▁a ▁narcotics ▁- ed ▁ p r ed i c	-24.206342
+an continent on jellies -ed	▁an ▁continent ▁on ▁jellies ▁- ed	-25.59041
+the success -s comba	▁ the ▁success ▁- s ▁ c o m b a	-21.310168
+a peninsula -es cradled	▁a ▁peninsula ▁- es ▁ c r a d l ed	-26.620793000000003
+the recognition -es emerge	▁ the ▁recognition ▁- es ▁emerge	-17.504157
+the heels in foreigners -ed happened the	▁ the ▁heels ▁in ▁foreigners ▁- ed ▁ h a p p e n ed ▁ the	-41.573306
+component -s behaves worlds -s demand	▁component ▁- s ▁behave s ▁worlds ▁- s ▁ d e m an d	-38.60572100000001
+the behaviors celebrat	▁ the ▁behaviors ▁ c e l e b r a t	-24.942761000000004
+an teaspoons stood knots -ed overslept the rebuild	▁an ▁teaspoons ▁ s t o o d ▁knots ▁- ed ▁overslept ▁ the ▁rebuild	-48.749512
+commanding grandmother whipped	▁ c o m m an d ing ▁grandmother ▁ w h i p p ed	-52.60278999999999
+healthy dissertation kinematics -es slamm	▁ h e al t h y ▁dissertation ▁kinematics ▁- es ▁ s l a m m	-48.84534
+dispersion email	▁dispersion ▁ e mail	-15.412914999999998
+carbons undermin	▁carbons ▁un d e r m i n	-22.139128999999997
+archival citizens hated the limits puncturing a	▁a r c h i v al ▁citizen s ▁ h a t ed ▁ the ▁limits ▁puncturing ▁a	-71.272555
+the lifetimes -es dissolv	▁ the ▁lifetimes ▁- es ▁dis s o l v	-23.112410999999998
+the slides -ed impart a	▁ the ▁slides ▁- ed ▁impart ▁a	-25.133452
+recent chutes attracting the domain on stores -ed requested a conspiracy biked baseball -es manipulated character sha	▁ re c e n t ▁ c h u t es ▁a t t r a c t ing ▁ the ▁domain ▁on ▁ s t o r es ▁- ed ▁requested ▁a ▁conspiracy ▁ b i k ed ▁baseball ▁- es ▁ m an i p u l a t ed ▁character ▁ s h a	-133.59777300000005
+an magazines -s grant	▁an ▁magazines ▁- s ▁ g r an t	-20.221147000000002
+an limitations roadway -s accelerate in campaign	▁an ▁limitations ▁roadway ▁- s ▁a c c e l e r a t e ▁in ▁campaign	-49.38151699999999
+the dissertation guid	▁ the ▁dissertation ▁ g u i d	-22.466614
+interventions tackl	▁interventions ▁ t a c k l	-19.207758
+razor -es contribut	▁razor ▁- es ▁con t r i b u t	-20.344828999999997
+the molecules -ed order	▁ the ▁molecules ▁- ed ▁ o r d e r	-21.841001000000002
+an limits emerge	▁an ▁limits ▁emerge	-15.308488
+fullness -es published	▁fullness ▁- es ▁publish ed	-25.339756999999995
+spite -es	▁spite ▁- es	-15.522402
+worlds effort -s insured the	▁worlds ▁effort ▁- s ▁in s u r ed ▁ the	-37.820809
+the festoons -s creat	▁ the ▁festoons ▁- s ▁ c re a t	-22.505811999999995
+flash hiking mesoamerican cocoa -es brown	▁ f l a s h ▁ h i k ing ▁ m es o a m e r i c an ▁ c o c o a ▁- es ▁ b r o w n	-66.24931300000001
+particles -es	▁particles ▁- es	-15.744209000000001
+an attackers coin	▁an ▁attackers ▁ c o i n	-23.439487999999997
+office -s clung an chance scour	▁office ▁- s ▁ c l u n g ▁an ▁ c h an c e ▁ s c o u r	-45.609797
+an shrouds -s reproduced the jellies at expropriation -ed	▁an ▁shrouds ▁- s ▁reproduced ▁ the ▁jellies ▁a t ▁expropriation ▁- ed	-44.148676
+objective hostel towering a	▁ o b j e c t i v e ▁hostel ▁ t o w e r ing ▁a	-42.294177
+component at discourse jolt	▁component ▁a t ▁discourse ▁ j o l t	-31.409424
+marginal dispersion slammed on	▁ m a r g i n al ▁dispersion ▁ s l a m m ed ▁on	-48.908507
+the campaigns play	▁ the ▁campaign s ▁ p l a y	-18.09217
+measurable preconditions -es silenc	▁ m e a s u r able ▁preconditions ▁- es ▁ s i l e n c	-43.023964
+methods redesign	▁methods ▁redesign	-15.490211
+intervals at prototypes -ed plated gentleman commit	▁intervals ▁a t ▁prototypes ▁- ed ▁ p l a t ed ▁gentleman ▁ c o m m i t	-56.46447999999999
+youngest society -ed inhaling ballet -s	▁ y o u n g es t ▁society ▁- ed ▁in h al ing ▁ballet ▁- s	-48.398956999999996
+puppets increas	▁puppets ▁in c re a s	-18.256237
+listings -es swelling beaches -s simulating a	▁listing s ▁- es ▁ s w e l l ing ▁beach es ▁- s ▁simulating ▁a	-46.060590000000005
+an appearance grant	▁an ▁appearance ▁ g r an t	-18.580094000000003
+representations assign in	▁representations ▁assign ▁in	-28.166629999999998
+asian bridges delivered monarch palpitat	▁a s i an ▁bridges ▁delivered ▁monarch ▁ p al p i t a t	-50.810574
+chance moan	▁ c h an c e ▁ m o an	-18.802981
+sisal intends the foreigners -es realiz	▁sisal ▁in t e n d s ▁ the ▁foreigners ▁- es ▁ re al i z	-38.117977
+level officers screw	▁ l e v e l ▁office r s ▁ s c re w	-32.890114
+indefinite perils -ed dis	▁in d e f i n i t e ▁perils ▁- ed ▁dis	-43.649505999999995
+recent domain -es reigned the billions -es listened	▁ re c e n t ▁domain ▁- es ▁reign ed ▁ the ▁billions ▁- es ▁listened	-52.300777000000004
+censuses streamline noggins -ed earning representations -s impart intersects thank	▁censuses ▁ s t re a m l i n e ▁noggins ▁- ed ▁ e a r n ing ▁representations ▁- s ▁impart ▁intersect s ▁ t h an k	-88.17366000000003
+a bourbon annoying the unknowns at reflection	▁a ▁bourbon ▁an n o y ing ▁ the ▁unknowns ▁a t ▁reflection	-44.028456
+governance -ed wishes downtown science -es relies on	▁governance ▁- ed ▁ w i s h es ▁ d o w n t o w n ▁science ▁- es ▁ re l i es ▁on	-71.782004
+foreground appearance putting youngest censuses	▁foreground ▁appearance ▁ p u t t ing ▁ y o u n g es t ▁censuses	-57.007422999999996
+a temptation -s shelter	▁a ▁temptation ▁- s ▁shelter	-17.974480999999997
+cemetery -es	▁cemetery ▁- es	-16.307517
+salty interestingness at costumes -es urging coins cradled	▁ s al t y ▁interestingness ▁a t ▁costumes ▁- es ▁ u r g ing ▁coins ▁ c r a d l ed	-65.40623000000001
+the countries -es	▁ the ▁countries ▁- es	-17.263906000000002
+intersects introduced armholes -ed using in	▁intersect s ▁introduced ▁armholes ▁- ed ▁ u s ing ▁in	-46.75889299999999
+an taunts rank	▁an ▁taunts ▁ r an k	-20.775509999999997
+an crossings -ed warps round	▁an ▁cross ing s ▁- ed ▁ w a r p s ▁ r o u n d	-44.05523600000001
+a atoms -ed laughed behaviors on bicycling -s	▁a ▁a t o m s ▁- ed ▁laugh ed ▁behaviors ▁on ▁bicycling ▁- s	-52.493302
+insular particles -s taxi	▁in s u l a r ▁particles ▁- s ▁ t a x i	-43.989726
+waist at habit gro	▁waist ▁a t ▁ h a b i t ▁ g r o	-35.314187000000004
+claws capacity on investments -ed inhal	▁claws ▁capacity ▁on ▁investments ▁- ed ▁in h al	-34.874373999999996
+non-representative contours censuses -ed bobb	▁ n o n - re p r es e n t a t i v e ▁contours ▁censuses ▁- ed ▁ b o b b	-53.972291
+the depots -ed besieged defectors slides -s taxied influences -s congratulate an westerners	▁ the ▁depots ▁- ed ▁besieged ▁defectors ▁slides ▁- s ▁ t a x i ed ▁influences ▁- s ▁congratulate ▁an ▁westerners	-82.405846
+gnarled centerpiece waving in	▁ g n a r l ed ▁centerpiece ▁ w a v ing ▁in	-41.335753000000004
+maiden -es wav	▁maiden ▁- es ▁ w a v	-18.16742
+the websites -s happened painful restaurant reformulated	▁ the ▁websites ▁- s ▁ h a p p e n ed ▁ p a i n f u l ▁restaurant ▁reform u l a t ed	-72.06192600000001
+architecture undermine loose gardens -es channell	▁architecture ▁un d e r m i n e ▁ l o o s e ▁gardens ▁- es ▁ c h an n e l l	-57.799506000000015
+a reform enable nationwide	▁a ▁reform ▁ e n able ▁ n ation w i d e	-38.496756
+youngest landings -es	▁ y o u n g es t ▁landings ▁- es	-26.267615000000003
+the lifetimes compare resistless	▁ the ▁lifetimes ▁comp a re ▁ r es i s t l es s	-41.69693
+the fuels in hackers breath	▁ the ▁fuels ▁in ▁hackers ▁breath	-25.721223
+an pictures -es exhibit	▁an ▁pictures ▁- es ▁ e x h i b i t	-37.691657
+pixie objections -ed dangl	▁pixie ▁objections ▁- ed ▁ d an g l	-28.664731
+a classes stemm	▁a ▁classes ▁ s t e m m	-20.968721000000002
+moving anime sworn insular alcoholics	▁ m o v ing ▁an i m e ▁ s w o r n ▁in s u l a r ▁alcoholics	-66.188424
+a successor -es generating on albu	▁a ▁success o r ▁- es ▁gener a t ing ▁on ▁ al b u	-43.155413
+an reflection -es rooming festivals at	▁an ▁reflection ▁- es ▁ r o o m ing ▁festivals ▁a t	-42.160778
+racial mater -s generaliz	▁ r a c i al ▁ m a t e r ▁- s ▁gener al i z	-41.049254000000005
+breakers undermin	▁breakers ▁un d e r m i n	-21.433128000000004
+an islamophobia -ed approv	▁an ▁islamophobia ▁- ed ▁a p p r o v	-21.674809999999997
+demotion -s quantify	▁demotion ▁- s ▁ q u an t i f y	-24.454888
+ornaments -es engage metaphysical	▁ornaments ▁- es ▁ e n g a g e ▁ m e t a p h y s i c al	-53.25540199999999
+an continent	▁an ▁continent	-16.862677
+evolutionary magazines -s learn	▁ e v o l u t i o n a r y ▁magazines ▁- s ▁learn	-46.371082
+a babinos recognizing a campaign include the errors -s located on	▁a ▁babinos ▁recognizing ▁a ▁campaign ▁include ▁ the ▁errors ▁- s ▁ l o c a t ed ▁on	-64.50612199999999
+a bounds -es communicate industrialized influ	▁a ▁bounds ▁- es ▁communicate ▁in d u s t r i al i z ed ▁in f l u	-44.931512
+governance -es navigating	▁governance ▁- es ▁ n a v i g a t ing	-36.605945
+capacity -ed empathiz	▁capacity ▁- ed ▁ e m p a t h i z	-22.865113
+vessel -es buckl	▁ v es s e l ▁- es ▁ b u c k l	-27.736537000000002
+the buses -ed relates	▁ the ▁buses ▁- ed ▁ re l a t es	-28.207013999999997
+generic chair -s deal	▁gener i c ▁ c h a i r ▁- s ▁ d e al	-37.259299
+the tails -s remain	▁ the ▁tails ▁- s ▁ re m a i n	-27.325739999999996
+cross-linguistic errors concer	▁cross - l ing u i s t i c ▁errors ▁con c e r	-45.11041200000001
+the e-mail -es control	▁ the ▁ e - mail ▁- es ▁con t r o l	-23.957718
+a ballet -ed favors at anim	▁a ▁ballet ▁- ed ▁ f a v o r s ▁a t ▁an i m	-35.230297
+an institutions monarch barbequ	▁an ▁institutions ▁monarch ▁ b a r b e q u	-29.583264
+generations on generations rid	▁generations ▁on ▁generations ▁ r i d	-28.485481999999998
+an slides giggl	▁an ▁slides ▁ g i g g l	-26.164154000000003
+an continents behaves vaccine -ed hesitated wartime -s witch the electrons -es desi	▁an ▁continent s ▁behave s ▁vaccine ▁- ed ▁ h es i t a t ed ▁wartime ▁- s ▁ w i t c h ▁ the ▁electrons ▁- es ▁ d es i	-79.42260000000002
+ambiguity -es sizzle in	▁ambiguity ▁- es ▁ s i z z l e ▁in	-30.287030000000005
+the masters -s	▁ the ▁masters ▁- s	-17.697648
+elegant symptom elucidat	▁ e l e g an t ▁symptom ▁ e l u c i d a t	-46.567798
+anemone estimated german	▁anemone ▁estimated ▁ g e r m an	-42.041456999999994
+lantern inferred in	▁lantern ▁in f e r r ed ▁in	-27.712156000000004
+spare architecture earning iceberg moaned the singer -es sporting a	▁ s p a re ▁architecture ▁ e a r n ing ▁iceberg ▁ m o an ed ▁ the ▁singer ▁- es ▁sporting ▁a	-73.79896499999998
+frontline segment	▁frontline ▁ s e g m e n t	-23.67311
+unsweetened temptation edifices -s broade	▁un s w e e t e n ed ▁temptation ▁edifices ▁- s ▁ b r o a d e	-50.13896400000001
+an nights -s breath	▁an ▁nights ▁- s ▁breath	-16.330195999999997
+gorgeous monarch redefined waves -ed highlight	▁ g o r g e o u s ▁monarch ▁ r ed e f i n ed ▁ w a v es ▁- ed ▁ h i g h l i g h t	-67.164149
+an carbons -s finishing on	▁an ▁carbons ▁- s ▁finish ing ▁on	-29.470003
+the symptom -ed innovate a errors	▁ the ▁symptom ▁- ed ▁innovate ▁a ▁errors	-29.344978000000005
+a collaborations -s curdle creases -es giving albu	▁a ▁collaboration s ▁- s ▁curdle ▁creases ▁- es ▁ g i v ing ▁ al b u	-49.851635
+cousins -s hesitated the readings -es abstain	▁cousins ▁- s ▁ h es i t a t ed ▁ the ▁readings ▁- es ▁a b s t a i n	-45.449735000000004
+union imped	▁union ▁ i m p ed	-28.084438
+a frontline -s reverse biologist in saponins	▁a ▁frontline ▁- s ▁ re v e r s e ▁biologist ▁in ▁saponins	-45.814742
+the puppets -s avert the paths persuade at	▁ the ▁puppets ▁- s ▁a v e r t ▁ the ▁paths ▁ p e r s u a d e ▁a t	-59.849656999999986
+the wavenumber in tourist behave	▁ the ▁wavenumber ▁in ▁tourist ▁behave	-25.29204
+objections -ed simulating unfavorable inhalation vapour accord	▁objections ▁- ed ▁simulating ▁un f a v o r able ▁inhalation ▁vapour ▁a c c o r d	-58.63350399999999
+the things begins an ballet -es beef	▁ the ▁ t h ing s ▁ b e g i n s ▁an ▁ballet ▁- es ▁ b e e f	-51.422768000000005
+the podcasts -ed guarantee	▁ the ▁podcasts ▁- ed ▁guarantee	-15.616254999999999
+an biologist -s calculat	▁an ▁biologist ▁- s ▁ c al c u l a t	-22.265988999999998
+an flats reduced the	▁an ▁ f l a t s ▁ r ed u c ed ▁ the	-33.694284999999994
+an locals -es offers opposite	▁an ▁ l o c al s ▁- es ▁ o f f e r s ▁ o p p o s i t e	-56.22991499999999
+standard emblem impede	▁ s t an d a r d ▁emblem ▁ i m p ed e	-60.64513500000001
+an ballet reacted	▁an ▁ballet ▁ re a c t ed	-27.226777000000002
+choppy stipulation -s watered on	▁ c h o p p y ▁stipulation ▁- s ▁ w a t e r ed ▁on	-44.895644
+minor prototypes clun	▁ m i n o r ▁prototypes ▁ c l u n	-33.650397000000005
+conscious bourbon -ed circl	▁con s c i o u s ▁bourbon ▁- ed ▁ c i r c l	-45.553319
+lucky tailor -ed weeping	▁ l u c k y ▁tailor ▁- ed ▁ w e e p ing	-37.702679
+ballot -s	▁ b al l o t ▁- s	-16.22793
+currents touch at	▁currents ▁ t o u c h ▁a t	-34.053615
+round gator -ed resolving continent dates an session -es protected teaspoons -es nibble on	▁ r o u n d ▁gator ▁- ed ▁ r es o l v ing ▁continent ▁ d a t es ▁an ▁session ▁- es ▁pro t e c t ed ▁teaspoons ▁- es ▁ n i b b l e ▁on	-111.73704000000002
+the connotations	▁ the ▁connotations	-16.995587999999998
+a lakefront extracts voices -ed oppres	▁a ▁lakefront ▁ e x t r a c t s ▁ v o i c es ▁- ed ▁ o p p r es	-48.30695299999999
+an costumes -s plat	▁an ▁costumes ▁- s ▁ p l a t	-19.555113
+holder realiz	▁holder ▁ re al i z	-20.28385
+dividends -ed laughed sections in decoration at behaviors at billions overslept the	▁dividends ▁- ed ▁laugh ed ▁sections ▁in ▁decoration ▁a t ▁behaviors ▁a t ▁billions ▁overslept ▁ the	-72.931486
+an inhalation placed latin	▁an ▁inhalation ▁ p l a c ed ▁ l a t i n	-45.85004500000001
+rides at depots -ed started sections in misconception -ed controls an	▁rides ▁a t ▁depots ▁- ed ▁ s t a r t ed ▁sections ▁in ▁misconception ▁- ed ▁con t r o l s ▁an	-71.93316399999999
+an edifices -ed	▁an ▁edifices ▁- ed	-16.436286000000003
+an gentleman mater -s reigned malaysian	▁an ▁gentleman ▁ m a t e r ▁- s ▁reign ed ▁ m al a y s i an	-56.542971
+the earthquake -ed requested	▁ the ▁earthquake ▁- ed ▁requested	-25.942341999999996
+a municipalities -es launch	▁a ▁municipalities ▁- es ▁ l a u n c h	-26.432405
+the capacity simmer the lakefront recorded an payment postponed fait	▁ the ▁capacity ▁ s i m m e r ▁ the ▁lakefront ▁recorded ▁an ▁payment ▁postponed ▁ f a i t	-66.33316199999999
+giant slice -es credentialing pictographs	▁ g i an t ▁slice ▁- es ▁ c r ed e n t i al ing ▁pictographs	-54.58469899999999
+archival marketing -s experienc	▁a r c h i v al ▁marketing ▁- s ▁ e x p e r i e n c	-51.476890999999995
+the shelter -s encourag	▁ the ▁shelter ▁- s ▁ e n c o u r a g	-24.841337999999997
+locals on wartime screwed intersects begins an hotspots -ed dis	▁ l o c al s ▁on ▁wartime ▁ s c re w ed ▁intersect s ▁ b e g i n s ▁an ▁hotspots ▁- ed ▁dis	-72.310592
+the symptom on buses cry	▁ the ▁symptom ▁on ▁buses ▁ c r y	-32.242908
+youngest continent splash	▁ y o u n g es t ▁continent ▁ s p l a s h	-36.831294
+calendar design	▁calendar ▁design	-28.505111
+implements -es regrett	▁implements ▁- es ▁ re g re t t	-26.987429000000002
+a ballroom -s resis	▁a ▁ballroom ▁- s ▁ r es i s	-17.501043
+faith -ed attracting the masters emerge	▁ f a i t h ▁- ed ▁a t t r a c t ing ▁ the ▁masters ▁emerge	-48.932894
+pregnancy hosting flash dissolves in	▁pregnancy ▁ h o s t ing ▁ f l a s h ▁dis s o l v es ▁in	-54.97531699999999
+the hospitality -s washed the bicycling -es draft explorers billions	▁ the ▁hospitality ▁- s ▁ w a s h ed ▁ the ▁bicycling ▁- es ▁ d r a f t ▁explorers ▁billions	-68.34119700000001
+mature paths considered the limitations generat	▁ m a t u re ▁paths ▁con s i d e r ed ▁ the ▁limitations ▁gener a t	-52.372006
+problematic creases -es inhaling the dryer -s hing	▁pro b l e m a t i c ▁creases ▁- es ▁in h al ing ▁ the ▁dryer ▁- s ▁ h ing	-58.584742999999996
+a games jolt	▁a ▁games ▁ j o l t	-18.474527
+foreigners vaccine s’pose salty refrigerators -s	▁foreigners ▁vaccine ▁ s ’ pose ▁ s al t y ▁refrigerators ▁- s	-55.798626
+billions -ed channelled a rides agreements -es tighten the e-mail -es shake	▁billions ▁- ed ▁ c h an n e l l ed ▁a ▁rides ▁agreements ▁- es ▁ t i g h t e n ▁ the ▁ e - mail ▁- es ▁ s h a k e	-85.494367
+an intelligibility in policing on impression on airports -es attempting	▁an ▁intelligibility ▁in ▁policing ▁on ▁impression ▁on ▁airports ▁- es ▁a t t e m p t ing	-58.52599399999999
+gnarled activist on neighbors -es lasted generic conspiracy -ed commit provocation forbade on local	▁ g n a r l ed ▁activist ▁on ▁neighbors ▁- es ▁last ed ▁gener i c ▁conspiracy ▁- ed ▁ c o m m i t ▁provocation ▁ f o r b a d e ▁on ▁ l o c al	-113.881248
+dessert -ed order	▁dessert ▁- ed ▁ o r d e r	-22.278633
+an frontline sneez	▁an ▁frontline ▁ s n e e z	-28.533837000000002
+co-founder consum	▁ c o - founder ▁con s u m	-14.573769
+institutions -es resign poetic hospitality	▁institutions ▁- es ▁ r es i g n ▁ p o e t i c ▁hospitality	-53.065992
+a attackers in afternoon -es brows	▁a ▁attackers ▁in ▁afternoon ▁- es ▁ b r o w s	-29.293675999999994
+glyphs representations in limits prompt	▁glyphs ▁representations ▁in ▁limits ▁pro m p t	-41.76832
+an cenotaph crushed textbook vindication in festoons -es gro	▁an ▁cenotaph ▁ c r u s h ed ▁textbook ▁vindication ▁in ▁festoons ▁- es ▁ g r o	-59.91051499999999
+large intelligibility extracts a shrouds -ed hated a films -es crush	▁ l a r g e ▁intelligibility ▁ e x t r a c t s ▁a ▁shrouds ▁- ed ▁ h a t ed ▁a ▁films ▁- es ▁ c r u s h	-79.032504
+militaries glyphs influx -ed adapts	▁militaries ▁glyphs ▁in f l u x ▁- ed ▁adapt s	-42.007093000000005
+locals bal	▁ l o c al s ▁ b al	-17.972580999999998
+midwife -es send	▁midwife ▁- es ▁ s e n d	-17.304753
+flourishing restaurant geologist dealt	▁ f l o u r i s h ing ▁restaurant ▁geologist ▁ d e al t	-63.205231000000005
+defectors -es teeth	▁defectors ▁- es ▁ t e e t h	-21.818979000000002
+marginal recipe -es weeping considerate	▁ m a r g i n al ▁recipe ▁- es ▁ w e e p ing ▁considerat e	-51.507059
+parole -ed engage	▁parole ▁- ed ▁ e n g a g e	-26.997311000000003
+radio -ed fraying marginal flats in classes -ed smacking fathers -s accoun	▁radio ▁- ed ▁ f r a y ing ▁ m a r g i n al ▁ f l a t s ▁in ▁classes ▁- ed ▁ s m a c k ing ▁fathers ▁- s ▁a c c o u n	-90.78971600000003
+outro credentialing defensive censuses deteriorat	▁ o u t r o ▁ c r ed e n t i al ing ▁ d e f e n s i v e ▁censuses ▁ d e t e r i o r a t	-72.612813
+seeds attempt	▁ s e ed s ▁a t t e m p t	-29.839475000000004
+borders disput	▁borders ▁dis p u t	-21.690689
+guests inten	▁guests ▁in t e n	-18.139698
+an departure swung the buddies bobbing collaboration on tails on	▁an ▁departure ▁ s w u n g ▁ the ▁buddies ▁ b o b b ing ▁collaboration ▁on ▁tails ▁on	-62.05276300000001
+a easterners preside an perils -es agreeing stipulation -s buckl	▁a ▁easterners ▁preside ▁an ▁perils ▁- es ▁a gree ing ▁stipulation ▁- s ▁ b u c k l	-58.081018
+the razor -es broadcast	▁ the ▁razor ▁- es ▁ b r o a d c a s t	-29.014074999999995
+ballot centerpiece -s walked an injustice moan	▁ b al l o t ▁centerpiece ▁- s ▁ w al k ed ▁an ▁injustice ▁ m o an	-44.721307
+ambiguity -s provide unfavorable	▁ambiguity ▁- s ▁pro v i d e ▁un f a v o r able	-39.83553199999999
+robots play	▁robots ▁ p l a y	-15.022936000000001
+voices -es	▁ v o i c es ▁- es	-19.139833
+ambassadors -s spell	▁ambassadors ▁- s ▁ s p e l l	-21.857320000000005
+a slipstream sav	▁a ▁slipstream ▁ s a v	-19.237325
+an chance -es	▁an ▁ c h an c e ▁- es	-23.278711
+campaigns depending union -ed engag	▁campaign s ▁depending ▁union ▁- ed ▁ e n g a g	-34.788247000000005
+generations textbook secularist -s divert	▁generations ▁textbook ▁secularist ▁- s ▁ d i v e r t	-38.318325000000016
+nationwide imagination -s weeping the	▁ n ation w i d e ▁imagination ▁- s ▁ w e e p ing ▁ the	-43.91029699999999
+baseball -s banning the foreigners -s handcuffed verticalization -s squashed an restaurant -s shake	▁baseball ▁- s ▁ b an n ing ▁ the ▁foreigners ▁- s ▁handcuffed ▁verticalization ▁- s ▁ s q u a s h ed ▁an ▁restaurant ▁- s ▁ s h a k e	-76.556808
+summit -ed wrapping a	▁summit ▁- ed ▁ w r a p p ing ▁a	-28.558729000000003
+wealthy gardens taxied an activist walked cupcake on demotion squashed an campaigns -s inhaled nerves -es struggl	▁ w e al t h y ▁gardens ▁ t a x i ed ▁an ▁activist ▁ w al k ed ▁cupcake ▁on ▁demotion ▁ s q u a s h ed ▁an ▁campaign s ▁- s ▁in h al ed ▁nerves ▁- es ▁ s t r u g g l	-122.96319
+considerations on discourse -s basing sturdy domain -es outlining at	▁considerat ions ▁on ▁discourse ▁- s ▁ b a s ing ▁ s t u r d y ▁domain ▁- es ▁ o u t l i n ing ▁a t	-70.116272
+a islamophobia rebelling an claws acquire in	▁a ▁islamophobia ▁rebelling ▁an ▁claws ▁a c q u i re ▁in	-47.795769
+the cousins -es discuss	▁ the ▁cousins ▁- es ▁dis c u s s	-23.798255
+the guests -s underpinning a things -ed summed pro-beijing summit floated a	▁ the ▁guests ▁- s ▁underpinning ▁a ▁ t h ing s ▁- ed ▁ s u m m ed ▁pro - b e i j ing ▁summit ▁ f l o a t ed ▁a	-85.80476300000004
+an fuels -es	▁an ▁fuels ▁- es	-16.892124
+refrigerators tempt	▁refrigerators ▁ t e m p t	-19.328996999999998
+an activist -es reacted seed	▁an ▁activist ▁- es ▁ re a c t ed ▁ s e ed	-34.807196000000005
+the oceans in distortions -s directing an	▁ the ▁oceans ▁in ▁distortions ▁- s ▁direct ing ▁an	-38.917016
+calendar redesigning youngest chance integrate loopy	▁calendar ▁redesign ing ▁ y o u n g es t ▁ c h an c e ▁in t e g r a t e ▁ l o o p y	-72.85407199999999
+a tales elucidat	▁a ▁ t al es ▁ e l u c i d a t	-33.533252000000005
+ethnocentric seasons -es wir	▁ e t h n o c e n t r i c ▁seasons ▁- es ▁ w i r	-49.706877999999996
+guardians in representations -s permitt	▁guardians ▁in ▁representations ▁- s ▁ p e r m i t t	-32.255269000000006
+a seasons withheld dessert -es deteriorate a basils -s happened an displacements crossed	▁a ▁seasons ▁ w i t h h e l d ▁dessert ▁- es ▁ d e t e r i o r a t e ▁a ▁basils ▁- s ▁ h a p p e n ed ▁an ▁displacements ▁cross ed	-103.63902
+a misconception -es printed	▁a ▁misconception ▁- es ▁ p r i n t ed	-30.003380999999994
+an pathways asked the guests gro	▁an ▁pathways ▁a s k ed ▁ the ▁guests ▁ g r o	-37.14528
+ninth disorders -ed	▁ n i n t h ▁disorders ▁- ed	-30.002514
+electoral centres -es buckl	▁ e l e c t o r al ▁centres ▁- es ▁ b u c k l	-36.08874500000001
+county citing an frontline -es favors in	▁county ▁ c i t ing ▁an ▁frontline ▁- es ▁ f a v o r s ▁in	-47.186447
+an farmer denomination fad	▁an ▁farmer ▁denomination ▁ f a d	-27.70646
+cupcake -es sacrificed the censuses -es remaining	▁cupcake ▁- es ▁ s a c r i f i c ed ▁ the ▁censuses ▁- es ▁ re m a i n ing	-62.17539100000001
+the earthquake -ed enable ethnocentric clot	▁ the ▁earthquake ▁- ed ▁ e n able ▁ e t h n o c e n t r i c ▁ c l o t	-61.896439999999984
+racial preservatives -s claim	▁ r a c i al ▁preservatives ▁- s ▁ c l a i m	-33.67652199999999
+the demotion reciprocat	▁ the ▁demotion ▁ re c i p r o c a t	-34.028792
+cemetery -ed bustl	▁cemetery ▁- ed ▁ b u s t l	-18.296999
+a parole annoy	▁a ▁parole ▁an n o y	-16.61589
+an ballet -s desire a shortage reign an ballroom -s strengthening airborne dissertation -s reciprocate	▁an ▁ballet ▁- s ▁ d es i re ▁a ▁shortage ▁reign ▁an ▁ballroom ▁- s ▁strengthening ▁a i r b o r n e ▁dissertation ▁- s ▁ re c i p r o c a t e	-120.83590299999997
+unfunny ambassadors -s envision	▁un f u n n y ▁ambassadors ▁- s ▁ e n v i s i o n	-33.66515199999999
+the oversite at classes -es squis	▁ the ▁oversite ▁a t ▁classes ▁- es ▁ s q u i s	-29.904123
+weekends -ed outlin	▁weekends ▁- ed ▁ o u t l i n	-20.888389999999998
+an rebuilding -s illuminat	▁an ▁rebuild ing ▁- s ▁ i l l u m i n a t	-37.573881
+opportunities -s draft listings -es rectif	▁opportunities ▁- s ▁ d r a f t ▁listing s ▁- es ▁ re c t i f	-38.074547
+sinuses -ed wrapping unsweetened powers -s channelled a qualities appear prototypes -ed evaluate	▁sinuses ▁- ed ▁ w r a p p ing ▁un s w e e t e n ed ▁powers ▁- s ▁ c h an n e l l ed ▁a ▁qualities ▁appear ▁prototypes ▁- ed ▁ evaluate	-100.82055899999999
+an restraint judg	▁an ▁restraint ▁ j u d g	-24.961968
+babinos -ed staind in	▁babinos ▁- ed ▁ s t a i n d ▁in	-32.218405
+an prototypes describe participants giving campaign	▁an ▁prototypes ▁describe ▁participants ▁ g i v ing ▁campaign	-44.305088000000005
+an hospitality farmer -s joining pixie broadcast	▁an ▁hospitality ▁farmer ▁- s ▁ j o i n ing ▁pixie ▁ b r o a d c a s t	-61.23208499999999
+larger bicycling -s reverse	▁ l a r g e r ▁bicycling ▁- s ▁ re v e r s e	-43.35969599999999
+molecules abandon	▁molecules ▁a b an d o n	-31.792888000000005
+commercialish arbitrariness publish	▁commercial i s h ▁arbitrariness ▁publish	-24.38333
+the architecture -s sworn offices -ed smack	▁ the ▁architecture ▁- s ▁ s w o r n ▁office s ▁- ed ▁ s m a c k	-45.775606999999994
+county modernity -es permitted municipalities comman	▁county ▁modernity ▁- es ▁ p e r m i t t ed ▁municipalities ▁ c o m m an	-52.58683
+an creases -s irrigate at	▁an ▁creases ▁- s ▁ i r r i g a t e ▁a t	-39.668337
+objections -ed finish a buddies -s warm	▁objections ▁- ed ▁finish ▁a ▁buddies ▁- s ▁ w a r m	-32.950205
+a explosion renegotiat	▁a ▁explosion ▁ re n e g o t i a t	-28.570554000000005
+a fathers -s deni	▁a ▁fathers ▁- s ▁ d e n i	-21.165829
+the enjambment -ed oppress on	▁ the ▁enjambment ▁- ed ▁ o p p r es s ▁on	-34.966154
+the connotations ask	▁ the ▁connotations ▁a s k	-16.354757
+sections -s deposit	▁sections ▁- s ▁ d e p o s i t	-24.171664
+piece at capacity -es dreaded oceans awarded parole in demise concentration institutions -es waste in	▁piece ▁a t ▁capacity ▁- es ▁ d re a d ed ▁oceans ▁awarded ▁parole ▁in ▁demise ▁concentration ▁institutions ▁- es ▁ w a s t e ▁in	-112.78658800000001
+nights reparcelling a expropriation mapped in	▁nights ▁ re p a r c e l l ing ▁a ▁expropriation ▁ m a p p ed ▁in	-57.63673000000001
+centerpiece -es placate campaign -s rises the improvements tumbl	▁centerpiece ▁- es ▁placate ▁campaign ▁- s ▁ r i s es ▁ the ▁improvements ▁ t u m b l	-60.54535100000002
+uncontroversial geologist rebuild islamophobia -ed spared an modernity on	▁uncontro v e r s i al ▁geologist ▁rebuild ▁islamophobia ▁- ed ▁ s p a r ed ▁an ▁modernity ▁on	-62.47738699999999
+a e-mail on channels grant	▁a ▁ e - mail ▁on ▁channels ▁ g r an t	-31.181937
+continents issue at	▁continent s ▁ i s s u e ▁a t	-39.907571
+an emblem simme	▁an ▁emblem ▁ s i m m e	-22.033036
+lasting outro dealt	▁last ing ▁ o u t r o ▁ d e al t	-43.389624
+canvas watch	▁canvas ▁ w a t c h	-21.379382000000003
+a slides -ed elucidate in	▁a ▁slides ▁- ed ▁ e l u c i d a t e ▁in	-40.996919000000005
+nationwide brightness -ed drained an interventions -ed tarr	▁ n ation w i d e ▁brightness ▁- ed ▁drained ▁an ▁interventions ▁- ed ▁ t a r r	-54.72690299999999
+mater armholes -ed	▁ m a t e r ▁armholes ▁- ed	-29.857795
+weird paths on sinuses -es design prevenient lantern -s communicate	▁ w e i r d ▁paths ▁on ▁sinuses ▁- es ▁design ▁ p re v e n i e n t ▁lantern ▁- s ▁communicate	-87.132342
+citizen -ed	▁citizen ▁- ed	-15.426495000000001
+indefinite intersects -s	▁in d e f i n i t e ▁intersect s ▁- s	-39.233866
+peremptory symptom slammed dis	▁ p e re m p t o r y ▁symptom ▁ s l a m m ed ▁dis	-61.042293
+luxerious pregnancy -es directing beach	▁ l u x e r i o u s ▁pregnancy ▁- es ▁direct ing ▁beach	-42.055954
+the calendar in awards -es recognising an expropriation -ed shelter	▁ the ▁calendar ▁in ▁awards ▁- es ▁ re c o g n i s ing ▁an ▁expropriation ▁- ed ▁shelter	-55.36412899999999
+unstable creases s’pose a behaviors attaining on	▁un s t able ▁creases ▁ s ’ pose ▁a ▁behaviors ▁a t t a i n ing ▁on	-53.946306
+the fanfics on saponins -ed feast	▁ the ▁fanfics ▁on ▁saponins ▁- ed ▁ f e a s t	-42.59308
+an folks -es breathing heels -ed displac	▁an ▁folks ▁- es ▁breath ing ▁heels ▁- ed ▁dis p l a c	-36.035712
+mountainous tooth -s resign the	▁ m o u n t a i n o u s ▁ t o o t h ▁- s ▁ r es i g n ▁ the	-59.167378
+an wartime puree in	▁an ▁wartime ▁ p u re e ▁in	-29.922691999999998
+county consum	▁county ▁con s u m	-15.500543
+a acquisition -es gazed	▁a ▁acquisition ▁- es ▁ g a z ed	-29.471751000000005
+a crossings erupt	▁a ▁cross ing s ▁ e r u p t	-29.972700000000003
+german hostel -s preside outr	▁ g e r m an ▁hostel ▁- s ▁preside ▁ o u t r	-45.53737199999999
+uncle overshadowed	▁un c l e ▁ o v e r s h a d o w ed	-41.305048000000006
+an beach -es touch	▁an ▁beach ▁- es ▁ t o u c h	-22.252826
+adventurous emblem -es hurtled counter -s wired	▁a d v e n t u r o u s ▁emblem ▁- es ▁hurtle d ▁counter ▁- s ▁ w i r ed	-68.743579
+a improvements tim	▁a ▁improvements ▁ t i m	-20.485111
+a behaviors -ed solv	▁a ▁behaviors ▁- ed ▁ s o l v	-19.25733
+citizens -es	▁citizen s ▁- es	-16.086391
+french mathematicians in mathematicians overcoming the intelligibility -ed tighte	▁ f re n c h ▁mathematicians ▁in ▁mathematicians ▁ o v e r c o m ing ▁ the ▁intelligibility ▁- ed ▁ t i g h t e	-71.78946700000002
+provocation drank ecological	▁provocation ▁drank ▁ e c o l o g i c al	-48.341756
+a e-mail maddened the	▁a ▁ e - mail ▁ m a d d e n ed ▁ the	-35.75655799999999
+boundaries bartend	▁boundaries ▁ b a r t e n d	-24.156116
+optimistic ballet on quantification -s published stor	▁ o p t i m i s t i c ▁ballet ▁on ▁quantification ▁- s ▁publish ed ▁ s t o r	-63.79401499999999
+looking architecture -ed offers the influences -ed direct	▁ l o o k ing ▁architecture ▁- ed ▁ o f f e r s ▁ the ▁influences ▁- ed ▁direct	-49.979682000000004
+unreliable parole swamped on	▁un re l i able ▁parole ▁ s w a m p ed ▁on	-40.640586
+deserts -es sw	▁desert s ▁- es ▁ s w	-19.356209
+an pattern loses a sisal occasion	▁an ▁pattern ▁ l o s es ▁a ▁sisal ▁occasion	-39.224892000000004
+a recognition popularize a desert geared the connotations -s arrived a readings -s stood transformational counter optimiz	▁a ▁recognition ▁ p o p u l a r i z e ▁a ▁desert ▁ g e a r ed ▁ the ▁connotations ▁- s ▁arrived ▁a ▁readings ▁- s ▁ s t o o d ▁ t r an s f o r m ation al ▁counter ▁ o p t i m i z	-131.49486799999997
+an stores roughened objective tourist -es feel	▁an ▁ s t o r es ▁ r o u g h e n ed ▁ o b j e c t i v e ▁tourist ▁- es ▁ f e e l	-68.49561299999999
+formal crossroads operat	▁ f o r m al ▁crossroads ▁ o p e r a t	-31.355723
+stores expropriation establishes	▁ s t o r es ▁expropriation ▁establishes	-35.964285000000004
+westerners -s gleaming luxerious science on flats describe	▁westerners ▁- s ▁ g l e a m ing ▁ l u x e r i o u s ▁science ▁on ▁ f l a t s ▁describe	-70.96088500000002
+an calculus earning a counter	▁an ▁calculus ▁ e a r n ing ▁a ▁counter	-39.60114
+concentration cry	▁concentration ▁ c r y	-20.409045000000003
+merchandise -es summed an overview in	▁merchandise ▁- es ▁ s u m m ed ▁an ▁overview ▁in	-37.750212000000005
+pro-beijing paths sacrific	▁pro - b e i j ing ▁paths ▁ s a c r i f i c	-46.738294999999994
+opposite cenotaph congratulate secularist	▁ o p p o s i t e ▁cenotaph ▁congratulate ▁secularist	-53.596602
+discourse -es emerged cousins sneez	▁discourse ▁- es ▁emerge d ▁cousins ▁ s n e e z	-45.953849999999996
+vocal successor -ed increas	▁ v o c al ▁success o r ▁- ed ▁in c re a s	-34.16171100000001
+magazines -ed establishes neckhole -ed accoun	▁magazines ▁- ed ▁establishes ▁neckhole ▁- ed ▁a c c o u n	-37.164456
+a wartime -ed scrap terrible tragedy -s calculated a co-	▁a ▁wartime ▁- ed ▁ s c r a p ▁ t e r r i b l e ▁tragedy ▁- s ▁ c al c u l a t ed ▁a ▁ c o -	-77.214161
+an pepper robots wanted seed	▁an ▁pepper ▁robots ▁ w an t ed ▁ s e ed	-40.205414
+disabled chunk nibble	▁dis able d ▁chunk ▁ n i b b l e	-44.890218999999995
+an airports -s dangl	▁an ▁airports ▁- s ▁ d an g l	-21.271087999999995
+a weeks inferr	▁a ▁weeks ▁in f e r r	-21.213538
+nauseous restaurant -s reject	▁ n a u s e o u s ▁restaurant ▁- s ▁ re j e c t	-37.519876000000004
+cooked crossroads	▁ c o o k ed ▁crossroads	-28.541256999999998
+lantern at co-founder -es broadcast	▁lantern ▁a t ▁ c o - founder ▁- es ▁ b r o a d c a s t	-42.510709999999996
+occasional currents -s	▁occasion al ▁currents ▁- s	-23.435595
+restaurant inflat	▁restaurant ▁in f l a t	-16.309342
+the secularist succeeding in	▁ the ▁secularist ▁ s u c c e ed ing ▁in	-42.578848
+cultures -s channell	▁cultures ▁- s ▁ c h an n e l l	-23.647709999999996
+an festoons -s overcome at	▁an ▁festoons ▁- s ▁ o v e r c o m e ▁a t	-38.905387
+torsional hostel defund the	▁ t o r s i o n al ▁hostel ▁defund ▁ the	-43.146592
+the outro -s	▁ the ▁ o u t r o ▁- s	-22.340362000000002
+deserts -ed warps an censuses dinging considerat	▁desert s ▁- ed ▁ w a r p s ▁an ▁censuses ▁ d ing ing ▁considerat	-48.416585000000005
+hotspots -es unfold	▁hotspots ▁- es ▁unfold	-17.474474
+authentic voices -s	▁a u the n t i c ▁ v o i c es ▁- s	-40.62682600000001
+roadway -s divid	▁roadway ▁- s ▁ d i v i d	-20.664517
+ninth intelligibility illuminated	▁ n i n t h ▁intelligibility ▁ i l l u m i n a t ed	-56.96098700000002
+an lifetimes -s stash in	▁an ▁lifetimes ▁- s ▁ s t a s h ▁in	-29.390676
+generations -s shelter	▁generations ▁- s ▁shelter	-16.814300000000003
+cross-sectoral colleges on edifices -es room	▁cross - s e c t o r al ▁colleges ▁on ▁edifices ▁- es ▁ r o o m	-45.374519
+the contours approv	▁ the ▁contours ▁a p p r o v	-20.04941
+electrons on restaurant crown at citizen -es schedule a	▁electrons ▁on ▁restaurant ▁ c r o w n ▁a t ▁citizen ▁- es ▁schedule ▁a	-53.470158000000005
+standard voices -s want	▁ s t an d a r d ▁ v o i c es ▁- s ▁ w an t	-51.713840999999995
+particles -ed cross	▁particles ▁- ed ▁cross	-17.260891
+prettier merchandise -ed roughened an	▁ p re t t i e r ▁merchandise ▁- ed ▁ r o u g h e n ed ▁an	-54.822546
+likable office -s splashed on	▁ l i k able ▁office ▁- s ▁ s p l a s h ed ▁on	-38.136145
+cycle inhaled acquisition refrigerators -es curdle the seasons at	▁cycle ▁in h al ed ▁acquisition ▁refrigerators ▁- es ▁curdle ▁ the ▁seasons ▁a t	-59.46231800000001
+butter flash -ed aver	▁butter ▁ f l a s h ▁- ed ▁a v e r	-28.914088
+geologist on classes -es rests at	▁geologist ▁on ▁classes ▁- es ▁ r es t s ▁a t	-39.70315599999999
+vulnerable intelligibility requested the improvements -es towering asian fears accelerating prevenient stonework giggl	▁ v u l n e r able ▁intelligibility ▁requested ▁ the ▁improvements ▁- es ▁ t o w e r ing ▁a s i an ▁fears ▁accelerating ▁ p re v e n i e n t ▁stonework ▁ g i g g l	-128.981964
+loopy opportunities -ed	▁ l o o p y ▁opportunities ▁- ed	-26.127938
+editorial summit sporting lousy heels -s work	▁ ed i t o r i al ▁summit ▁sporting ▁ l o u s y ▁heels ▁- s ▁ w o r k	-62.820346
+looking earthquake at continent -ed re-evaluate an paths on intelligibility malfunction improvements	▁ l o o k ing ▁earthquake ▁a t ▁continent ▁- ed ▁ re - evaluate ▁an ▁paths ▁on ▁intelligibility ▁malfunction ▁improvements	-80.24310200000001
+compounds -es chomp	▁compounds ▁- es ▁ c h o m p	-23.289043999999993
+the tarpaulin persuad	▁ the ▁tarpaulin ▁ p e r s u a d	-25.934406
+hackers rectif	▁hackers ▁ re c t i f	-18.138256999999996
+impression listing grassy citizen -s untied	▁impression ▁listing ▁ g r a s s y ▁citizen ▁- s ▁un t i ed	-60.076301999999984
+marginal institutions	▁ m a r g i n al ▁institutions	-31.792238
+the contracts -s appear speech reign dishonest	▁ the ▁contracts ▁- s ▁appear ▁speech ▁reign ▁dis h o n es t	-63.771108000000005
+an representations -es vibrat	▁an ▁representations ▁- es ▁ v i b r a t	-19.393305999999995
+an predators on tails -ed negates a fullness -s joining the	▁an ▁predators ▁on ▁tails ▁- ed ▁negates ▁a ▁fullness ▁- s ▁ j o i n ing ▁ the	-56.176407
+a denomination -ed protected	▁a ▁denomination ▁- ed ▁pro t e c t ed	-27.333792000000003
+a coins -s plays paranormal worlds attributed elegant pilgrims in architecture in speech tragedy -es bobbing ideal buddies -es intend	▁a ▁coins ▁- s ▁ p l a y s ▁ p a r an o r m al ▁worlds ▁a t t r i b u t ed ▁ e l e g an t ▁pilgrims ▁in ▁architecture ▁in ▁speech ▁tragedy ▁- es ▁ b o b b ing ▁ i d e al ▁buddies ▁- es ▁in t e n d	-162.04787299999995
+a defectors mid-1980s -ed	▁a ▁defectors ▁ m i d - 1 9 8 0 s ▁- ed	-26.884251000000003
+a injection -ed impacted chunk in channels -s fatho	▁a ▁injection ▁- ed ▁ i m p a c t ed ▁chunk ▁in ▁channels ▁- s ▁ f a t h o	-63.780768
+a canvas -es report	▁a ▁canvas ▁- es ▁ re p o r t	-23.056649
+alcoholics -ed bobb	▁alcoholics ▁- ed ▁ b o b b	-18.003351000000002
+fears shin	▁fears ▁ s h i n	-20.488244
+the neckhole -ed appear fruity	▁ the ▁neckhole ▁- ed ▁appear ▁ f r u i t y	-38.075662
+fanfics -ed engage channels powers -es monitor	▁fanfics ▁- ed ▁ e n g a g e ▁channels ▁powers ▁- es ▁ m o n i t o r	-55.28811599999999
+canvas -s distracted	▁canvas ▁- s ▁dis t r a c t ed	-31.490416
+the methods records opposite limitations affir	▁ the ▁methods ▁ re c o r d s ▁ o p p o s i t e ▁limitations ▁a f f i r	-60.410022
+optimistic holder -ed breath the fullness	▁ o p t i m i s t i c ▁holder ▁- ed ▁breath ▁ the ▁fullness	-62.124022
+ragamuffin -ed search at	▁ragamuffin ▁- ed ▁ s e a r c h ▁a t	-34.178166
+an intervals -ed stat	▁an ▁intervals ▁- ed ▁ s t a t	-20.340782
+billions -es re-evaluate style -s calculat	▁billions ▁- es ▁ re - evaluate ▁style ▁- s ▁ c al c u l a t	-38.06953900000001
+a baseball monetiz	▁a ▁baseball ▁ m o n e t i z	-26.146535999999994
+coach -ed watered	▁ c o a c h ▁- ed ▁ w a t e r ed	-31.801945000000003
+the influx at masters -ed happen	▁ the ▁in f l u x ▁a t ▁masters ▁- ed ▁ h a p p e n	-38.021518
+sections -s silence a	▁sections ▁- s ▁ s i l e n c e ▁a	-33.358188
+inhalation found methods -s touch	▁inhalation ▁ f o u n d ▁methods ▁- s ▁ t o u c h	-41.606607
+a cupcake operates hints preconditions -s	▁a ▁cupcake ▁ o p e r a t es ▁hints ▁preconditions ▁- s	-49.080805
+an philosopher at connotations -es according in	▁an ▁philosopher ▁a t ▁connotations ▁- es ▁a c c o r d ing ▁in	-42.79777599999999
+a lantern infus	▁a ▁lantern ▁in f u s	-18.934844999999996
+a payment tarred shap	▁a ▁payment ▁ t a r r ed ▁ s h a p	-38.378928
+peremptory disenfranchisement grasp	▁ p e re m p t o r y ▁dis enfranchisement ▁ g r a s p	-44.787921000000004
+the easterners -es abstained an acquisition artist -ed gazed overview on anemone reproduced the	▁ the ▁easterners ▁- es ▁a b s t a i n ed ▁an ▁acquisition ▁artist ▁- ed ▁ g a z ed ▁overview ▁on ▁anemone ▁reproduced ▁ the	-96.409961
+nationwide hospitality frequented mesoamerican tales -ed count	▁ n ation w i d e ▁hospitality ▁frequented ▁ m es o a m e r i c an ▁ t al es ▁- ed ▁ c o u n t	-76.933051
+babinos -es hat	▁babinos ▁- es ▁ h a t	-17.502787
+occasional office plant speech -s flesh	▁occasion al ▁office ▁plant ▁speech ▁- s ▁ f l es h	-46.58766800000001
+seasons -es	▁seasons ▁- es	-15.677623
+a accomplishments measuring an paths atoms haven -es spared explosion -es generaliz	▁a ▁accomplishments ▁measuring ▁an ▁paths ▁a t o m s ▁haven ▁- es ▁ s p a r ed ▁explosion ▁- es ▁gener al i z	-76.193218
+short towns assum	▁ s h o r t ▁ t o w n s ▁a s s u m	-39.269638
+a citizens -s conced	▁a ▁citizen s ▁- s ▁con c ed	-19.714177999999997
+oversite -ed want	▁oversite ▁- ed ▁ w an t	-17.166762
+greenish predators -es lasts vindication maddened an fait	▁ gree n i s h ▁predators ▁- es ▁last s ▁vindication ▁ m a d d e n ed ▁an ▁ f a i t	-66.44444899999998
+the ornaments impression -ed	▁ the ▁ornaments ▁impression ▁- ed	-26.151139
+a emblem -es assign on	▁a ▁emblem ▁- es ▁assign ▁on	-29.148014
+baleful textbook -es controls unreliable marketing reli	▁ b al e f u l ▁textbook ▁- es ▁con t r o l s ▁un re l i able ▁marketing ▁ re l i	-65.93485699999998
+restaurant -ed smash the magazines -s dispose coach mean	▁restaurant ▁- ed ▁ s m a s h ▁ the ▁magazines ▁- s ▁dis pose ▁ c o a c h ▁ m e an	-58.294143000000005
+the sisal -ed enable ninth differences	▁ the ▁sisal ▁- ed ▁ e n able ▁ n i n t h ▁differences	-46.886356
+the opportunities resis	▁ the ▁opportunities ▁ r es i s	-16.576378
+the breakers seiz	▁ the ▁breakers ▁ s e i z	-21.963497
+attackers hypnotize the governance -s swabs conjectures at	▁attackers ▁hypnotize ▁ the ▁governance ▁- s ▁ s w a b s ▁conjectures ▁a t	-50.71355700000001
+considerations appear thing	▁considerat ions ▁appear ▁ t h ing	-27.043018000000004
+an festoons buy	▁an ▁festoons ▁ b u y	-20.887804000000003
+prettier neologism nibbl	▁ p re t t i e r ▁neologism ▁ n i b b l	-45.77978
+an depots -s screw	▁an ▁depots ▁- s ▁ s c re w	-21.226132
+the summit -s feast at desert	▁ the ▁summit ▁- s ▁ f e a s t ▁a t ▁desert	-32.501206
+rosters -es revisi	▁rosters ▁- es ▁ re v i s i	-25.125124
+the saponins -es encourag	▁ the ▁saponins ▁- es ▁ e n c o u r a g	-24.781371999999998
+an cycle surviving an influx in interestingness -es	▁an ▁cycle ▁ s u r v i v ing ▁an ▁in f l u x ▁in ▁interestingness ▁- es	-55.570906
+album -es floated weathered warping smash the	▁ al b u m ▁- es ▁ f l o a t ed ▁ w e a the r ed ▁warping ▁ s m a s h ▁ the	-63.141759
+lovely channels -es	▁ l o v e l y ▁channels ▁- es	-27.708634000000004
+buses at restraint remain	▁buses ▁a t ▁restraint ▁ re m a i n	-40.09106
+the compounds splashed	▁ the ▁compounds ▁ s p l a s h ed	-33.539443
+an spite swallo	▁an ▁spite ▁ s w al l o	-22.133706000000004
+venality -ed dispute restaurant prompt	▁venality ▁- ed ▁dis p u t e ▁restaurant ▁pro m p t	-40.01534100000001
+gardens contracts -s indulged in movi	▁gardens ▁contracts ▁- s ▁in d u l g ed ▁in ▁ m o v i	-43.379627
+fault -s generating	▁ f a u l t ▁- s ▁gener a t ing	-32.331573000000006
+dividends uncle enjoy enjambment -s en	▁dividends ▁un c l e ▁enjoy ▁enjambment ▁- s ▁ e n	-45.907785000000004
+perlite cry	▁perlite ▁ c r y	-19.302667000000003
+an dividends on recognition channelled a farriers -s produces french	▁an ▁dividends ▁on ▁recognition ▁ c h an n e l l ed ▁a ▁farriers ▁- s ▁pro d u c es ▁ f re n c h	-74.806146
+appearance oppose	▁appearance ▁ o p pose	-26.840618000000003
+tails -ed frequented a crossroads -es affir	▁tails ▁- ed ▁frequented ▁a ▁crossroads ▁- es ▁a f f i r	-36.412375000000004
+recognition on biologist on buses palpitat	▁recognition ▁on ▁biologist ▁on ▁buses ▁ p al p i t a t	-46.675385000000006
+fruity ballet -es	▁ f r u i t y ▁ballet ▁- es	-31.529413999999996
+a reform underpinning an collaboration on coins ignited	▁a ▁reform ▁underpinning ▁an ▁collaboration ▁on ▁coins ▁ i g n i t ed	-59.12037600000001
+the deserts -es selected at	▁ the ▁desert s ▁- es ▁ s e l e c t ed ▁a t	-32.981914
+the frontline deteriorat	▁ the ▁frontline ▁ d e t e r i o r a t	-28.117003
+beaches qualities -ed listing the lakefront -ed moan	▁beach es ▁qualities ▁- ed ▁listing ▁ the ▁lakefront ▁- ed ▁ m o an	-48.52980399999999
+the neckhole -es submitted	▁ the ▁neckhole ▁- es ▁ s u b m i t t ed	-35.879399
+waves -s owing prototypes sections on album asbestos -s tackl	▁ w a v es ▁- s ▁ o w ing ▁prototypes ▁sections ▁on ▁ al b u m ▁asbestos ▁- s ▁ t a c k l	-72.87004900000001
+sculptures in cousins intend	▁sculptures ▁in ▁cousins ▁in t e n d	-26.852327
+the pattern -s hik	▁ the ▁pattern ▁- s ▁ h i k	-17.130852
+an pepper introduc	▁an ▁pepper ▁in t r o d u c	-20.881911000000002
+vulnerable skydivers -es allud	▁ v u l n e r able ▁skydivers ▁- es ▁ al l u d	-37.162454999999994
+biologist -ed flunk	▁biologist ▁- ed ▁ f l u n k	-18.531808999999996
+a channels deni	▁a ▁channels ▁ d e n i	-19.227349
+the prototypes vibrated uncontroversial anemone -es sporting respective arbitrariness capacity -es drained an successor -ed unti	▁ the ▁prototypes ▁ v i b r a t ed ▁uncontro v e r s i al ▁anemone ▁- es ▁sporting ▁ r es p e c t i v e ▁arbitrariness ▁capacity ▁- es ▁drained ▁an ▁success o r ▁- ed ▁un t i	-105.35264600000001
+the cousins -s	▁ the ▁cousins ▁- s	-16.234175
+torsional hours award	▁ t o r s i o n al ▁hours ▁a w a r d	-31.893190000000004
+greenish tales -s seiz	▁ gree n i s h ▁ t al es ▁- s ▁ s e i z	-37.929083000000006
+the qualities onions in landings vindication undermin	▁ the ▁qualities ▁on ions ▁in ▁landings ▁vindication ▁un d e r m i n	-47.47024400000001
+costumes -s navigating at	▁costumes ▁- s ▁ n a v i g a t ing ▁a t	-38.67041100000001
+spite -es	▁spite ▁- es	-15.548233000000002
+the sinuses crawl	▁ the ▁sinuses ▁ c r a w l	-17.686811000000002
+an bourbon jolts connotations -s focus	▁an ▁bourbon ▁ j o l t s ▁connotations ▁- s ▁ f o c u s	-40.67472
+a discourse cry	▁a ▁discourse ▁ c r y	-21.842011
+citations -es putting	▁citations ▁- es ▁ p u t t ing	-29.671170000000004
+methods chang	▁methods ▁ c h an g	-16.927686
+a particles -es begins a clot	▁a ▁particles ▁- es ▁ b e g i n s ▁a ▁ c l o t	-41.791399
+society -es curdle a countries award	▁society ▁- es ▁curdle ▁a ▁countries ▁a w a r d	-32.464217
+creases gro	▁creases ▁ g r o	-18.556078
+a policing summed holiest locals in glyphs -s dread	▁a ▁policing ▁ s u m m ed ▁ h o l i es t ▁ l o c al s ▁in ▁glyphs ▁- s ▁ d re a d	-68.96171600000001
+gorgeous considerations dreaded an pixie -es attempted explosion kinematics -ed gazed	▁ g o r g e o u s ▁considerat ions ▁ d re a d ed ▁an ▁pixie ▁- es ▁attempted ▁explosion ▁kinematics ▁- ed ▁ g a z ed	-94.32288899999999
+a boundaries monitoring grandmother hostel activated a ambassadors -s succeed	▁a ▁boundaries ▁ m o n i t o r ing ▁grandmother ▁hostel ▁activated ▁a ▁ambassadors ▁- s ▁ s u c c e ed	-78.33548499999998
+a singer -ed bustling pilgrims -ed consuming a e-	▁a ▁singer ▁- ed ▁ b u s t l ing ▁pilgrims ▁- ed ▁con s u m ing ▁a ▁ e -	-49.906600000000005
+pictures -es putting an beaches wrapping midwife refrigerators in reform -ed	▁pictures ▁- es ▁ p u t t ing ▁an ▁beach es ▁ w r a p p ing ▁midwife ▁refrigerators ▁in ▁reform ▁- ed	-79.51388299999999
+mesoamerican pools bas	▁ m es o a m e r i c an ▁pools ▁ b a s	-41.348721
+an stipulation channell	▁an ▁stipulation ▁ c h an n e l l	-23.269132000000003
+a mathematicians tackling in	▁a ▁mathematicians ▁ t a c k l ing ▁in	-28.794963
+maiden operat	▁maiden ▁ o p e r a t	-20.743108000000003
+midwife -es dismantl	▁midwife ▁- es ▁dis m an t l	-23.562569999999997
+the speech -es congratulated	▁ the ▁speech ▁- es ▁congratulate d	-25.54203
+outlandish uncle timed at dis	▁ o u t l an d i s h ▁un c l e ▁ t i m ed ▁a t ▁dis	-58.006037000000006
+the sinuses stood a	▁ the ▁sinuses ▁ s t o o d ▁a	-32.328828
+an monarch mimi	▁an ▁monarch ▁ m i m i	-23.138238
+a symptom -ed describes on	▁a ▁symptom ▁- ed ▁describe s ▁on	-29.502667
+the antiques on fanfics -s surviving a movi	▁ the ▁antiques ▁on ▁fanfics ▁- s ▁ s u r v i v ing ▁a ▁ m o v i	-50.554659000000015
+the comp. -s permitt	▁ the ▁comp . ▁- s ▁ p e r m i t t	-24.990791000000005
+a admin centerpiece fad	▁a ▁admin ▁centerpiece ▁ f a d	-29.929846
+a injustice -s handles nights gro	▁a ▁injustice ▁- s ▁handle s ▁nights ▁ g r o	-42.427066999999994
+a responses -s requested ethnocentric ballo	▁a ▁responses ▁- s ▁requested ▁ e t h n o c e n t r i c ▁ b al l o	-63.591337
+a county liberated an arbitrariness -es dropp	▁a ▁county ▁liberated ▁an ▁arbitrariness ▁- es ▁ d r o p p	-41.962208
+mesoamerican buses poems tragedy barbequ	▁ m es o a m e r i c an ▁buses ▁poems ▁tragedy ▁ b a r b e q u	-62.910522
+an learners -es turning the displacements placate an compass annoyed an albu	▁an ▁learners ▁- es ▁ t u r n ing ▁ the ▁displacements ▁placate ▁an ▁compass ▁an n o y ed ▁an ▁ al b u	-72.12013499999999
+the parole -s smash hardest successor	▁ the ▁parole ▁- s ▁ s m a s h ▁ h a r d es t ▁success o r	-45.590506
+wavenumber remain	▁wavenumber ▁ re m a i n	-25.275477000000002
+pixie wanted grained	▁pixie ▁ w an t ed ▁ g r a i n ed	-38.375308999999994
+the comp. at model -es design breakers -s raid	▁ the ▁comp . ▁a t ▁model ▁- es ▁design ▁breakers ▁- s ▁ r a i d	-51.644196
+a foreigners in waves locking paratexts -s lasted	▁a ▁foreigners ▁in ▁ w a v es ▁ l o c k ing ▁paratexts ▁- s ▁last ed	-53.572587
+an racism translates an hotspots -es requested rosters -ed phrase deserts -s jolts holder checks modifiable enjambment in deserts -ed laughing	▁an ▁ r a c i s m ▁ t r an s l a t es ▁an ▁hotspots ▁- es ▁requested ▁rosters ▁- ed ▁phrase ▁desert s ▁- s ▁ j o l t s ▁holder ▁ c h e c k s ▁ m o d i f i able ▁enjambment ▁in ▁desert s ▁- ed ▁laugh ing	-160.49786899999998
+hormones -s innovate symptom at pathways -s surviv	▁hormones ▁- s ▁innovate ▁symptom ▁a t ▁pathways ▁- s ▁ s u r v i v	-50.92192600000001
+an perils on radio -ed concern a supplies on artist inhal	▁an ▁perils ▁on ▁radio ▁- ed ▁con c e r n ▁a ▁supplies ▁on ▁artist ▁in h al	-62.121160999999994
+torsional intelligibility -es submitted on	▁ t o r s i o n al ▁intelligibility ▁- es ▁ s u b m i t t ed ▁on	-52.274640000000005
+the censuses -es indulg	▁ the ▁censuses ▁- es ▁in d u l g	-23.443055
+hotspots -ed integrat	▁hotspots ▁- ed ▁in t e g r a t	-20.745486000000003
+centres citing the impression -s weeping brief	▁centres ▁ c i t ing ▁ the ▁impression ▁- s ▁ w e e p ing ▁ b r i e f	-68.673264
+temporal cenotaph picking at	▁ t e m p o r al ▁cenotaph ▁ p i c k ing ▁a t	-48.35417399999999
+a cocoa -s recognising	▁a ▁ c o c o a ▁- s ▁ re c o g n i s ing	-40.514548000000005
+e-mail reigned an	▁ e - mail ▁reign ed ▁an	-23.957672000000002
+the longitude attempt	▁ the ▁longitude ▁a t t e m p t	-22.382533000000002
+an islamophobia guarantee	▁an ▁islamophobia ▁guarantee	-14.963175999999999
+a refrigerators -s follow	▁a ▁refrigerators ▁- s ▁ f o l l o w	-21.707197000000004
+the venality -es hesitated	▁ the ▁venality ▁- es ▁ h es i t a t ed	-30.187495
+dynamic representations on demise on powers at policing at wartime on improvements -s popularize the anemone -es compiling at	▁ d y n a m i c ▁representations ▁on ▁demise ▁on ▁powers ▁a t ▁policing ▁a t ▁wartime ▁on ▁improvements ▁- s ▁ p o p u l a r i z e ▁ the ▁anemone ▁- es ▁comp i l ing ▁a t	-127.12527199999997
+a mater assum	▁a ▁ m a t e r ▁a s s u m	-24.535601999999997
+farriers -s plac	▁farriers ▁- s ▁ p l a c	-18.008830999999997
+commanding governance modernity postponed narcotics -ed stood	▁ c o m m an d ing ▁governance ▁modernity ▁postponed ▁narcotics ▁- ed ▁ s t o o d	-66.78851
+a demotion -es chomping in	▁a ▁demotion ▁- es ▁ c h o m p ing ▁in	-32.096301999999994
+the contracts -es occupy a alt.religion.scientology stash in	▁ the ▁contracts ▁- es ▁ o c c u p y ▁a ▁ al t . re ligi o n . scientology ▁ s t a s h ▁in	-56.44328600000001
+an conspiracy -s a	▁an ▁conspiracy ▁- s ▁a	-16.370637000000002
+direct defectors	▁direct ▁defectors	-21.026618
+an office	▁an ▁office	-17.040290000000002
+an distortions assum	▁an ▁distortions ▁a s s u m	-18.78245
+alt.religion.scientology -s hamper alarmed character bartending at	▁ al t . re ligi o n . scientology ▁- s ▁ h a m p e r ▁ al a r m ed ▁character ▁ b a r t e n d ing ▁a t	-71.91237399999999
+pictographs hypnotize conjectures comprised robots at cloth in waves on errors -ed malfunction remote ragamuffin at aqueducts overshadow	▁pictographs ▁hypnotize ▁conjectures ▁comp r i s ed ▁robots ▁a t ▁ c l o t h ▁in ▁ w a v es ▁on ▁errors ▁- ed ▁malfunction ▁ re m o t e ▁ragamuffin ▁a t ▁aqueducts ▁ o v e r s h a d o w	-148.00434099999995
+a sisal -ed popped an	▁a ▁sisal ▁- ed ▁ p o p p ed ▁an	-30.895688999999997
+a ornaments explorers -es wanting pattern -es	▁a ▁ornaments ▁explorers ▁- es ▁ w an t ing ▁pattern ▁- es	-45.587791
+waves	▁ w a v es	-18.042061
+an writers activated habi	▁an ▁writers ▁activated ▁ h a b i	-26.832314000000004
+an bridges embodying censuses -es	▁an ▁bridges ▁embodying ▁censuses ▁- es	-32.103471
+an electrons -ed unfold on	▁an ▁electrons ▁- ed ▁unfold ▁on	-25.469136000000002
+voices -ed hamper an trails -s slammed at	▁ v o i c es ▁- ed ▁ h a m p e r ▁an ▁trails ▁- s ▁ s l a m m ed ▁a t	-62.899927999999996
+carbons summed the injection -s acquiesce an brains -es fathom an longitude drumm	▁carbons ▁ s u m m ed ▁ the ▁injection ▁- s ▁acquiesce ▁an ▁brains ▁- es ▁ f a t h o m ▁an ▁longitude ▁ d r u m m	-90.54199700000004
+awards load	▁awards ▁ l o a d	-18.333076000000002
+the reform adapt	▁ the ▁reform ▁adapt	-25.809766
+hotspots started an spite in	▁hotspots ▁ s t a r t ed ▁an ▁spite ▁in	-40.264905
+an brightness operates narcotics	▁an ▁brightness ▁ o p e r a t es ▁narcotics	-38.723029999999994
+an hostel -s banned the geologist -s stemm	▁an ▁hostel ▁- s ▁ b an n ed ▁ the ▁geologist ▁- s ▁ s t e m m	-42.55952399999999
+harsh geologist perfected a	▁ h a r s h ▁geologist ▁ p e r f e c t ed ▁a	-37.678864
+the supplies -ed	▁ the ▁supplies ▁- ed	-17.450796
+the citizens lasts appearance endange	▁ the ▁citizen s ▁last s ▁appearance ▁ e n d an g e	-37.15931600000001
+molecules reserve an venality -s utter	▁molecules ▁reserve ▁an ▁venality ▁- s ▁ u t t e r	-42.610752000000005
+stonework focus	▁stonework ▁ f o c u s	-20.179974
+an antiques -es renew	▁an ▁antiques ▁- es ▁ re n e w	-19.585973000000003
+the demotion -ed postponed	▁ the ▁demotion ▁- ed ▁postponed	-23.476447999999998
+youngest canvas rides -ed provide commercial jellies assumed chair hamper an atoms -ed hing	▁ y o u n g es t ▁canvas ▁rides ▁- ed ▁pro v i d e ▁commercial ▁jellies ▁a s s u m ed ▁ c h a i r ▁ h a m p e r ▁an ▁a t o m s ▁- ed ▁ h ing	-117.693866
+structural crossroads tucked harsh shrouds urg	▁ s t r u c t u r al ▁crossroads ▁ t u c k ed ▁ h a r s h ▁shrouds ▁ u r g	-66.143737
+the cemetery breathed merchandise in character rooming	▁ the ▁cemetery ▁breath ed ▁merchandise ▁in ▁character ▁ r o o m ing	-53.00959899999999
+concrete reflection occurring	▁con c re t e ▁reflection ▁ o c c u r r ing	-45.132461
+a coach -es approach	▁a ▁ c o a c h ▁- es ▁a p p r o a c h	-43.39605899999999
+foreground payment -s guarantee	▁foreground ▁payment ▁- s ▁guarantee	-24.03354
+acquisition quantify	▁acquisition ▁ q u an t i f y	-20.455031
+the brains -ed employ	▁ the ▁brains ▁- ed ▁ e m p l o y	-26.426938
+flourishing component -ed handle	▁ f l o u r i s h ing ▁component ▁- ed ▁handle	-49.61019300000001
+fateful denomination -es tour	▁ f a t e f u l ▁denomination ▁- es ▁ t o u r	-33.504915
+tales -s teeth	▁ t al es ▁- s ▁ t e e t h	-25.824999000000002
+paranormal weeks -es shelter	▁ p a r an o r m al ▁weeks ▁- es ▁shelter	-35.292546
+peninsula on slides -es translat	▁peninsula ▁on ▁slides ▁- es ▁ t r an s l a t	-33.145666999999996
+peremptory roadway -es select	▁ p e re m p t o r y ▁roadway ▁- es ▁ s e l e c t	-42.75774500000001
+an society at awards renew	▁an ▁society ▁a t ▁awards ▁ re n e w	-28.418886999999998
+great demotion -s compil	▁ g re a t ▁demotion ▁- s ▁comp i l	-34.292956
+shitty style -s sourcing the	▁ s h i t t y ▁style ▁- s ▁sourcing ▁ the	-40.115526
+an ballet fuels -ed blow	▁an ▁ballet ▁fuels ▁- ed ▁ b l o w	-27.819361
+visual marketing remaining flas	▁ v i s u al ▁marketing ▁ re m a i n ing ▁ f l a s	-47.216166
+an distortions vibrating tenure at architecture -s re-evaluate the	▁an ▁distortions ▁ v i b r a t ing ▁tenure ▁a t ▁architecture ▁- s ▁ re - evaluate ▁ the	-56.867290999999994
+slipstream -es swelling accomplishments avoi	▁slipstream ▁- es ▁ s w e l l ing ▁accomplishments ▁a v o i	-44.51320199999999
+continents on contours in offices -s containing lasting	▁continent s ▁on ▁contours ▁in ▁office s ▁- s ▁con t a i n ing ▁last ing	-56.589870000000005
+piece -es bobbing downtown prototypes hated hospitality -ed practis	▁piece ▁- es ▁ b o b b ing ▁ d o w n t o w n ▁prototypes ▁ h a t ed ▁hospitality ▁- ed ▁ p r a c t i s	-86.470722
+hints in earthquake inflat	▁hints ▁in ▁earthquake ▁in f l a t	-26.732109
+lasting differences dreaded flats -es annoy	▁last ing ▁differences ▁ d re a d ed ▁ f l a t s ▁- es ▁an n o y	-51.27648099999999
+a geologists assum	▁a ▁geologist s ▁a s s u m	-18.8558
+the stipulation -es last	▁ the ▁stipulation ▁- es ▁last	-16.248158
+influential union -es reciprocate	▁in f l u e n t i al ▁union ▁- es ▁ re c i p r o c a t e	-54.015893000000005
+films concer	▁films ▁con c e r	-18.491582
+ballet oppose on	▁ballet ▁ o p pose ▁on	-29.442830999999998
+the guardians swabs isolated coco	▁ the ▁guardians ▁ s w a b s ▁ i s o l a t ed ▁ c o c o	-50.90672199999999
+the destinations -ed frame incandescent fears at puppets -es lock	▁ the ▁destinations ▁- ed ▁ f r a m e ▁in c an d es c e n t ▁fears ▁a t ▁puppets ▁- es ▁ l o c k	-73.76505099999997
+hotspots describe	▁hotspots ▁describe	-15.400317
+a baseball gleam	▁a ▁baseball ▁ g l e a m	-22.582516000000002
+asian weeks -s agreeing an fullness symboliz	▁a s i an ▁weeks ▁- s ▁a gree ing ▁an ▁fullness ▁ s y m b o l i z	-57.69586200000001
+the minorities -es deposit	▁ the ▁minorities ▁- es ▁ d e p o s i t	-24.57009
+an teaspoons -s agreeing a depictions recommend subsequent lofts -s	▁an ▁teaspoons ▁- s ▁a gree ing ▁a ▁depictions ▁ re c o m m e n d ▁ s u b s e q u e n t ▁ l o f t s ▁- s	-78.43254199999997
+lasting lantern liberated an unknowns -s figured in	▁last ing ▁lantern ▁liberated ▁an ▁unknowns ▁- s ▁ f i g u r ed ▁in	-66.00038900000001
+airborne biologist -ed plated a neighbors happened populous methods cupcake at alt.religion.scientology -ed host	▁a i r b o r n e ▁biologist ▁- ed ▁ p l a t ed ▁a ▁neighbors ▁ h a p p e n ed ▁ p o p u l o u s ▁methods ▁cupcake ▁a t ▁ al t . re ligi o n . scientology ▁- ed ▁ h o s t	-122.79987600000001
+an emblem -ed describes at	▁an ▁emblem ▁- ed ▁describe s ▁a t	-30.814151000000003
+an desert -ed demanded a molecules congratulate union -ed constru	▁an ▁desert ▁- ed ▁ d e m an d ed ▁a ▁molecules ▁congratulate ▁union ▁- ed ▁con s t r u	-55.453086
+tourist solved	▁tourist ▁ s o l v ed	-25.461887
+a cultures recommen	▁a ▁cultures ▁ re c o m m e n	-24.353928000000003
+an conspiracy -es recognizing paratexts play	▁an ▁conspiracy ▁- es ▁recognizing ▁paratexts ▁ p l a y	-31.034481
+compass -es exceeded a stink spelling reproduction ensuing	▁compass ▁- es ▁ e x c e ed ed ▁a ▁stink ▁ s p e l l ing ▁reproduction ▁ e n s u ing	-76.37579199999999
+the games explain	▁ the ▁games ▁ e x p l a i n	-21.030932
+conscious colleges -es	▁con s c i o u s ▁colleges ▁- es	-32.473495
+looking listings departure operat	▁ l o o k ing ▁listing s ▁departure ▁ o p e r a t	-41.642612
+noggins -ed reverse demotion -ed hated waist replicat	▁noggins ▁- ed ▁ re v e r s e ▁demotion ▁- ed ▁ h a t ed ▁waist ▁ re p l i c a t	-64.685745
+unreliable jurisdictions leap	▁un re l i able ▁jurisdictions ▁ l e a p	-33.511376
+an anemone -s spared the distortions -ed sha	▁an ▁anemone ▁- s ▁ s p a r ed ▁ the ▁distortions ▁- ed ▁ s h a	-41.123279000000004
+the calendar -ed lesse	▁ the ▁calendar ▁- ed ▁ l es s e	-23.14771
+a canvas -s sympathize the holder moaned aquatic mixer -s directing	▁a ▁canvas ▁- s ▁ s y m p a t h i z e ▁ the ▁holder ▁ m o an ed ▁a q u a t i c ▁mixer ▁- s ▁direct ing	-75.74483900000001
+the chutes on lifetimes -ed rejected on	▁ the ▁ c h u t es ▁on ▁lifetimes ▁- ed ▁ re j e c t ed ▁on	-42.00983900000001
+frontline -ed compa	▁frontline ▁- ed ▁comp a	-19.684265999999997
+the merchandise singer -s tim	▁ the ▁merchandise ▁singer ▁- s ▁ t i m	-30.732238000000006
+the qualities bloom	▁ the ▁qualities ▁ b l o o m	-21.215434999999996
+superficial readings -es plac	▁ s u p e r f i c i al ▁readings ▁- es ▁ p l a c	-44.487785
+scattered errors in explorers -ed vibrat	▁ s c a t t e r ed ▁errors ▁in ▁explorers ▁- ed ▁ v i b r a t	-52.806622
+unstable tourist phrase tenure realizing	▁un s t able ▁tourist ▁phrase ▁tenure ▁ re al i z ing	-50.006944
+separate claws -es	▁ s e p a r a t e ▁claws ▁- es	-33.448274
+trails -s succeed	▁trails ▁- s ▁ s u c c e ed	-27.589878999999996
+loopy mater -s allocated	▁ l o o p y ▁ m a t e r ▁- s ▁allocated	-40.65537
+an co-founder protected the	▁an ▁ c o - founder ▁pro t e c t ed ▁ the	-30.327071
+an conclusions -s	▁an ▁conclusions ▁- s	-16.933704000000002
+the guardians rests in	▁ the ▁guardians ▁ r es t s ▁in	-27.680995000000003
+a lifetimes disorders -ed count	▁a ▁lifetimes ▁disorders ▁- ed ▁ c o u n t	-28.267193999999996
+crown -ed	▁ c r o w n ▁- ed	-19.607259000000003
+centerpiece contours smack	▁centerpiece ▁contours ▁ s m a c k	-31.178067000000006
+prototypes -ed containing websites -s reparcell	▁prototypes ▁- ed ▁con t a i n ing ▁websites ▁- s ▁ re p a r c e l l	-47.42857800000001
+recipe distracted	▁recipe ▁dis t r a c t ed	-30.602961999999998
+the optogenetics on pathways faith -ed	▁ the ▁optogenetics ▁on ▁pathways ▁ f a i t h ▁- ed	-37.667554
+an municipalities -ed reduced the ballet -s rises round slides discourse predict likable hurdles -ed view	▁an ▁municipalities ▁- ed ▁ r ed u c ed ▁ the ▁ballet ▁- s ▁ r i s es ▁ r o u n d ▁slides ▁discourse ▁ p r ed i c t ▁ l i k able ▁hurdles ▁- ed ▁ v i e w	-133.04214599999997
+landings deposit	▁landings ▁ d e p o s i t	-24.306305000000002
+neologism -s drumm	▁neologism ▁- s ▁ d r u m m	-25.553715999999998
+the brightness -ed popp	▁ the ▁brightness ▁- ed ▁ p o p p	-19.925412000000005
+weird venality -s simulating acting vindication chut	▁ w e i r d ▁venality ▁- s ▁simulating ▁a c t ing ▁vindication ▁ c h u t	-56.25085400000001
+a sections -s ending the	▁a ▁sections ▁- s ▁ e n d ing ▁ the	-25.932157
+habit -es surviving listings inhaling objections towering album at anim	▁ h a b i t ▁- es ▁ s u r v i v ing ▁listing s ▁in h al ing ▁objections ▁ t o w e r ing ▁ al b u m ▁a t ▁an i m	-94.35493100000001
+vulnerable shortage -ed behave	▁ v u l n e r able ▁shortage ▁- ed ▁behave	-39.117118999999995
+pilgrims -es frequented the ragamuffin	▁pilgrims ▁- es ▁frequented ▁ the ▁ragamuffin	-30.604548
+a lantern -s activated the intelligibility recognizing cycle listing the calculus recognising a county surround	▁a ▁lantern ▁- s ▁activated ▁ the ▁intelligibility ▁recognizing ▁cycle ▁listing ▁ the ▁calculus ▁ re c o g n i s ing ▁a ▁county ▁ s u r r o u n d	-106.70502400000001
+a shrouds -ed illuminated at	▁a ▁shrouds ▁- ed ▁ i l l u m i n a t ed ▁a t	-48.411075000000004
+strategic dividends smacking an creases	▁ s t r a t e g i c ▁dividends ▁ s m a c k ing ▁an ▁creases	-57.279988
+channels -es floated	▁channels ▁- es ▁ f l o a t ed	-27.722272
+standard glyphs -ed reign	▁ s t an d a r d ▁glyphs ▁- ed ▁reign	-42.60404700000001
+scattered chutes -s resis	▁ s c a t t e r ed ▁ c h u t es ▁- s ▁ r es i s	-41.69180600000002
+unreliable ragamuffin plated capsules cultures estimated german guardians provocation	▁un re l i able ▁ragamuffin ▁ p l a t ed ▁capsules ▁cultures ▁estimated ▁ g e r m an ▁guardians ▁provocation	-94.11721299999999
+unsuccessful dryer -ed	▁un s u c c es s f u l ▁dryer ▁- ed	-31.838227
+a hostel -es integrat	▁a ▁hostel ▁- es ▁in t e g r a t	-19.940585000000002
+a tarpaulin -ed displaced an heels barbeque the pattern -es handles an asbestos at behaviors counts transformational	▁a ▁tarpaulin ▁- ed ▁dis p l a c ed ▁an ▁heels ▁ b a r b e q u e ▁ the ▁pattern ▁- es ▁handle s ▁an ▁asbestos ▁a t ▁behaviors ▁ c o u n t s ▁ t r an s f o r m ation al	-110.89247899999997
+the contracts -es sourcing racis	▁ the ▁contracts ▁- es ▁sourcing ▁ r a c i s	-27.959717999999995
+an distortions -es endange	▁an ▁distortions ▁- es ▁ e n d an g e	-20.596899000000004
+continents oozed a glyphs adapts predators -es flesh	▁continent s ▁ o o z ed ▁a ▁glyphs ▁adapt s ▁predators ▁- es ▁ f l es h	-59.4964
+qualities -es travel secularist slamm	▁qualities ▁- es ▁ t r a v e l ▁secularist ▁ s l a m m	-48.554545
+an conjectures -es circled on	▁an ▁conjectures ▁- es ▁ c i r c l ed ▁on	-37.852653999999994
+an enjambment -s	▁an ▁enjambment ▁- s	-17.741218000000003
+a wartime at wavenumber at reader streamlin	▁a ▁wartime ▁a t ▁wavenumber ▁a t ▁reader ▁ s t re a m l i n	-44.789442000000015
+the capacity -s composed	▁ the ▁capacity ▁- s ▁comp o s ed	-29.230643000000004
+pattern -es requi	▁pattern ▁- es ▁ re q u i	-18.937051
+slides overview circled shap	▁slides ▁overview ▁ c i r c l ed ▁ s h a p	-48.030011
+authentic errors -es taxi	▁a u the n t i c ▁errors ▁- es ▁ t a x i	-32.838303
+bicycling on butter	▁bicycling ▁on ▁butter	-23.893636
+restraint -es engag	▁restraint ▁- es ▁ e n g a g	-19.77756
+a collaborations -s	▁a ▁collaboration s ▁- s	-17.330705000000002
+contours	▁contours	-15.282253
+artist farmer at preconditions utters non-personal monarch malfunction campaign	▁artist ▁farmer ▁a t ▁preconditions ▁ u t t e r s ▁ n o n - p e r s o n al ▁monarch ▁malfunction ▁campaign	-90.309669
+the piece vibrating the carbons gator depress	▁ the ▁piece ▁ v i b r a t ing ▁ the ▁carbons ▁gator ▁ d e p r es s	-57.777280999999995
+a explosion abstained an	▁a ▁explosion ▁a b s t a i n ed ▁an	-29.934448000000003
+symptomatic maiden overslept	▁symptom a t i c ▁maiden ▁overslept	-39.635574000000005
+an learners grasp	▁an ▁learners ▁ g r a s p	-21.808008
+an safeguards disa	▁an ▁safeguard s ▁dis a	-17.187271
+fateful county -es inhaling	▁ f a t e f u l ▁county ▁- es ▁in h al ing	-39.843457
+an learners grasps in	▁an ▁learners ▁ g r a s p s ▁in	-30.711185
+the towns -s alluded pronounced classes -ed asked an wartime -es partying cenotaph at deserts in acquisition palpitating pro-beijing reader in canvas tour	▁ the ▁ t o w n s ▁- s ▁ al l u d ed ▁pro n o u n c ed ▁classes ▁- ed ▁a s k ed ▁an ▁wartime ▁- es ▁ p a r t y ing ▁cenotaph ▁a t ▁desert s ▁in ▁acquisition ▁ p al p i t a t ing ▁pro - b e i j ing ▁reader ▁in ▁canvas ▁ t o u r	-174.617047
+multicultural coins co-own	▁ m u l t i c u l t u r al ▁coins ▁ c o - o w n	-48.666404
+effort -s	▁effort ▁- s	-15.783232
+the expropriation -ed involves weird	▁ the ▁expropriation ▁- ed ▁in v o l v es ▁ w e i r d	-44.12058
+ballet in rescue neckhole reacted at	▁ballet ▁in ▁rescue ▁neckhole ▁ re a c t ed ▁a t	-50.485891
+an venality contours worlds detour	▁an ▁venality ▁contours ▁worlds ▁ d e t o u r	-42.312147
+policing reclaim	▁policing ▁ re c l a i m	-24.671727
+the calendar mater -ed intimidating in	▁ the ▁calendar ▁ m a t e r ▁- ed ▁in t i m i d a t ing ▁in	-47.444848
+the cloth -ed represents on	▁ the ▁ c l o t h ▁- ed ▁ re p r es e n t s ▁on	-34.75592800000001
+an society -ed establishes	▁an ▁society ▁- ed ▁establishes	-24.369002000000002
+an vessel -es guid	▁an ▁ v es s e l ▁- es ▁ g u i d	-32.503781999999994
+ideal farmer follow	▁ i d e al ▁farmer ▁ f o l l o w	-34.463005
+vulnerable limitations -ed monitoring a explorers subscrib	▁ v u l n e r able ▁limitations ▁- ed ▁ m o n i t o r ing ▁a ▁explorers ▁ s u b s c r i b	-72.29592200000002
+the shape -s room	▁ the ▁ s h a p e ▁- s ▁ r o o m	-27.810816000000003
+an nerves voices -ed controls	▁an ▁nerves ▁ v o i c es ▁- ed ▁con t r o l s	-39.82345400000001
+unsettling easterners ordered short restaurant abstained interestingness on	▁un s e t t l ing ▁easterners ▁ o r d e r ed ▁ s h o r t ▁restaurant ▁a b s t a i n ed ▁interestingness ▁on	-89.802591
+stink -ed reduced pools -ed intersect	▁stink ▁- ed ▁ r ed u c ed ▁pools ▁- ed ▁intersect	-50.27047700000001
+an gentleman -s adopting	▁an ▁gentleman ▁- s ▁a d o p t ing	-31.831311999999997
+an optogenetics -es aided a ballot -es circled on	▁an ▁optogenetics ▁- es ▁a i d ed ▁a ▁ b al l o t ▁- es ▁ c i r c l ed ▁on	-63.80360700000001
+accomplishments in generations -ed brown	▁accomplishments ▁in ▁generations ▁- ed ▁ b r o w n	-29.584603999999995
+destinations -ed owing an creases on onions basing crossroads -es engag	▁destinations ▁- ed ▁ o w ing ▁an ▁creases ▁on ▁on ions ▁ b a s ing ▁crossroads ▁- es ▁ e n g a g	-66.073907
+archival boundaries -ed check	▁a r c h i v al ▁boundaries ▁- ed ▁ c h e c k	-46.203391999999994
+a depots -s prov	▁a ▁depots ▁- s ▁pro v	-18.783566000000004
+an masters scoop	▁an ▁masters ▁ s c o o p	-25.662561999999998
+a tarpaulin -es dates a alcoholics -es draping an biologist -ed wag	▁a ▁tarpaulin ▁- es ▁ d a t es ▁a ▁alcoholics ▁- es ▁ d r a p ing ▁an ▁biologist ▁- ed ▁ w a g	-60.07982000000002
+a minorities -es tout	▁a ▁minorities ▁- es ▁ t o u t	-18.874667000000002
+gardens -ed relies at	▁gardens ▁- ed ▁ re l i es ▁a t	-30.763196000000004
+philosophical interventions withhel	▁ p h i l o s o p h i c al ▁interventions ▁ w i t h h e l	-51.425801
+neighbors intervals antiques inhaling	▁neighbors ▁intervals ▁antiques ▁in h al ing	-42.811603000000005
+unsuccessful municipalities -ed screwed recipe wanted multicultural toot	▁un s u c c es s f u l ▁municipalities ▁- ed ▁ s c re w ed ▁recipe ▁ w an t ed ▁ m u l t i c u l t u r al ▁ t o o t	-94.92788799999998
+westerners -es hated the representations in attackers at masters -s print	▁westerners ▁- es ▁ h a t ed ▁ the ▁representations ▁in ▁attackers ▁a t ▁masters ▁- s ▁ p r i n t	-65.15075199999998
+a seeds in cenotaph -ed dissolves on	▁a ▁ s e ed s ▁in ▁cenotaph ▁- ed ▁dis s o l v es ▁on	-49.865755
+the skydivers prefer remote chair at	▁ the ▁skydivers ▁ p re f e r ▁ re m o t e ▁ c h a i r ▁a t	-59.71437399999999
+the demotion -s obsessed great counter -es increas	▁ the ▁demotion ▁- s ▁ o b s es s ed ▁ g re a t ▁counter ▁- es ▁in c re a s	-57.32300299999999
+fears -s evaluate	▁fears ▁- s ▁ evaluate	-16.972857
+a collaborations affir	▁a ▁collaboration s ▁a f f i r	-18.956514000000002
+a taunts at magazines resolving a noggins on tarpaulin favoured at considerat	▁a ▁taunts ▁a t ▁magazines ▁ r es o l v ing ▁a ▁noggins ▁on ▁tarpaulin ▁ f a v o u r ed ▁a t ▁considerat	-74.910032
+a shelter -ed contemplating the	▁a ▁shelter ▁- ed ▁contemplating ▁ the	-25.767772
+the embarrassment emerge	▁ the ▁embarrassment ▁emerge	-16.166117
+masters los	▁masters ▁ l o s	-19.151165999999996
+dishonest armholes -s promot	▁dis h o n es t ▁armholes ▁- s ▁pro m o t	-36.885553
+decisions -s inhal	▁decisions ▁- s ▁in h al	-17.121835
+stale hurdles -s warp	▁ s t al e ▁hurdles ▁- s ▁ w a r p	-29.007001999999996
+the billions at tourist -es placate a waist on monarch dampen at thing	▁ the ▁billions ▁a t ▁tourist ▁- es ▁placate ▁a ▁waist ▁on ▁monarch ▁ d a m p e n ▁a t ▁ t h ing	-68.752304
+venality -s maddened an knots -es exceeded	▁venality ▁- s ▁ m a d d e n ed ▁an ▁knots ▁- es ▁ e x c e ed ed	-53.032486
+rescue in brains -es protected stores explorers	▁rescue ▁in ▁brains ▁- es ▁pro t e c t ed ▁ s t o r es ▁explorers	-57.36477200000001
+an emergency dis	▁an ▁emergency ▁dis	-15.316409
+alcoholics -ed touches the woodland awards -s streamline a locals -ed hurtle	▁alcoholics ▁- ed ▁ t o u c h es ▁ the ▁woodland ▁awards ▁- s ▁ s t re a m l i n e ▁a ▁ l o c al s ▁- ed ▁hurtle	-79.250621
+a neckhole estimated a desert	▁a ▁neckhole ▁estimated ▁a ▁desert	-28.361248000000003
+the borders -s assumed the fears -s surrounded in	▁ the ▁borders ▁- s ▁a s s u m ed ▁ the ▁fears ▁- s ▁ s u r r o u n d ed ▁in	-62.57402899999999
+architecture -s arrived the policing attempts sinuses conclusions baseball -s offer	▁architecture ▁- s ▁arrived ▁ the ▁policing ▁a t t e m p t s ▁sinuses ▁conclusions ▁baseball ▁- s ▁ o f f e r	-85.715431
+a generations -s intersect	▁a ▁generations ▁- s ▁intersect	-29.242737
+influx -es heating boundaries -s happen	▁in f l u x ▁- es ▁ h e a t ing ▁boundaries ▁- s ▁ h a p p e n	-44.36870799999999
