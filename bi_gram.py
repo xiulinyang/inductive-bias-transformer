@@ -28,4 +28,4 @@ for sent in test_data:
     sent['bigram_prob'] = model_score*math.log(10)
 
 
-pd.DataFrame(test_data).to_csv(f'{sample_split}_sentence_scores/{grammar_name}/{sample_split}.test.tsv')
+pd.DataFrame(test_data).to_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.tsv')
