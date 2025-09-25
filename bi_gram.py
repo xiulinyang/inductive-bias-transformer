@@ -26,7 +26,6 @@ if ngram=='bigram':
                             header=None, names=['sent', 'toks', 'model_prob']).to_dict(orient='records')
 elif ngram=='trigram':
     test_data = pd.read_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.csv', sep=',').to_dict(orient='records')
-pd.DataFrame(test_data).to_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.csv')
 
 model = kenlm.LanguageModel(f'{ngram}/{grammar_name}_{sample_split}_{affix}.arpa')
 for sent in tqdm(test_data):
