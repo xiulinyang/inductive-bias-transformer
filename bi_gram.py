@@ -1,6 +1,7 @@
 import pandas as pd
 import argparse
 import kenlm
+from math import log
 parser = argparse.ArgumentParser()
 parser.add_argument('-g', '--grammar_name', type=str, help='name of the grammar, e.g., grammar_close_then_open')
 parser.add_argument('-s', '--sample_split', type=int, help='0-9')
@@ -20,7 +21,7 @@ test_data = pd.read_csv(f'{sample_split}_sentence_scores/{grammar_name}/{sample_
 for sent in test_data:
     toks = sent['toks']
     model_score = model.score(toks, sos=False, eos=False)
-    sent['bigram_prob'] = model_score
+    sent['bigram_prob'] = model_score*log(10)
 
 
 pd.DataFrame(test_data).to_csv(f'{sample_split}_sentence_scores/{grammar_name}/{sample_split}.test.tsv')
