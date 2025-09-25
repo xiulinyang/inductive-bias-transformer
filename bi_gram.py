@@ -16,16 +16,16 @@ sample_split = str(args.sample_split)
 grammar_name = args.grammar_name
 
 
-test_data = pd.read_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.txt', sep='\t', header=None,names=['sent', 'toks', 'model_prob']).to_dict(orient='records')
+test_data = pd.read_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.tsv', sep=',', header=None,names=['sent', 'toks', 'model_prob']).to_dict(orient='records')
 # test_data = Path(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.txt').read_text().strip().split('\n')
 # test_data = [{'sent':x.split('\t')[0], 'toks': x.split('\t')[1], 'model_prob': x.split('\t')[2]} for x in test_data]
 # print(test_data)
 
-model = kenlm.LanguageModel(f'bigram/{grammar_name}_{sample_split}.arpa')
+model = kenlm.LanguageModel(f'trigram/{grammar_name}_{sample_split}.arpa')
 for sent in tqdm(test_data):
     toks = sent['toks']
     model_score = model.score(toks, bos=False, eos=False)
-    sent['bigram_prob'] = model_score*math.log(10)
+    sent['trigram_prob'] = model_score*math.log(10)
 
 
-pd.DataFrame(test_data).to_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.tsv')
+pd.DataFrame(test_data).to_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.csv')
