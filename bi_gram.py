@@ -16,7 +16,7 @@ sample_split = str(args.sample_split)
 grammar_name = args.grammar_name
 
 
-test_data = pd.read_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.tsv', sep=',', header=None,names=['sent', 'toks', 'model_prob']).to_dict(orient='records')
+test_data = pd.read_csv(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.tsv', sep=',').to_dict(orient='records')
 # test_data = Path(f'{model_type}_sentence_scores/{grammar_name}/{sample_split}.test.txt').read_text().strip().split('\n')
 # test_data = [{'sent':x.split('\t')[0], 'toks': x.split('\t')[1], 'model_prob': x.split('\t')[2]} for x in test_data]
 # print(test_data)
